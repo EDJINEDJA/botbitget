@@ -71,3 +71,20 @@ USD balance : 0.0 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on SOL/USDT:USDT (float division by zero), skip SOL/USDT:USDT
 --- End Execution Time : 26/07/2023 16:53:14 ---
+--- Start Execution Time : 26/07/2023 17:52:57 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 0.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on APT/USDT:USDT (float division by zero), skip APT/USDT:USDT
+Error on AXS/USDT:USDT (float division by zero), skip AXS/USDT:USDT
+Error on C98/USDT:USDT (float division by zero), skip C98/USDT:USDT
+Error on GMT/USDT:USDT (float division by zero), skip GMT/USDT:USDT
+Error on MANA/USDT:USDT (float division by zero), skip MANA/USDT:USDT
+Error on MASK/USDT:USDT (float division by zero), skip MASK/USDT:USDT
+Error on SAND/USDT:USDT (float division by zero), skip SAND/USDT:USDT
+Error on STG/USDT:USDT (float division by zero), skip STG/USDT:USDT
+--- End Execution Time : 26/07/2023 17:53:20 ---
