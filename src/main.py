@@ -141,9 +141,9 @@ def bot(config):
     )
 
     bitget = PerpBitget(
-        apiKey=os.getenv("apiKey"),
-        secret=os.getenv("secret"),
-        password=os.getenv("password"),
+        apiKey=os.environ["apiKey"],
+        secret=os.environ["secret"],
+        password=os.environ["password"],
     )
 
     df_list = utils.get_data(bitget, timeframe, params_coin)
