@@ -3,7 +3,7 @@ name: run bot script
 on:
   workflow_dispatch
   schedule:
-    - cron: '1 * * * *' # At 01 minute of Every hour
+    - cron: '0 * * * *' # At 01 minute of Every hour
   
 
 jobs:
