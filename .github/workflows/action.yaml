@@ -1,4 +1,4 @@
-name: run main.py
+name: run bot script
 
 on:
   #schedule:
@@ -30,7 +30,7 @@ jobs:
           secret: ${{ secrets.secret }}
           password: ${{ secrets.password }}
 
-        run: python main.py
+        run: make run
           
       - name: commit files
         run: |
