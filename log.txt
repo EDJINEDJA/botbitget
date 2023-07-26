@@ -2,3 +2,13 @@
 --------------------------------------------------PILOT LOG TRADING------------------------------
 -------------------------------------------------------------------------------------------------
 
+--- Start Execution Time : 26/07/2023 19:54:49 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 0.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on SOL/USDT:USDT (float division by zero), skip SOL/USDT:USDT
+--- End Execution Time : 26/07/2023 19:55:18 ---
