@@ -123,3 +123,18 @@ USD balance : 106.36 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 27/07/2023 18:21:33 ---
+--- Start Execution Time : 27/07/2023 19:13:33 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.4 AVAX/USDT at the price of 13.08$ ~5.23$
+Place Open Short Market Order: 1.2 FIL/USDT at the price of 4.347$ ~5.22$
+Place Open Short Market Order: 228.0 GALA/USDT at the price of 0.02324$ ~5.3$
+Place Open Short Market Order: 13.0 MANA/USDT at the price of 0.3822$ ~4.97$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690485243905,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 12.0 SAND/USDT at the price of 0.4222$ ~5.07$
+--- End Execution Time : 27/07/2023 19:14:04 ---
