@@ -87,3 +87,12 @@ USD balance : 106.36 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 27/07/2023 14:16:11 ---
+--- Start Execution Time : 27/07/2023 15:16:53 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 15:17:20 ---
