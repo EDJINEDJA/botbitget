@@ -33,3 +33,12 @@ Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 310000.0 SHIB/USDT at the price of 7.889e-06$ ~2.45$
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690453146662,"data":null}), skip SHIB/USDT:USDT
 --- End Execution Time : 27/07/2023 10:19:06 ---
+--- Start Execution Time : 27/07/2023 11:25:36 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 11:26:02 ---
