@@ -48,3 +48,13 @@ USD balance : 0.0 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 26/07/2023 23:11:36 ---
+--- Start Execution Time : 27/07/2023 01:21:27 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 0.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on SHIB/USDT:USDT (float division by zero), skip SHIB/USDT:USDT
+--- End Execution Time : 27/07/2023 01:21:56 ---
