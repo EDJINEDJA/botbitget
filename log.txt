@@ -224,3 +224,19 @@ USD balance : 106.22 $
 Current VaR rsik 1 period: - 0.19%, LONG exposition 5.13%, SHORT exposition 19.67%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 28/07/2023 05:16:29 ---
+--- Start Execution Time : 28/07/2023 06:22:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.31 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.11%, SHORT exposition 19.55%
+Place Open Short Market Order: 7.0 CRV/USDT at the price of 0.7204$ ~5.04$
+Place Open Short Market Order: 2.0 DYDX/USDT at the price of 2.022$ ~4.04$
+Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350066,"data":null}), skip DYDX/USDT:USDT
+Place Open Short Market Order: 13.0 MANA/USDT at the price of 0.3824$ ~4.97$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350252,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 7.0 MATIC/USDT at the price of 0.7082$ ~4.96$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350401,"data":null}), skip MATIC/USDT:USDT
+--- End Execution Time : 28/07/2023 06:22:30 ---
