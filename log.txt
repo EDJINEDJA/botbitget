@@ -373,3 +373,12 @@ USD balance : 106.17 $
 Place Close Short Market Order: 7.0 CRV/USDT at the price of 0.7288$ ~5.1$
 Current VaR rsik 1 period: - 0.09%, LONG exposition 10.18%, SHORT exposition 9.89%
 --- End Execution Time : 28/07/2023 21:15:02 ---
+--- Start Execution Time : 28/07/2023 22:15:56 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.09 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.11%, SHORT exposition 9.89%
+--- End Execution Time : 28/07/2023 22:16:25 ---
