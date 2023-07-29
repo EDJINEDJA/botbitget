@@ -124,6 +124,7 @@ class PerpBitget:
         def worker(i):
 
             try:
+                time.sleep(0.1)
                 return self._session.fetch_ohlcv(
                     symbol,
                     timeframe,
