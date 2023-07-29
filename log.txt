@@ -418,3 +418,13 @@ USD balance : 106.16 $
 4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 0.09%, LONG exposition 10.22%, SHORT exposition 9.92%
 --- End Execution Time : 29/07/2023 04:20:05 ---
+--- Start Execution Time : 29/07/2023 05:15:18 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.15 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 228.0 GALA/USDT at the price of 0.02374$ ~5.41$
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.22%, SHORT exposition 4.84%
+--- End Execution Time : 29/07/2023 05:15:46 ---
