@@ -538,3 +538,14 @@ Current VaR rsik 1 period: - 0.09%, LONG exposition 10.0%, SHORT exposition 4.83
 Place Open Long Market Order: 2.0 DYDX/USDT at the price of 2.08$ ~4.16$
 Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690654801889,"data":null}), skip DYDX/USDT:USDT
 --- End Execution Time : 29/07/2023 18:20:01 ---
+--- Start Execution Time : 29/07/2023 19:12:44 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.88 $
+3 active positions (['APE/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 1323.0 JASMY/USDT at the price of 0.003946$ ~5.22$
+Current VaR rsik 1 period: - 0.07%, LONG exposition 5.06%, SHORT exposition 4.85%
+Place Open Long Market Order: 65.0 DOGE/USDT at the price of 0.081032$ ~5.27$
+--- End Execution Time : 29/07/2023 19:13:21 ---
