@@ -619,3 +619,15 @@ Current VaR rsik 1 period: - 0.09%, LONG exposition 10.15%, SHORT exposition 4.8
 Place Open Long Market Order: 2.0 DYDX/USDT at the price of 2.094$ ~4.19$
 Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690687052970,"data":null}), skip DYDX/USDT:USDT
 --- End Execution Time : 30/07/2023 03:17:33 ---
+--- Start Execution Time : 30/07/2023 04:19:47 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.99 $
+3 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.13%, SHORT exposition 4.84%
+Place Open Long Market Order: 1.1 FIL/USDT at the price of 4.43$ ~4.87$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690690825405,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 3.4 OP/USDT at the price of 1.5557$ ~5.29$
+--- End Execution Time : 30/07/2023 04:20:25 ---
