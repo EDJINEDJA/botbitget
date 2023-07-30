@@ -640,3 +640,13 @@ USD balance : 106.02 $
 4 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 0.14%, LONG exposition 15.16%, SHORT exposition 4.84%
 --- End Execution Time : 30/07/2023 05:16:12 ---
+--- Start Execution Time : 30/07/2023 06:20:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.1 $
+4 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 2.6 APE/USDT at the price of 1.98$ ~5.15$
+Current VaR rsik 1 period: - 0.17%, LONG exposition 15.24%, SHORT exposition 0%
+--- End Execution Time : 30/07/2023 06:21:15 ---
