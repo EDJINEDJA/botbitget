@@ -780,3 +780,37 @@ USD balance : 105.9 $
 4 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 0.14%, LONG exposition 15.02%, SHORT exposition 4.93%
 --- End Execution Time : 30/07/2023 19:13:22 ---
+--- Start Execution Time : 30/07/2023 20:16:48 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.65 $
+4 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 65.0 DOGE/USDT at the price of 0.07732$ ~5.03$
+Current VaR rsik 1 period: - 0.1%, LONG exposition 9.93%, SHORT exposition 4.81%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 0.764 APT/USDT at the price of 6.912$ ~5.28$
+Place Open Short Market Order: 0.4 AVAX/USDT at the price of 13.012$ ~5.2$
+Place Open Short Market Order: 0.8 AXS/USDT at the price of 5.97$ ~4.78$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690748245815,"data":null}), skip AXS/USDT:USDT
+Place Open Short Market Order: 40.2 C98/USDT at the price of 0.1313$ ~5.28$
+Place Open Short Market Order: 1.0 DOT/USDT at the price of 5.119$ ~5.12$
+Place Open Short Market Order: 2.0 DYDX/USDT at the price of 1.998$ ~4.0$
+Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690748246542,"data":null}), skip DYDX/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 1.2 FIL/USDT at the price of 4.23$ ~5.08$
+Place Open Short Market Order: 22.0 FTM/USDT at the price of 0.2365$ ~5.2$
+Place Open Short Market Order: 231.0 GALA/USDT at the price of 0.02279$ ~5.26$
+Place Open Short Market Order: 48.9 GRT/USDT at the price of 0.10794$ ~5.28$
+Place Open Short Market Order: 24.0 LRC/USDT at the price of 0.2187$ ~5.25$
+Place Open Short Market Order: 451.0 ONE/USDT at the price of 0.01171$ ~5.28$
+Place Open Short Market Order: 12.0 SAND/USDT at the price of 0.4237$ ~5.08$
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+Place Open Short Market Order: 9.0 STG/USDT at the price of 0.5812$ ~5.23$
+Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than minimum amount precision of 0.001), skip YFI/USDT:USDT
+Place Open Short Market Order: 26.7 WOO/USDT at the price of 0.19721$ ~5.27$
+Place Open Short Market Order: 0.1 EGLD/USDT at the price of 31.72$ ~3.17$
+Error on EGLD/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690748248929,"data":null}), skip EGLD/USDT:USDT
+Place Open Short Market Order: 109.0 ROSE/USDT at the price of 0.04836$ ~5.27$
+--- End Execution Time : 30/07/2023 20:17:29 ---
