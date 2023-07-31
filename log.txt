@@ -1013,3 +1013,19 @@ USD balance : 105.08 $
 17 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
 Current VaR rsik 1 period: - 0.72%, LONG exposition 10.53%, SHORT exposition 74.26%
 --- End Execution Time : 31/07/2023 15:19:40 ---
+--- Start Execution Time : 31/07/2023 16:23:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.08 $
+17 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
+Current VaR rsik 1 period: - 0.72%, LONG exposition 10.53%, SHORT exposition 74.26%
+Place Open Short Market Order: 0.8 AXS/USDT at the price of 6.027$ ~4.82$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690820646039,"data":null}), skip AXS/USDT:USDT
+Place Open Short Market Order: 3.0 NEAR/USDT at the price of 1.3785$ ~4.14$
+Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690820646259,"data":null}), skip NEAR/USDT:USDT
+Place Open Short Market Order: 25.9 WOO/USDT at the price of 0.20264$ ~5.25$
+Place Open Short Market Order: 0.1 EGLD/USDT at the price of 31.94$ ~3.19$
+Error on EGLD/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690820646725,"data":null}), skip EGLD/USDT:USDT
+--- End Execution Time : 31/07/2023 16:24:06 ---
