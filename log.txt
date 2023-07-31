@@ -842,3 +842,20 @@ USD balance : 105.13 $
 Current VaR rsik 1 period: - 0.74%, LONG exposition 10.15%, SHORT exposition 75.02%
 Place Open Short Market Order: 13.0 MANA/USDT at the price of 0.3858$ ~5.02$
 --- End Execution Time : 30/07/2023 23:17:11 ---
+--- Start Execution Time : 31/07/2023 01:26:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 104.66 $
+18 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.764 APT/USDT at the price of 7.049$ ~5.39$
+Place Close Short Market Order: 0.4 AVAX/USDT at the price of 13.178$ ~5.27$
+Place Close Short Market Order: 1.0 DOT/USDT at the price of 5.218$ ~5.22$
+Place Close Short Market Order: 13.0 MANA/USDT at the price of 0.3896$ ~5.06$
+Place Close Short Market Order: 451.0 ONE/USDT at the price of 0.01194$ ~5.38$
+Place Close Short Market Order: 12.0 SAND/USDT at the price of 0.4316$ ~5.18$
+Current VaR rsik 1 period: - 0.48%, LONG exposition 10.49%, SHORT exposition 50.8%
+Place Open Long Market Order: 0.02 BNB/USDT at the price of 243.6$ ~4.87$
+Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690766807414,"data":null}), skip BNB/USDT:USDT
+--- End Execution Time : 31/07/2023 01:26:47 ---
