@@ -1071,3 +1071,13 @@ Place Open Short Market Order: 49.0 GMT/USDT at the price of 0.21$ ~10.29$
 Place Open Short Market Order: 0.4 KSM/USDT at the price of 22.73$ ~9.09$
 Place Open Short Market Order: 0.3 EGLD/USDT at the price of 31.83$ ~9.55$
 --- End Execution Time : 31/07/2023 20:18:50 ---
+--- Start Execution Time : 31/07/2023 21:15:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 208.77 $
+22 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.59%, LONG exposition 5.21%, SHORT exposition 57.97%
+Place Open Short Market Order: 0.04 BNB/USDT at the price of 241.33$ ~9.65$
+--- End Execution Time : 31/07/2023 21:16:23 ---
