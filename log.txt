@@ -1273,3 +1273,15 @@ USD balance : 207.23 $
 Place Close Short Market Order: 7.0 NEAR/USDT at the price of 1.401$ ~9.81$
 Current VaR rsik 1 period: - 0.64%, LONG exposition 7.36%, SHORT exposition 64.49%
 --- End Execution Time : 01/08/2023 18:22:00 ---
+--- Start Execution Time : 01/08/2023 19:13:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 207.12 $
+23 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 39.0 C98/USDT at the price of 0.1347$ ~5.25$
+Place Close Short Market Order: 22.0 FTM/USDT at the price of 0.2432$ ~5.35$
+Current VaR rsik 1 period: - 0.58%, LONG exposition 7.39%, SHORT exposition 59.48%
+Place Open Long Market Order: 0.4 KSM/USDT at the price of 23.6$ ~9.44$
+--- End Execution Time : 01/08/2023 19:14:04 ---
