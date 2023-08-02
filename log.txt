@@ -1336,3 +1336,15 @@ Place Close Short Market Order: 48.9 GRT/USDT at the price of 0.11263$ ~5.51$
 Place Close Short Market Order: 25.9 WOO/USDT at the price of 0.20554$ ~5.32$
 Current VaR rsik 1 period: - 0.47%, LONG exposition 12.18%, SHORT exposition 52.73%
 --- End Execution Time : 02/08/2023 01:22:37 ---
+--- Start Execution Time : 02/08/2023 02:28:19 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 206.22 $
+18 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 440.0 ONE/USDT at the price of 0.01187$ ~5.22$
+Place Close Short Market Order: 9.0 STG/USDT at the price of 0.5958$ ~5.36$
+Current VaR rsik 1 period: - 0.41%, LONG exposition 12.15%, SHORT exposition 47.22%
+Place Open Short Market Order: 0.1 AAVE/USDT at the price of 65.567$ ~6.56$
+--- End Execution Time : 02/08/2023 02:28:56 ---
