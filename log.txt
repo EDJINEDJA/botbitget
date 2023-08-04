@@ -1777,3 +1777,13 @@ USD balance : 209.97 $
 23 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.83%, LONG exposition 2.76%, SHORT exposition 84.26%
 --- End Execution Time : 04/08/2023 01:25:41 ---
+--- Start Execution Time : 04/08/2023 02:31:16 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 209.98 $
+23 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.83%, LONG exposition 2.77%, SHORT exposition 84.26%
+Place Open Short Market Order: 460.0 GALA/USDT at the price of 0.02278$ ~10.48$
+--- End Execution Time : 04/08/2023 02:31:54 ---
