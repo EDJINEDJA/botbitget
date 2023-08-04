@@ -1894,3 +1894,15 @@ USD balance : 209.22 $
 Place Close Short Market Order: 79.1 C98/USDT at the price of 0.1365$ ~10.8$
 Current VaR rsik 1 period: - 0.89%, LONG exposition 7.84%, SHORT exposition 94.85%
 --- End Execution Time : 04/08/2023 13:21:02 ---
+--- Start Execution Time : 04/08/2023 14:15:46 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 209.02 $
+26 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.1 AAVE/USDT at the price of 65.839$ ~6.58$
+Place Close Short Market Order: 2.7 APE/USDT at the price of 1.816$ ~4.9$
+Place Close Short Market Order: 24.0 LRC/USDT at the price of 0.2133$ ~5.12$
+Current VaR rsik 1 period: - 0.81%, LONG exposition 7.8%, SHORT exposition 87.05%
+--- End Execution Time : 04/08/2023 14:16:26 ---
