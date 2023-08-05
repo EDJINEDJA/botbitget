@@ -2153,3 +2153,14 @@ USD balance : 212.48 $
 Current VaR rsik 1 period: - 0.74%, LONG exposition 15.61%, SHORT exposition 86.46%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 05/08/2023 16:20:46 ---
+--- Start Execution Time : 05/08/2023 17:13:51 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 212.65 $
+24 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 79.8 C98/USDT at the price of 0.1353$ ~10.8$
+Current VaR rsik 1 period: - 0.68%, LONG exposition 15.61%, SHORT exposition 81.26%
+Place Open Short Market Order: 48.0 LRC/USDT at the price of 0.2093$ ~10.05$
+--- End Execution Time : 05/08/2023 17:14:23 ---
