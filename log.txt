@@ -2164,3 +2164,13 @@ Place Close Short Market Order: 79.8 C98/USDT at the price of 0.1353$ ~10.8$
 Current VaR rsik 1 period: - 0.68%, LONG exposition 15.61%, SHORT exposition 81.26%
 Place Open Short Market Order: 48.0 LRC/USDT at the price of 0.2093$ ~10.05$
 --- End Execution Time : 05/08/2023 17:14:23 ---
+--- Start Execution Time : 05/08/2023 18:19:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 212.4 $
+24 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.04 BNB/USDT at the price of 242.68$ ~9.71$
+Current VaR rsik 1 period: - 0.7%, LONG exposition 15.8%, SHORT exposition 81.78%
+--- End Execution Time : 05/08/2023 18:19:49 ---
