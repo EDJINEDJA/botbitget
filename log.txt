@@ -2242,3 +2242,18 @@ USD balance : 209.92 $
 18 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.53%, LONG exposition 15.93%, SHORT exposition 64.63%
 --- End Execution Time : 06/08/2023 02:25:24 ---
+--- Start Execution Time : 06/08/2023 03:17:00 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 209.98 $
+18 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.4 AVAX/USDT at the price of 12.565$ ~5.03$
+Place Close Short Market Order: 0.3 EGLD/USDT at the price of 31.38$ ~9.41$
+Place Close Short Market Order: 44.0 FTM/USDT at the price of 0.2393$ ~10.53$
+Place Close Short Market Order: 49.0 GMT/USDT at the price of 0.2079$ ~10.19$
+Place Close Short Market Order: 903.0 ONE/USDT at the price of 0.01159$ ~10.47$
+Current VaR rsik 1 period: - 0.32%, LONG exposition 15.88%, SHORT exposition 42.8%
+Place Open Long Market Order: 0.04 BNB/USDT at the price of 244.31$ ~9.77$
+--- End Execution Time : 06/08/2023 03:17:39 ---
