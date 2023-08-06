@@ -2275,3 +2275,14 @@ USD balance : 209.2 $
 14 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.3%, LONG exposition 20.44%, SHORT exposition 43.14%
 --- End Execution Time : 06/08/2023 05:16:12 ---
+--- Start Execution Time : 06/08/2023 06:20:54 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 209.42 $
+14 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 2.0 DOT/USDT at the price of 5.0$ ~10.0$
+Place Close Short Market Order: 2818.0 JASMY/USDT at the price of 0.003772$ ~10.63$
+Current VaR rsik 1 period: - 0.22%, LONG exposition 20.45%, SHORT exposition 33.16%
+--- End Execution Time : 06/08/2023 06:21:31 ---
