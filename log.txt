@@ -2610,3 +2610,16 @@ Place Open Short Market Order: 15.0 MATIC/USDT at the price of 0.6546$ ~9.82$
 Place Open Short Market Order: 26.0 SAND/USDT at the price of 0.394$ ~10.24$
 Place Open Short Market Order: 0.3 EGLD/USDT at the price of 30.51$ ~9.15$
 --- End Execution Time : 07/08/2023 16:22:48 ---
+--- Start Execution Time : 07/08/2023 17:15:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 208.28 $
+18 active positions (['APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 2698.0 JASMY/USDT at the price of 0.003739$ ~10.09$
+Current VaR rsik 1 period: - 0.67%, LONG exposition 5.12%, SHORT exposition 75.77%
+Place Open Short Market Order: 0.8 AVAX/USDT at the price of 12.39$ ~9.91$
+Place Open Short Market Order: 28.0 MANA/USDT at the price of 0.3611$ ~10.11$
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 07/08/2023 17:15:48 ---
