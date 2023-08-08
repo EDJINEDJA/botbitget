@@ -2805,3 +2805,16 @@ Place Close Short Market Order: 2.5 FIL/USDT at the price of 4.108$ ~10.27$
 Current VaR rsik 1 period: - 0.18%, LONG exposition 15.09%, SHORT exposition 30.05%
 Place Open Long Market Order: 0.04 BNB/USDT at the price of 243.66$ ~9.75$
 --- End Execution Time : 08/08/2023 12:34:34 ---
+--- Start Execution Time : 08/08/2023 13:20:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 206.46 $
+10 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Short Market Order: 1.488 APT/USDT at the price of 6.705$ ~9.98$
+Place Close Short Market Order: 45.0 FTM/USDT at the price of 0.236$ ~10.62$
+Place Close Short Market Order: 52.0 GMT/USDT at the price of 0.2054$ ~10.68$
+Place Close Short Market Order: 28.0 MANA/USDT at the price of 0.3714$ ~10.4$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 19.95%, SHORT exposition 10.18%
+--- End Execution Time : 08/08/2023 13:21:01 ---
