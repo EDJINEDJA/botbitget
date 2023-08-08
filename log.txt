@@ -2695,3 +2695,14 @@ Place Close Short Market Order: 53.1 WOO/USDT at the price of 0.18248$ ~9.69$
 Current VaR rsik 1 period: - 0.39%, LONG exposition 15.32%, SHORT exposition 58.21%
 Place Open Long Market Order: 4.0 DYDX/USDT at the price of 2.097$ ~8.39$
 --- End Execution Time : 08/08/2023 01:23:03 ---
+--- Start Execution Time : 08/08/2023 02:31:35 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 206.45 $
+16 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT'])
+Current VaR rsik 1 period: - 0.36%, LONG exposition 19.3%, SHORT exposition 58.19%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 15.0 MATIC/USDT at the price of 0.6645$ ~9.97$
+--- End Execution Time : 08/08/2023 02:32:09 ---
