@@ -3083,3 +3083,12 @@ Current VaR rsik 1 period: - 0.29%, LONG exposition 34.01%, SHORT exposition 5.0
 Place Open Short Market Order: 50.0 GMT/USDT at the price of 0.2036$ ~10.18$
 Place Open Short Market Order: 0.001 YFI/USDT at the price of 6285.0$ ~6.29$
 --- End Execution Time : 09/08/2023 18:23:47 ---
+--- Start Execution Time : 09/08/2023 19:14:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 204.73 $
+10 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 34.09%, SHORT exposition 13.05%
+--- End Execution Time : 09/08/2023 19:15:14 ---
