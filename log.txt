@@ -2967,3 +2967,13 @@ USD balance : 206.89 $
 5 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'JASMY/USDT:USDT'])
 Current VaR rsik 1 period: - 0.17%, LONG exposition 20.01%, SHORT exposition 4.94%
 --- End Execution Time : 09/08/2023 06:23:03 ---
+--- Start Execution Time : 09/08/2023 07:16:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 207.93 $
+5 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'JASMY/USDT:USDT'])
+Current VaR rsik 1 period: - 0.17%, LONG exposition 20.42%, SHORT exposition 4.92%
+Place Open Long Market Order: 1050000.0 SHIB/USDT at the price of 9.824e-06$ ~10.32$
+--- End Execution Time : 09/08/2023 07:16:56 ---
