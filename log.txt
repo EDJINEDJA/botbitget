@@ -3249,3 +3249,14 @@ Place Close Long Market Order: 2621.0 JASMY/USDT at the price of 0.003871$ ~10.1
 Place Close Long Market Order: 14.0 STG/USDT at the price of 0.6252$ ~8.75$
 Current VaR rsik 1 period: - 0.1%, LONG exposition 18.86%, SHORT exposition 20.85%
 --- End Execution Time : 10/08/2023 12:37:24 ---
+--- Start Execution Time : 10/08/2023 13:26:50 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.25 $
+13 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 2.4 FIL/USDT at the price of 4.134$ ~9.92$
+Current VaR rsik 1 period: - 0.09%, LONG exposition 18.86%, SHORT exposition 17.68%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+--- End Execution Time : 10/08/2023 13:27:30 ---
