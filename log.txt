@@ -3260,3 +3260,15 @@ Place Close Short Market Order: 2.4 FIL/USDT at the price of 4.134$ ~9.92$
 Current VaR rsik 1 period: - 0.09%, LONG exposition 18.86%, SHORT exposition 17.68%
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 --- End Execution Time : 10/08/2023 13:27:30 ---
+--- Start Execution Time : 10/08/2023 14:17:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.04 $
+12 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.8 AVAX/USDT at the price of 12.599$ ~10.08$
+Place Close Short Market Order: 27.0 MANA/USDT at the price of 0.3703$ ~10.0$
+Current VaR rsik 1 period: - 0.11%, LONG exposition 18.83%, SHORT exposition 11.39%
+Place Open Long Market Order: 0.6 KSM/USDT at the price of 23.04$ ~13.82$
+--- End Execution Time : 10/08/2023 14:18:02 ---
