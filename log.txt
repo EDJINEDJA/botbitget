@@ -3272,3 +3272,14 @@ Place Close Short Market Order: 27.0 MANA/USDT at the price of 0.3703$ ~10.0$
 Current VaR rsik 1 period: - 0.11%, LONG exposition 18.83%, SHORT exposition 11.39%
 Place Open Long Market Order: 0.6 KSM/USDT at the price of 23.04$ ~13.82$
 --- End Execution Time : 10/08/2023 14:18:02 ---
+--- Start Execution Time : 10/08/2023 15:19:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 316.87 $
+11 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 73.2 C98/USDT at the price of 0.1528$ ~11.18$
+Current VaR rsik 1 period: - 0.1%, LONG exposition 19.61%, SHORT exposition 11.37%
+Place Open Short Market Order: 0.06 BNB/USDT at the price of 242.33$ ~14.54$
+--- End Execution Time : 10/08/2023 15:19:55 ---
