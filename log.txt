@@ -3376,3 +3376,13 @@ USD balance : 316.26 $
 Current VaR rsik 1 period: - 0.12%, LONG exposition 19.52%, SHORT exposition 26.0%
 Place Open Short Market Order: 1.2 AVAX/USDT at the price of 12.441$ ~14.93$
 --- End Execution Time : 11/08/2023 02:21:08 ---
+--- Start Execution Time : 11/08/2023 03:17:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 316.31 $
+14 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.15%, LONG exposition 19.45%, SHORT exposition 30.63%
+Place Open Short Market Order: 1370.0 ONE/USDT at the price of 0.01154$ ~15.81$
+--- End Execution Time : 11/08/2023 03:17:41 ---
