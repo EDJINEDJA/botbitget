@@ -3688,3 +3688,13 @@ USD balance : 317.18 $
 16 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.31%, LONG exposition 17.63%, SHORT exposition 49.08%
 --- End Execution Time : 12/08/2023 12:29:58 ---
+--- Start Execution Time : 12/08/2023 13:17:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.01 $
+16 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.31%, LONG exposition 17.64%, SHORT exposition 49.15%
+Place Open Long Market Order: 7.8 WAVES/USDT at the price of 1.959$ ~15.28$
+--- End Execution Time : 12/08/2023 13:17:54 ---
