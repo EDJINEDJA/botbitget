@@ -4018,3 +4018,22 @@ Current VaR rsik 1 period: - 0.15%, LONG exposition 35.03%, SHORT exposition 36.
 Place Open Short Market Order: 211.0 DOGE/USDT at the price of 0.074684$ ~15.76$
 Place Open Short Market Order: 0.002 YFI/USDT at the price of 6258.0$ ~12.52$
 --- End Execution Time : 13/08/2023 22:15:30 ---
+--- Start Execution Time : 13/08/2023 23:16:06 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 316.23 $
+18 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 65.0 FTM/USDT at the price of 0.2384$ ~15.5$
+Place Close Long Market Order: 66.0 LRC/USDT at the price of 0.2213$ ~14.61$
+Place Close Long Market Order: 1050000.0 SHIB/USDT at the price of 1.0259e-05$ ~10.77$
+Current VaR rsik 1 period: - 0.25%, LONG exposition 22.07%, SHORT exposition 45.02%
+Place Open Short Market Order: 3.0 DOT/USDT at the price of 4.977$ ~14.93$
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 3.8 FIL/USDT at the price of 4.087$ ~15.53$
+Place Open Short Market Order: 43.0 MANA/USDT at the price of 0.365$ ~15.7$
+Place Open Short Market Order: 23.0 MATIC/USDT at the price of 0.6767$ ~15.56$
+Place Open Short Market Order: 7.8 WAVES/USDT at the price of 1.9$ ~14.82$
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 13/08/2023 23:16:46 ---
