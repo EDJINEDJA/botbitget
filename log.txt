@@ -3987,3 +3987,14 @@ Place Close Short Market Order: 0.002 YFI/USDT at the price of 6328.0$ ~12.66$
 Current VaR rsik 1 period: - 0.19%, LONG exposition 35.39%, SHORT exposition 46.18%
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 --- End Execution Time : 13/08/2023 19:13:13 ---
+--- Start Execution Time : 13/08/2023 20:16:49 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 315.95 $
+18 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.06 BNB/USDT at the price of 241.45$ ~14.49$
+Place Close Short Market Order: 23.0 MATIC/USDT at the price of 0.6853$ ~15.76$
+Current VaR rsik 1 period: - 0.16%, LONG exposition 35.39%, SHORT exposition 36.58%
+--- End Execution Time : 13/08/2023 20:17:31 ---
