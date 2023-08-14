@@ -4224,3 +4224,26 @@ USD balance : 312.58 $
 Current VaR rsik 1 period: - 0.21%, LONG exposition 41.59%, SHORT exposition 29.25%
 Place Open Short Market Order: 3.8 FIL/USDT at the price of 4.068$ ~15.46$
 --- End Execution Time : 14/08/2023 18:21:33 ---
+--- Start Execution Time : 14/08/2023 19:13:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 312.31 $
+16 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 4.0 DYDX/USDT at the price of 2.185$ ~8.74$
+Place Close Long Market Order: 64.0 FTM/USDT at the price of 0.2401$ ~15.37$
+Place Close Long Market Order: 66.0 LRC/USDT at the price of 0.2208$ ~14.57$
+Place Close Long Market Order: 1353.0 ONE/USDT at the price of 0.01126$ ~15.23$
+Current VaR rsik 1 period: - 0.16%, LONG exposition 24.2%, SHORT exposition 34.15%
+Place Open Short Market Order: 0.2 AAVE/USDT at the price of 65.441$ ~13.09$
+Place Open Short Market Order: 1.2 AVAX/USDT at the price of 12.264$ ~14.72$
+Place Open Short Market Order: 3.0 DOT/USDT at the price of 4.974$ ~14.92$
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 76.0 GMT/USDT at the price of 0.2028$ ~15.41$
+Place Open Short Market Order: 23.0 MATIC/USDT at the price of 0.6756$ ~15.54$
+Place Open Short Market Order: 11.0 NEAR/USDT at the price of 1.3285$ ~14.61$
+Place Open Short Market Order: 10.3 OP/USDT at the price of 1.5104$ ~15.56$
+Place Open Short Market Order: 0.002 YFI/USDT at the price of 6241.0$ ~12.48$
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 14/08/2023 19:13:59 ---
