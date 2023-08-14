@@ -4247,3 +4247,14 @@ Place Open Short Market Order: 10.3 OP/USDT at the price of 1.5104$ ~15.56$
 Place Open Short Market Order: 0.002 YFI/USDT at the price of 6241.0$ ~12.48$
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 14/08/2023 19:13:59 ---
+--- Start Execution Time : 14/08/2023 20:17:50 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.47 $
+20 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.43%, LONG exposition 24.36%, SHORT exposition 71.92%
+Place Open Short Market Order: 1375.0 ONE/USDT at the price of 0.01132$ ~15.56$
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 14/08/2023 20:18:27 ---
