@@ -4202,3 +4202,15 @@ Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than mini
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 14/08/2023 16:20:34 ---
+--- Start Execution Time : 14/08/2023 17:15:43 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 313.03 $
+16 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 1.2 AVAX/USDT at the price of 12.413$ ~14.9$
+Place Close Short Market Order: 3.8 FIL/USDT at the price of 4.115$ ~15.64$
+Current VaR rsik 1 period: - 0.18%, LONG exposition 36.94%, SHORT exposition 29.49%
+Place Open Long Market Order: 1353.0 ONE/USDT at the price of 0.01156$ ~15.64$
+--- End Execution Time : 14/08/2023 17:16:23 ---
