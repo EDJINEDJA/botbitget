@@ -4116,3 +4116,13 @@ USD balance : 314.05 $
 15 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.27%, LONG exposition 22.33%, SHORT exposition 49.21%
 --- End Execution Time : 14/08/2023 08:22:27 ---
+--- Start Execution Time : 14/08/2023 09:17:05 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 313.95 $
+15 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 84.4 WOO/USDT at the price of 0.18919$ ~15.97$
+Current VaR rsik 1 period: - 0.23%, LONG exposition 22.27%, SHORT exposition 44.1%
+--- End Execution Time : 14/08/2023 09:17:44 ---
