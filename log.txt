@@ -4153,3 +4153,14 @@ USD balance : 314.07 $
 14 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.23%, LONG exposition 22.08%, SHORT exposition 43.86%
 --- End Execution Time : 14/08/2023 12:33:26 ---
+--- Start Execution Time : 14/08/2023 13:20:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 314.14 $
+14 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Long Market Order: 3932.0 JASMY/USDT at the price of 0.004011$ ~15.77$
+Current VaR rsik 1 period: - 0.26%, LONG exposition 17.04%, SHORT exposition 43.82%
+Place Open Short Market Order: 3.0 DOT/USDT at the price of 4.979$ ~14.94$
+--- End Execution Time : 14/08/2023 13:20:40 ---
