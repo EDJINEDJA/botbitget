@@ -4330,3 +4330,13 @@ Current VaR rsik 1 period: - 0.47%, LONG exposition 19.36%, SHORT exposition 72.
 Place Open Short Market Order: 0.06 BNB/USDT at the price of 239.88$ ~14.39$
 Place Open Short Market Order: 11.0 NEAR/USDT at the price of 1.3295$ ~14.62$
 --- End Execution Time : 15/08/2023 04:20:35 ---
+--- Start Execution Time : 15/08/2023 05:15:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.89 $
+21 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.52%, LONG exposition 19.2%, SHORT exposition 80.89%
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 15/08/2023 05:16:25 ---
