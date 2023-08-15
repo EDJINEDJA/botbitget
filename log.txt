@@ -4448,3 +4448,12 @@ Place Close Long Market Order: 7.5 APE/USDT at the price of 1.993$ ~14.95$
 Current VaR rsik 1 period: - 0.77%, LONG exposition 4.5%, SHORT exposition 95.43%
 Blocked open SHORT on ETC/USDT:USDT, because next VaR: - 0.77%
 --- End Execution Time : 15/08/2023 16:22:14 ---
+--- Start Execution Time : 15/08/2023 17:15:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 312.36 $
+21 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.77%, LONG exposition 4.49%, SHORT exposition 95.33%
+--- End Execution Time : 15/08/2023 17:15:44 ---
