@@ -4476,3 +4476,20 @@ USD balance : 324.96 $
 Place Close Long Market Order: 0.6 KSM/USDT at the price of 22.4$ ~13.44$
 Current VaR rsik 1 period: - 0.73%, LONG exposition 0%, SHORT exposition 87.59%
 --- End Execution Time : 15/08/2023 19:13:53 ---
+--- Start Execution Time : 15/08/2023 20:17:49 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 323.39 $
+20 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.74%, LONG exposition 0%, SHORT exposition 88.49%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Short Market Order: 8.7 APE/USDT at the price of 1.846$ ~16.06$
+Place Open Short Market Order: 158.2 GRT/USDT at the price of 0.10217$ ~16.16$
+Blocked open SHORT on SOL/USDT:USDT, because next VaR: - 0.74%
+Blocked open SHORT on STG/USDT:USDT, because next VaR: - 0.74%
+Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 0.74%
+Blocked open SHORT on EGLD/USDT:USDT, because next VaR: - 0.74%
+Blocked open SHORT on ROSE/USDT:USDT, because next VaR: - 0.74%
+--- End Execution Time : 15/08/2023 20:18:27 ---
