@@ -4297,3 +4297,13 @@ Current VaR rsik 1 period: - 0.44%, LONG exposition 24.48%, SHORT exposition 72.
 Place Open Long Market Order: 7.5 APE/USDT at the price of 2.07$ ~15.52$
 Place Open Long Market Order: 64.0 FTM/USDT at the price of 0.2429$ ~15.55$
 --- End Execution Time : 15/08/2023 01:12:40 ---
+--- Start Execution Time : 15/08/2023 02:21:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.41 $
+22 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 323.0 ROSE/USDT at the price of 0.0476$ ~15.37$
+Current VaR rsik 1 period: - 0.39%, LONG exposition 29.44%, SHORT exposition 72.24%
+--- End Execution Time : 15/08/2023 02:21:41 ---
