@@ -4566,3 +4566,12 @@ USD balance : 324.17 $
 Current VaR rsik 1 period: - 0.84%, LONG exposition 0%, SHORT exposition 97.95%
 Blocked open SHORT on BTC/USDT:USDT, because next VaR: - 0.84%
 --- End Execution Time : 16/08/2023 05:17:03 ---
+--- Start Execution Time : 16/08/2023 06:21:56 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 325.62 $
+22 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.83%, LONG exposition 0%, SHORT exposition 97.08%
+--- End Execution Time : 16/08/2023 06:22:33 ---
