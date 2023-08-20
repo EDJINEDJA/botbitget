@@ -5374,3 +5374,13 @@ USD balance : 349.8 $
 Current VaR rsik 1 period: - 0.95%, LONG exposition 0%, SHORT exposition 99.07%
 Blocked open SHORT on ETH/USDT:USDT, because next VaR: - 0.95%
 --- End Execution Time : 19/08/2023 23:16:17 ---
+--- Start Execution Time : 20/08/2023 01:14:44 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 348.39 $
+25 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 65.0 FTM/USDT at the price of 0.209$ ~13.58$
+Current VaR rsik 1 period: - 0.92%, LONG exposition 0%, SHORT exposition 95.98%
+--- End Execution Time : 20/08/2023 01:15:22 ---
