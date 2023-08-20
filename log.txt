@@ -5486,3 +5486,13 @@ USD balance : 347.83 $
 21 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.8%, LONG exposition 0%, SHORT exposition 84.03%
 --- End Execution Time : 20/08/2023 12:29:39 ---
+--- Start Execution Time : 20/08/2023 13:17:12 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 347.67 $
+21 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 1375.0 ONE/USDT at the price of 0.01005$ ~13.82$
+Current VaR rsik 1 period: - 0.76%, LONG exposition 0%, SHORT exposition 80.15%
+--- End Execution Time : 20/08/2023 13:17:51 ---
