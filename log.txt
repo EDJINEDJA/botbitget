@@ -5722,3 +5722,13 @@ USD balance : 351.34 $
 18 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.65%, LONG exposition 0%, SHORT exposition 70.4%
 --- End Execution Time : 21/08/2023 14:16:59 ---
+--- Start Execution Time : 21/08/2023 15:17:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 353.46 $
+18 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.64%, LONG exposition 0%, SHORT exposition 69.38%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 21/08/2023 15:18:05 ---
