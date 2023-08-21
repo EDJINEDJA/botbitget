@@ -5676,3 +5676,12 @@ USD balance : 349.74 $
 Current VaR rsik 1 period: - 0.57%, LONG exposition 0%, SHORT exposition 61.24%
 Place Open Short Market Order: 2130000.0 SHIB/USDT at the price of 8.18e-06$ ~17.42$
 --- End Execution Time : 21/08/2023 09:18:02 ---
+--- Start Execution Time : 21/08/2023 10:19:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 351.62 $
+17 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.6%, LONG exposition 0%, SHORT exposition 65.33%
+--- End Execution Time : 21/08/2023 10:19:42 ---
