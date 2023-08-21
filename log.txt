@@ -5732,3 +5732,17 @@ USD balance : 353.46 $
 Current VaR rsik 1 period: - 0.64%, LONG exposition 0%, SHORT exposition 69.38%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 21/08/2023 15:18:05 ---
+--- Start Execution Time : 21/08/2023 16:22:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 355.99 $
+18 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.63%, LONG exposition 0%, SHORT exposition 68.17%
+Place Open Short Market Order: 0.3 AAVE/USDT at the price of 55.7$ ~16.71$
+Place Open Short Market Order: 927.0 GALA/USDT at the price of 0.01919$ ~17.79$
+Place Open Short Market Order: 15.0 NEAR/USDT at the price of 1.129$ ~16.93$
+Place Open Short Market Order: 33.0 STG/USDT at the price of 0.5357$ ~17.68$
+Place Open Short Market Order: 444.0 ROSE/USDT at the price of 0.04008$ ~17.8$
+--- End Execution Time : 21/08/2023 16:22:49 ---
