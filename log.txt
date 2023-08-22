@@ -6014,3 +6014,13 @@ Blocked open SHORT on BTC/USDT:USDT, because next VaR: - 0.99%
 Blocked open SHORT on YFI/USDT:USDT, because next VaR: - 0.99%
 Blocked open SHORT on ETC/USDT:USDT, because next VaR: - 0.99%
 --- End Execution Time : 22/08/2023 20:18:28 ---
+--- Start Execution Time : 22/08/2023 21:14:41 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 359.24 $
+24 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 15.0 NEAR/USDT at the price of 1.147$ ~17.21$
+Current VaR rsik 1 period: - 0.94%, LONG exposition 0%, SHORT exposition 96.63%
+--- End Execution Time : 22/08/2023 21:15:20 ---
