@@ -6198,3 +6198,15 @@ Place Close Short Market Order: 129.9 C98/USDT at the price of 0.1382$ ~17.95$
 Place Close Short Market Order: 58.0 MANA/USDT at the price of 0.3048$ ~17.68$
 Current VaR rsik 1 period: - 0.62%, LONG exposition 4.98%, SHORT exposition 68.58%
 --- End Execution Time : 23/08/2023 15:18:30 ---
+--- Start Execution Time : 23/08/2023 16:22:19 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 344.69 $
+17 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.3 AAVE/USDT at the price of 56.871$ ~17.06$
+Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.49$ ~13.47$
+Place Close Short Market Order: 444.0 ROSE/USDT at the price of 0.0412$ ~18.29$
+Current VaR rsik 1 period: - 0.51%, LONG exposition 5.13%, SHORT exposition 56.17%
+--- End Execution Time : 23/08/2023 16:22:52 ---
