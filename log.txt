@@ -6482,3 +6482,13 @@ Place Open Short Market Order: 277.0 DOGE/USDT at the price of 0.062403$ ~17.29$
 Place Open Short Market Order: 90.0 LRC/USDT at the price of 0.181$ ~16.29$
 Place Open Short Market Order: 31.0 STG/USDT at the price of 0.5414$ ~16.78$
 --- End Execution Time : 24/08/2023 21:15:18 ---
+--- Start Execution Time : 24/08/2023 22:16:06 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 345.31 $
+16 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Long Market Order: 11.1 OP/USDT at the price of 1.5393$ ~17.09$
+Current VaR rsik 1 period: - 0.62%, LONG exposition 0%, SHORT exposition 66.98%
+--- End Execution Time : 24/08/2023 22:16:43 ---
