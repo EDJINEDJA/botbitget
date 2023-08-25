@@ -6529,3 +6529,14 @@ USD balance : 345.89 $
 14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
 Current VaR rsik 1 period: - 0.57%, LONG exposition 0%, SHORT exposition 61.8%
 --- End Execution Time : 25/08/2023 03:18:11 ---
+--- Start Execution Time : 25/08/2023 04:20:24 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 348.09 $
+14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.56%, LONG exposition 0%, SHORT exposition 60.78%
+Place Open Short Market Order: 911.0 GALA/USDT at the price of 0.01909$ ~17.39$
+Place Open Short Market Order: 194.5 GRT/USDT at the price of 0.08945$ ~17.4$
+--- End Execution Time : 25/08/2023 04:21:02 ---
