@@ -6648,3 +6648,14 @@ USD balance : 347.85 $
 Current VaR rsik 1 period: - 0.66%, LONG exposition 10.01%, SHORT exposition 81.79%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 25/08/2023 15:18:08 ---
+--- Start Execution Time : 25/08/2023 16:22:00 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 347.23 $
+20 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 32.0 STG/USDT at the price of 0.5433$ ~17.39$
+Place Close Short Market Order: 0.003 YFI/USDT at the price of 5753.0$ ~17.26$
+Current VaR rsik 1 period: - 0.58%, LONG exposition 10.06%, SHORT exposition 72.16%
+--- End Execution Time : 25/08/2023 16:22:39 ---
