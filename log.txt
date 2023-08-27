@@ -7066,3 +7066,13 @@ USD balance : 345.02 $
 18 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.81%, LONG exposition 0%, SHORT exposition 84.27%
 --- End Execution Time : 27/08/2023 13:18:52 ---
+--- Start Execution Time : 27/08/2023 14:14:19 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 344.03 $
+18 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 26.0 CRV/USDT at the price of 0.4567$ ~11.87$
+Current VaR rsik 1 period: - 0.78%, LONG exposition 0%, SHORT exposition 81.34%
+--- End Execution Time : 27/08/2023 14:14:55 ---
