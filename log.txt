@@ -7320,3 +7320,14 @@ Place Close Short Market Order: 57.0 MANA/USDT at the price of 0.3009$ ~17.15$
 Place Close Short Market Order: 14.0 NEAR/USDT at the price of 1.1885$ ~16.64$
 Current VaR rsik 1 period: - 0.37%, LONG exposition 0%, SHORT exposition 39.27%
 --- End Execution Time : 28/08/2023 15:18:37 ---
+--- Start Execution Time : 28/08/2023 16:21:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 341.26 $
+8 active positions (['APT/USDT:USDT', 'ETC/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 2.961 APT/USDT at the price of 5.695$ ~16.86$
+Place Close Short Market Order: 2140000.0 SHIB/USDT at the price of 8.185e-06$ ~17.52$
+Current VaR rsik 1 period: - 0.28%, LONG exposition 0%, SHORT exposition 29.31%
+--- End Execution Time : 28/08/2023 16:22:04 ---
