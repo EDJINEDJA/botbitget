@@ -7224,3 +7224,13 @@ Place Open Short Market Order: 1.7 AVAX/USDT at the price of 10.001$ ~17.0$
 Place Open Short Market Order: 0.01 ETH/USDT at the price of 1642.16$ ~16.42$
 Place Open Short Market Order: 1.0 ETC/USDT at the price of 15.664$ ~15.66$
 --- End Execution Time : 28/08/2023 06:23:24 ---
+--- Start Execution Time : 28/08/2023 07:16:31 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 347.46 $
+22 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'ETH/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 7.0 DYDX/USDT at the price of 2.135$ ~14.94$
+Current VaR rsik 1 period: - 0.9%, LONG exposition 0%, SHORT exposition 98.14%
+--- End Execution Time : 28/08/2023 07:17:07 ---
