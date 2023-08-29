@@ -7487,3 +7487,13 @@ Place Open Short Market Order: 3.047 APT/USDT at the price of 5.624$ ~17.14$
 Place Open Short Market Order: 0.01 ETH/USDT at the price of 1645.2$ ~16.45$
 Place Open Short Market Order: 14.0 NEAR/USDT at the price of 1.1685$ ~16.36$
 --- End Execution Time : 29/08/2023 09:17:49 ---
+--- Start Execution Time : 29/08/2023 10:18:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 343.92 $
+13 active positions (['APT/USDT:USDT', 'AXS/USDT:USDT', 'ETH/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.56%, LONG exposition 0%, SHORT exposition 62.61%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 29/08/2023 10:19:15 ---
