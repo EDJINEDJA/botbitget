@@ -7507,3 +7507,13 @@ USD balance : 343.41 $
 Current VaR rsik 1 period: - 0.56%, LONG exposition 0%, SHORT exposition 62.85%
 Place Open Short Market Order: 194.6 GRT/USDT at the price of 0.08822$ ~17.17$
 --- End Execution Time : 29/08/2023 11:14:51 ---
+--- Start Execution Time : 29/08/2023 12:34:03 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 343.19 $
+14 active positions (['APT/USDT:USDT', 'AXS/USDT:USDT', 'ETH/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.61%, LONG exposition 0%, SHORT exposition 67.95%
+Place Open Short Market Order: 1.0 ETC/USDT at the price of 15.656$ ~15.66$
+--- End Execution Time : 29/08/2023 12:34:47 ---
