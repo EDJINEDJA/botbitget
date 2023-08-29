@@ -7563,3 +7563,13 @@ Place Open Long Market Order: 27.0 MATIC/USDT at the price of 0.5955$ ~16.08$
 Place Open Long Market Order: 13.0 NEAR/USDT at the price of 1.231$ ~16.0$
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 29/08/2023 15:18:51 ---
+--- Start Execution Time : 29/08/2023 16:23:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.06 $
+5 active positions (['BNB/USDT:USDT', 'DYDX/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 98.1 WOO/USDT at the price of 0.17885$ ~17.55$
+Current VaR rsik 1 period: - 0.17%, LONG exposition 19.12%, SHORT exposition 0%
+--- End Execution Time : 29/08/2023 16:23:35 ---
