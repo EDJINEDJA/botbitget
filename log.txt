@@ -7719,3 +7719,12 @@ USD balance : 329.03 $
 Current VaR rsik 1 period: - 0.12%, LONG exposition 14.35%, SHORT exposition 0%
 Place Open Long Market Order: 4518.0 JASMY/USDT at the price of 0.003641$ ~16.45$
 --- End Execution Time : 30/08/2023 09:17:36 ---
+--- Start Execution Time : 30/08/2023 10:18:41 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 328.75 $
+4 active positions (['BNB/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.17%, LONG exposition 19.29%, SHORT exposition 0%
+--- End Execution Time : 30/08/2023 10:19:17 ---
