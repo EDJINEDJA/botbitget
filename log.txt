@@ -8002,3 +8002,26 @@ Place Open Short Market Order: 51.0 SAND/USDT at the price of 0.3167$ ~16.15$
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 Place Open Short Market Order: 30.0 STG/USDT at the price of 0.5394$ ~16.18$
 --- End Execution Time : 31/08/2023 16:23:40 ---
+--- Start Execution Time : 31/08/2023 17:15:47 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.18 $
+10 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 0.07 BNB/USDT at the price of 217.94$ ~15.26$
+Current VaR rsik 1 period: - 0.19%, LONG exposition 9.55%, SHORT exposition 29.72%
+Place Open Short Market Order: 2.985 APT/USDT at the price of 5.529$ ~16.5$
+Place Open Short Market Order: 1.6 AVAX/USDT at the price of 9.986$ ~15.98$
+Place Open Short Market Order: 36.0 CRV/USDT at the price of 0.4493$ ~16.17$
+Place Open Short Market Order: 0.07 BNB/USDT at the price of 217.94$ ~15.26$
+Place Open Short Market Order: 865.0 GALA/USDT at the price of 0.01908$ ~16.5$
+Place Open Short Market Order: 104.0 GMT/USDT at the price of 0.1579$ ~16.42$
+Place Open Short Market Order: 90.0 LRC/USDT at the price of 0.1798$ ~16.18$
+Place Open Short Market Order: 56.0 MANA/USDT at the price of 0.2923$ ~16.37$
+Place Open Short Market Order: 29.0 MATIC/USDT at the price of 0.5513$ ~15.99$
+Place Open Short Market Order: 14.0 NEAR/USDT at the price of 1.1465$ ~16.05$
+Place Open Short Market Order: 1686.0 ONE/USDT at the price of 0.00979$ ~16.51$
+Place Open Short Market Order: 2080000.0 SHIB/USDT at the price of 7.922e-06$ ~16.48$
+Place Open Short Market Order: 99.9 WOO/USDT at the price of 0.16514$ ~16.5$
+--- End Execution Time : 31/08/2023 17:16:30 ---
