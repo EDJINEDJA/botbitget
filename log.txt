@@ -8025,3 +8025,12 @@ Place Open Short Market Order: 1686.0 ONE/USDT at the price of 0.00979$ ~16.51$
 Place Open Short Market Order: 2080000.0 SHIB/USDT at the price of 7.922e-06$ ~16.48$
 Place Open Short Market Order: 99.9 WOO/USDT at the price of 0.16514$ ~16.5$
 --- End Execution Time : 31/08/2023 17:16:30 ---
+--- Start Execution Time : 31/08/2023 18:21:48 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 328.97 $
+22 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.78%, LONG exposition 9.72%, SHORT exposition 94.38%
+--- End Execution Time : 31/08/2023 18:22:26 ---
