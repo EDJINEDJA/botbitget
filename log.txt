@@ -8147,3 +8147,14 @@ USD balance : 330.14 $
 Current VaR rsik 1 period: - 0.82%, LONG exposition 9.44%, SHORT exposition 98.28%
 Blocked open SHORT on ETH/USDT:USDT, because next VaR: - 0.82%
 --- End Execution Time : 01/09/2023 07:16:48 ---
+--- Start Execution Time : 01/09/2023 08:21:48 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.1 $
+23 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 7.0 DYDX/USDT at the price of 2.164$ ~15.15$
+Current VaR rsik 1 period: - 0.85%, LONG exposition 4.85%, SHORT exposition 98.31%
+Blocked open SHORT on APE/USDT:USDT, because next VaR: - 0.85%
+--- End Execution Time : 01/09/2023 08:22:25 ---
