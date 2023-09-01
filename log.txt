@@ -8233,3 +8233,13 @@ USD balance : 333.94 $
 Current VaR rsik 1 period: - 0.87%, LONG exposition 0%, SHORT exposition 95.99%
 Blocked open SHORT on OP/USDT:USDT, because next VaR: - 0.87%
 --- End Execution Time : 01/09/2023 16:23:30 ---
+--- Start Execution Time : 01/09/2023 17:15:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 337.08 $
+21 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.86%, LONG exposition 0%, SHORT exposition 94.17%
+Place Open Short Market Order: 269.0 DOGE/USDT at the price of 0.0625$ ~16.81$
+--- End Execution Time : 01/09/2023 17:16:08 ---
