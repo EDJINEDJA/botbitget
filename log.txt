@@ -8864,3 +8864,12 @@ Place Close Short Market Order: 0.07 BNB/USDT at the price of 216.23$ ~15.14$
 Place Close Short Market Order: 29.0 MATIC/USDT at the price of 0.5502$ ~15.96$
 Current VaR rsik 1 period: - 0.6%, LONG exposition 0%, SHORT exposition 64.88%
 --- End Execution Time : 04/09/2023 14:16:58 ---
+--- Start Execution Time : 04/09/2023 15:17:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 335.26 $
+13 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.55%, LONG exposition 0%, SHORT exposition 59.35%
+--- End Execution Time : 04/09/2023 15:18:08 ---
