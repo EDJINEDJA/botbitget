@@ -8972,3 +8972,14 @@ Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.253$ ~12.76$
 Current VaR rsik 1 period: - 0.86%, LONG exposition 0%, SHORT exposition 94.7%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 05/09/2023 01:12:52 ---
+--- Start Execution Time : 05/09/2023 02:21:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 333.55 $
+20 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 194.9 GRT/USDT at the price of 0.08791$ ~17.13$
+Current VaR rsik 1 period: - 0.81%, LONG exposition 0%, SHORT exposition 89.77%
+Place Open Short Market Order: 1.0 ETC/USDT at the price of 15.23$ ~15.23$
+--- End Execution Time : 05/09/2023 02:22:01 ---
