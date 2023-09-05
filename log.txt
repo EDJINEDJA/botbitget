@@ -9047,3 +9047,15 @@ USD balance : 331.45 $
 Place Close Short Market Order: 5.3 FIL/USDT at the price of 3.211$ ~17.02$
 Current VaR rsik 1 period: - 0.47%, LONG exposition 5.11%, SHORT exposition 60.06%
 --- End Execution Time : 05/09/2023 09:17:43 ---
+--- Start Execution Time : 05/09/2023 10:18:48 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.46 $
+14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'ETC/USDT:USDT', 'ETH/USDT:USDT', 'GALA/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.269$ ~12.81$
+Place Close Short Market Order: 32.0 STG/USDT at the price of 0.5258$ ~16.83$
+Place Close Short Market Order: 0.002 YFI/USDT at the price of 5454.0$ ~10.91$
+Current VaR rsik 1 period: - 0.41%, LONG exposition 5.07%, SHORT exposition 51.51%
+--- End Execution Time : 05/09/2023 10:19:20 ---
