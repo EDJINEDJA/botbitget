@@ -9319,3 +9319,20 @@ USD balance : 329.56 $
 12 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.13%, LONG exposition 29.27%, SHORT exposition 28.02%
 --- End Execution Time : 06/09/2023 14:17:34 ---
+--- Start Execution Time : 06/09/2023 15:19:42 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 329.5 $
+12 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 258.0 DOGE/USDT at the price of 0.063125$ ~16.29$
+Place Close Long Market Order: 7.0 DYDX/USDT at the price of 2.035$ ~14.25$
+Place Close Long Market Order: 405.0 ROSE/USDT at the price of 0.0397$ ~16.08$
+Current VaR rsik 1 period: - 0.17%, LONG exposition 14.84%, SHORT exposition 27.74%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Short Market Order: 0.01 ETH/USDT at the price of 1619.99$ ~16.2$
+Place Open Short Market Order: 0.07 BNB/USDT at the price of 213.19$ ~14.92$
+Place Open Short Market Order: 14.0 NEAR/USDT at the price of 1.1095$ ~15.53$
+Place Open Short Market Order: 0.6 EGLD/USDT at the price of 24.32$ ~14.59$
+--- End Execution Time : 06/09/2023 15:20:17 ---
