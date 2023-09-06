@@ -9359,3 +9359,20 @@ Place Open Short Market Order: 262.0 DOGE/USDT at the price of 0.062955$ ~16.49$
 Place Open Short Market Order: 56.0 MANA/USDT at the price of 0.2898$ ~16.23$
 Place Open Short Market Order: 2180000.0 SHIB/USDT at the price of 7.562e-06$ ~16.49$
 --- End Execution Time : 06/09/2023 17:16:22 ---
+--- Start Execution Time : 06/09/2023 18:22:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 327.67 $
+16 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 3.054 APT/USDT at the price of 5.498$ ~16.79$
+Place Close Short Market Order: 0.07 BNB/USDT at the price of 214.96$ ~15.05$
+Place Close Short Market Order: 262.0 DOGE/USDT at the price of 0.063371$ ~16.6$
+Place Close Short Market Order: 0.01 ETH/USDT at the price of 1633.41$ ~16.33$
+Place Close Short Market Order: 82.0 FTM/USDT at the price of 0.2014$ ~16.51$
+Place Close Short Market Order: 56.0 MANA/USDT at the price of 0.2938$ ~16.45$
+Place Close Short Market Order: 14.0 NEAR/USDT at the price of 1.1255$ ~15.76$
+Place Close Short Market Order: 0.003 YFI/USDT at the price of 5393.0$ ~16.18$
+Current VaR rsik 1 period: - 0.18%, LONG exposition 10.4%, SHORT exposition 27.63%
+--- End Execution Time : 06/09/2023 18:22:54 ---
