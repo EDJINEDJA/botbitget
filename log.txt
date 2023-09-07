@@ -9546,3 +9546,13 @@ Place Open Short Market Order: 0.07 BNB/USDT at the price of 213.97$ ~14.98$
 Place Open Short Market Order: 12.4 OP/USDT at the price of 1.306$ ~16.19$
 Place Open Short Market Order: 0.003 YFI/USDT at the price of 5353.0$ ~16.06$
 --- End Execution Time : 07/09/2023 12:34:33 ---
+--- Start Execution Time : 07/09/2023 13:21:46 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 326.0 $
+11 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'OP/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.29%, LONG exposition 10.36%, SHORT exposition 43.16%
+Place Open Short Market Order: 0.01 ETH/USDT at the price of 1625.6$ ~16.26$
+--- End Execution Time : 07/09/2023 13:22:18 ---
