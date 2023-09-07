@@ -9646,3 +9646,16 @@ Current VaR rsik 1 period: - 0.15%, LONG exposition 10.5%, SHORT exposition 23.9
 Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
 Place Open Long Market Order: 0.07 BNB/USDT at the price of 217.02$ ~15.19$
 --- End Execution Time : 07/09/2023 22:17:07 ---
+--- Start Execution Time : 07/09/2023 23:17:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 324.36 $
+8 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 258.0 DOGE/USDT at the price of 0.063506$ ~16.38$
+Place Close Short Market Order: 188.3 GRT/USDT at the price of 0.08731$ ~16.44$
+Place Close Short Market Order: 101.8 WOO/USDT at the price of 0.16469$ ~16.77$
+Current VaR rsik 1 period: - 0.11%, LONG exposition 15.25%, SHORT exposition 8.79%
+Place Open Long Market Order: 79.0 FTM/USDT at the price of 0.2037$ ~16.09$
+--- End Execution Time : 07/09/2023 23:17:53 ---
