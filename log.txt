@@ -9532,3 +9532,17 @@ USD balance : 326.15 $
 Current VaR rsik 1 period: - 0.11%, LONG exposition 14.82%, SHORT exposition 18.73%
 Place Open Short Market Order: 258.0 DOGE/USDT at the price of 0.062998$ ~16.25$
 --- End Execution Time : 07/09/2023 11:15:12 ---
+--- Start Execution Time : 07/09/2023 12:33:49 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 326.01 $
+8 active positions (['C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 7.0 DYDX/USDT at the price of 2.07$ ~14.49$
+Current VaR rsik 1 period: - 0.14%, LONG exposition 10.28%, SHORT exposition 23.65%
+Place Open Short Market Order: 81.0 FTM/USDT at the price of 0.2$ ~16.2$
+Place Open Short Market Order: 0.07 BNB/USDT at the price of 213.97$ ~14.98$
+Place Open Short Market Order: 12.4 OP/USDT at the price of 1.306$ ~16.19$
+Place Open Short Market Order: 0.003 YFI/USDT at the price of 5353.0$ ~16.06$
+--- End Execution Time : 07/09/2023 12:34:33 ---
