@@ -9437,3 +9437,13 @@ Place Close Short Market Order: 54.0 SAND/USDT at the price of 0.3055$ ~16.5$
 Place Close Short Market Order: 2180000.0 SHIB/USDT at the price of 7.689e-06$ ~16.76$
 Current VaR rsik 1 period: - 0.19%, LONG exposition 10.44%, SHORT exposition 29.0%
 --- End Execution Time : 07/09/2023 01:14:04 ---
+--- Start Execution Time : 07/09/2023 02:21:59 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 326.38 $
+7 active positions (['C98/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 8.0 DYDX/USDT at the price of 2.095$ ~16.76$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 10.44%, SHORT exposition 18.8%
+--- End Execution Time : 07/09/2023 02:22:36 ---
