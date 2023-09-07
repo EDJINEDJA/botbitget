@@ -9467,3 +9467,12 @@ Place Close Short Market Order: 0.003 YFI/USDT at the price of 5419.0$ ~16.26$
 Current VaR rsik 1 period: - 0.1%, LONG exposition 10.46%, SHORT exposition 13.91%
 Place Open Long Market Order: 7.0 DYDX/USDT at the price of 2.11$ ~14.77$
 --- End Execution Time : 07/09/2023 04:21:46 ---
+--- Start Execution Time : 07/09/2023 05:16:37 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 326.05 $
+6 active positions (['C98/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.1%, LONG exposition 14.91%, SHORT exposition 13.85%
+--- End Execution Time : 07/09/2023 05:17:14 ---
