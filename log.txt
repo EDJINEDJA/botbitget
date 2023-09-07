@@ -9575,3 +9575,12 @@ USD balance : 325.57 $
 Place Close Short Market Order: 0.01 ETH/USDT at the price of 1630.32$ ~16.3$
 Current VaR rsik 1 period: - 0.32%, LONG exposition 10.48%, SHORT exposition 48.45%
 --- End Execution Time : 07/09/2023 15:18:45 ---
+--- Start Execution Time : 07/09/2023 16:21:37 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 325.55 $
+11 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'OP/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.3%, LONG exposition 10.47%, SHORT exposition 43.43%
+--- End Execution Time : 07/09/2023 16:22:23 ---
