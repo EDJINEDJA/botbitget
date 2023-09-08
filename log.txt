@@ -9670,3 +9670,12 @@ Place Close Short Market Order: 7.0 DYDX/USDT at the price of 2.081$ ~14.57$
 Place Close Short Market Order: 865.0 GALA/USDT at the price of 0.01617$ ~13.99$
 Current VaR rsik 1 period: - 0.21%, LONG exposition 20.35%, SHORT exposition 0%
 --- End Execution Time : 08/09/2023 01:14:37 ---
+--- Start Execution Time : 08/09/2023 02:22:18 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 324.32 $
+4 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'FTM/USDT:USDT', 'JASMY/USDT:USDT'])
+Current VaR rsik 1 period: - 0.21%, LONG exposition 20.26%, SHORT exposition 0%
+--- End Execution Time : 08/09/2023 02:22:58 ---
