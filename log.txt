@@ -10142,3 +10142,17 @@ Current VaR rsik 1 period: - 0.5%, LONG exposition 13.31%, SHORT exposition 66.9
 Place Open Short Market Order: 188.6 GRT/USDT at the price of 0.08595$ ~16.21$
 Place Open Short Market Order: 0.6 EGLD/USDT at the price of 24.23$ ~14.54$
 --- End Execution Time : 10/09/2023 02:24:42 ---
+--- Start Execution Time : 10/09/2023 03:17:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 324.58 $
+19 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 0.2 AAVE/USDT at the price of 55.691$ ~11.14$
+Current VaR rsik 1 period: - 0.61%, LONG exposition 9.95%, SHORT exposition 76.32%
+Place Open Short Market Order: 0.07 BNB/USDT at the price of 213.94$ ~14.98$
+Place Open Short Market Order: 102.0 GMT/USDT at the price of 0.1581$ ~16.13$
+Place Open Short Market Order: 30.0 STG/USDT at the price of 0.5293$ ~15.88$
+Place Open Short Market Order: 409.0 ROSE/USDT at the price of 0.0396$ ~16.2$
+--- End Execution Time : 10/09/2023 03:17:33 ---
