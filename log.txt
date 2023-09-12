@@ -10661,3 +10661,13 @@ Current VaR rsik 1 period: - 0.91%, LONG exposition 0%, SHORT exposition 100.47%
 Blocked open SHORT on DOGE/USDT:USDT, because next VaR: - 0.91%
 Blocked open SHORT on SOL/USDT:USDT, because next VaR: - 0.91%
 --- End Execution Time : 12/09/2023 09:18:10 ---
+--- Start Execution Time : 12/09/2023 10:19:18 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 337.4 $
+23 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 99.8 WOO/USDT at the price of 0.15883$ ~15.85$
+Current VaR rsik 1 period: - 0.88%, LONG exposition 0%, SHORT exposition 98.01%
+--- End Execution Time : 12/09/2023 10:20:01 ---
