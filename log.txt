@@ -10981,3 +10981,15 @@ USD balance : 338.01 $
 16 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
 Current VaR rsik 1 period: - 0.66%, LONG exposition 0%, SHORT exposition 71.21%
 --- End Execution Time : 13/09/2023 20:16:46 ---
+--- Start Execution Time : 13/09/2023 21:12:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 337.38 $
+16 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Short Market Order: 80.0 FTM/USDT at the price of 0.1921$ ~15.37$
+Place Close Short Market Order: 55.0 MANA/USDT at the price of 0.2803$ ~15.42$
+Place Close Short Market Order: 53.0 SAND/USDT at the price of 0.2917$ ~15.46$
+Current VaR rsik 1 period: - 0.54%, LONG exposition 0%, SHORT exposition 57.82%
+--- End Execution Time : 13/09/2023 21:13:02 ---
