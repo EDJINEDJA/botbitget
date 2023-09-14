@@ -11154,3 +11154,13 @@ USD balance : 333.58 $
 Place Close Short Market Order: 108.4 WOO/USDT at the price of 0.15767$ ~17.09$
 Current VaR rsik 1 period: - 0.06%, LONG exposition 9.73%, SHORT exposition 9.02%
 --- End Execution Time : 14/09/2023 14:17:59 ---
+--- Start Execution Time : 14/09/2023 15:18:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 333.32 $
+4 active positions (['AXS/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Short Market Order: 15.0 NEAR/USDT at the price of 1.1065$ ~16.6$
+Current VaR rsik 1 period: - 0.08%, LONG exposition 9.72%, SHORT exposition 4.11%
+--- End Execution Time : 14/09/2023 15:18:48 ---
