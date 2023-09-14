@@ -11144,3 +11144,13 @@ Current VaR rsik 1 period: - 0.14%, LONG exposition 0%, SHORT exposition 14.08%
 Place Open Long Market Order: 3.4 AXS/USDT at the price of 4.827$ ~16.41$
 Place Open Long Market Order: 417.0 ROSE/USDT at the price of 0.04006$ ~16.71$
 --- End Execution Time : 14/09/2023 13:26:48 ---
+--- Start Execution Time : 14/09/2023 14:17:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 333.58 $
+5 active positions (['AXS/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 108.4 WOO/USDT at the price of 0.15767$ ~17.09$
+Current VaR rsik 1 period: - 0.06%, LONG exposition 9.73%, SHORT exposition 9.02%
+--- End Execution Time : 14/09/2023 14:17:59 ---
