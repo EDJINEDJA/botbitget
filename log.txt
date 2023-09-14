@@ -11075,3 +11075,13 @@ Current VaR rsik 1 period: - 0.22%, LONG exposition 0%, SHORT exposition 22.0%
 Place Open Short Market Order: 128.0 C98/USDT at the price of 0.1309$ ~16.76$
 Place Open Short Market Order: 108.4 WOO/USDT at the price of 0.15454$ ~16.75$
 --- End Execution Time : 14/09/2023 06:23:48 ---
+--- Start Execution Time : 14/09/2023 07:16:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 335.52 $
+7 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'NEAR/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 1027.0 GALA/USDT at the price of 0.01421$ ~14.59$
+Current VaR rsik 1 period: - 0.29%, LONG exposition 0%, SHORT exposition 27.55%
+--- End Execution Time : 14/09/2023 07:17:02 ---
