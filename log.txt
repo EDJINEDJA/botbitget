@@ -11319,3 +11319,12 @@ USD balance : 333.6 $
 5 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.09%, LONG exposition 14.54%, SHORT exposition 9.02%
 --- End Execution Time : 15/09/2023 09:18:09 ---
+--- Start Execution Time : 15/09/2023 10:18:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 333.87 $
+5 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 14.64%, SHORT exposition 9.05%
+--- End Execution Time : 15/09/2023 10:19:24 ---
