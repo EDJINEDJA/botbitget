@@ -11831,3 +11831,17 @@ Current VaR rsik 1 period: - 0.28%, LONG exposition 34.13%, SHORT exposition 9.7
 Place Open Short Market Order: 85.0 FTM/USDT at the price of 0.1912$ ~16.25$
 Place Open Short Market Order: 90.0 LRC/USDT at the price of 0.1752$ ~15.77$
 --- End Execution Time : 17/09/2023 17:14:42 ---
+--- Start Execution Time : 17/09/2023 18:20:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 328.25 $
+11 active positions (['AVAX/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 1.0 ETC/USDT at the price of 15.345$ ~15.35$
+Place Close Long Market Order: 191.0 GRT/USDT at the price of 0.08463$ ~16.16$
+Place Close Long Market Order: 1672.0 ONE/USDT at the price of 0.00965$ ~16.13$
+Current VaR rsik 1 period: - 0.13%, LONG exposition 24.49%, SHORT exposition 19.45%
+Place Open Short Market Order: 14.9 APE/USDT at the price of 1.101$ ~16.4$
+Place Open Short Market Order: 8.0 DYDX/USDT at the price of 1.936$ ~15.49$
+--- End Execution Time : 17/09/2023 18:20:41 ---
