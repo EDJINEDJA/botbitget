@@ -11761,3 +11761,13 @@ USD balance : 329.93 $
 Place Close Short Market Order: 15.0 APE/USDT at the price of 1.138$ ~17.07$
 Current VaR rsik 1 period: - 0.39%, LONG exposition 44.42%, SHORT exposition 4.78%
 --- End Execution Time : 17/09/2023 10:17:39 ---
+--- Start Execution Time : 17/09/2023 11:13:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.15 $
+10 active positions (['AVAX/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'ETH/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.39%, LONG exposition 44.45%, SHORT exposition 4.77%
+Place Open Long Market Order: 191.0 GRT/USDT at the price of 0.08639$ ~16.5$
+--- End Execution Time : 17/09/2023 11:13:44 ---
