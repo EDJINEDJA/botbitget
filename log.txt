@@ -12144,3 +12144,13 @@ USD balance : 318.9 $
 Current VaR rsik 1 period: - 0.17%, LONG exposition 43.71%, SHORT exposition 34.87%
 Place Open Short Market Order: 34.0 STG/USDT at the price of 0.4566$ ~15.52$
 --- End Execution Time : 18/09/2023 22:16:58 ---
+--- Start Execution Time : 18/09/2023 23:16:59 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 318.77 $
+17 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 258.0 DOGE/USDT at the price of 0.061959$ ~15.99$
+Current VaR rsik 1 period: - 0.15%, LONG exposition 43.6%, SHORT exposition 39.67%
+--- End Execution Time : 18/09/2023 23:17:31 ---
