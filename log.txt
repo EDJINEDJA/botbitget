@@ -11918,3 +11918,12 @@ Place Open Short Market Order: 1725.0 ONE/USDT at the price of 0.00949$ ~16.37$
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 Place Open Short Market Order: 36.0 STG/USDT at the price of 0.4525$ ~16.29$
 --- End Execution Time : 18/09/2023 01:14:53 ---
+--- Start Execution Time : 18/09/2023 02:23:03 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 324.83 $
+20 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ETH/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.81%, LONG exposition 4.75%, SHORT exposition 94.97%
+--- End Execution Time : 18/09/2023 02:23:41 ---
