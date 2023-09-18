@@ -12000,3 +12000,23 @@ USD balance : 322.32 $
 Place Close Short Market Order: 1174.0 GALA/USDT at the price of 0.01451$ ~17.03$
 Current VaR rsik 1 period: - 0.4%, LONG exposition 18.64%, SHORT exposition 60.76%
 --- End Execution Time : 18/09/2023 09:18:40 ---
+--- Start Execution Time : 18/09/2023 10:19:24 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 321.48 $
+16 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 268.0 DOGE/USDT at the price of 0.062214$ ~16.67$
+Place Close Short Market Order: 85.0 FTM/USDT at the price of 0.1938$ ~16.47$
+Place Close Short Market Order: 15.0 NEAR/USDT at the price of 1.116$ ~16.74$
+Place Close Short Market Order: 1725.0 ONE/USDT at the price of 0.0098$ ~16.91$
+Place Close Short Market Order: 55.0 SAND/USDT at the price of 0.3016$ ~16.59$
+Current VaR rsik 1 period: - 0.18%, LONG exposition 18.82%, SHORT exposition 35.36%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 115.8 C98/USDT at the price of 0.1387$ ~16.06$
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 102.0 GMT/USDT at the price of 0.1567$ ~15.98$
+Place Open Long Market Order: 184.9 GRT/USDT at the price of 0.0869$ ~16.07$
+Place Open Long Market Order: 93.2 WOO/USDT at the price of 0.17242$ ~16.07$
+--- End Execution Time : 18/09/2023 10:20:02 ---
