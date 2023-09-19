@@ -12234,3 +12234,19 @@ USD balance : 319.23 $
 18 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.2%, LONG exposition 34.09%, SHORT exposition 52.06%
 --- End Execution Time : 19/09/2023 08:23:52 ---
+--- Start Execution Time : 19/09/2023 09:17:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 319.23 $
+18 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 83.0 FTM/USDT at the price of 0.194$ ~16.1$
+Place Close Short Market Order: 1117.0 GALA/USDT at the price of 0.01448$ ~16.17$
+Place Close Short Market Order: 90.0 LRC/USDT at the price of 0.1792$ ~16.13$
+Place Close Short Market Order: 14.0 NEAR/USDT at the price of 1.1225$ ~15.71$
+Place Close Short Market Order: 2190000.0 SHIB/USDT at the price of 7.362e-06$ ~16.12$
+Current VaR rsik 1 period: - 0.15%, LONG exposition 34.47%, SHORT exposition 27.3%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 0.07 BNB/USDT at the price of 218.77$ ~15.31$
+--- End Execution Time : 19/09/2023 09:18:08 ---
