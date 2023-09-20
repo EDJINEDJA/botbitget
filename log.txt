@@ -12586,3 +12586,16 @@ Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.127$ ~12.38$
 Current VaR rsik 1 period: - 0.12%, LONG exposition 39.67%, SHORT exposition 37.93%
 Place Open Long Market Order: 0.8 KSM/USDT at the price of 19.57$ ~15.66$
 --- End Execution Time : 20/09/2023 19:14:42 ---
+--- Start Execution Time : 20/09/2023 20:18:03 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.81 $
+17 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 4.7 FIL/USDT at the price of 3.342$ ~15.71$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 39.52%, SHORT exposition 37.81%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 0.07 BNB/USDT at the price of 214.18$ ~14.99$
+Place Open Short Market Order: 90.0 LRC/USDT at the price of 0.1755$ ~15.79$
+--- End Execution Time : 20/09/2023 20:18:48 ---
