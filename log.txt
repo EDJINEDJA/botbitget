@@ -12432,3 +12432,14 @@ Place Close Long Market Order: 1.0 ETC/USDT at the price of 15.59$ ~15.59$
 Place Close Long Market Order: 52.0 SAND/USDT at the price of 0.3001$ ~15.61$
 Current VaR rsik 1 period: - 0.41%, LONG exposition 63.92%, SHORT exposition 24.72%
 --- End Execution Time : 20/09/2023 04:21:48 ---
+--- Start Execution Time : 20/09/2023 05:16:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.61 $
+18 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 0.6 EGLD/USDT at the price of 25.68$ ~15.41$
+Place Close Long Market Order: 101.0 GMT/USDT at the price of 0.1556$ ~15.72$
+Current VaR rsik 1 period: - 0.32%, LONG exposition 54.11%, SHORT exposition 24.7%
+--- End Execution Time : 20/09/2023 05:17:01 ---
