@@ -12575,3 +12575,14 @@ USD balance : 317.81 $
 Current VaR rsik 1 period: - 0.12%, LONG exposition 34.78%, SHORT exposition 41.96%
 Place Open Long Market Order: 111.9 C98/USDT at the price of 0.142$ ~15.89$
 --- End Execution Time : 20/09/2023 18:23:22 ---
+--- Start Execution Time : 20/09/2023 19:14:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 317.86 $
+17 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.127$ ~12.38$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 39.67%, SHORT exposition 37.93%
+Place Open Long Market Order: 0.8 KSM/USDT at the price of 19.57$ ~15.66$
+--- End Execution Time : 20/09/2023 19:14:42 ---
