@@ -12631,3 +12631,17 @@ USD balance : 317.85 $
 Current VaR rsik 1 period: - 0.19%, LONG exposition 49.7%, SHORT exposition 37.62%
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 --- End Execution Time : 20/09/2023 23:17:27 ---
+--- Start Execution Time : 21/09/2023 01:13:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 318.05 $
+18 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 103.0 GMT/USDT at the price of 0.1558$ ~16.05$
+Place Close Short Market Order: 34.0 STG/USDT at the price of 0.4562$ ~15.51$
+Current VaR rsik 1 period: - 0.27%, LONG exposition 49.97%, SHORT exposition 27.91%
+Place Open Long Market Order: 35.0 CRV/USDT at the price of 0.4433$ ~15.52$
+Place Open Long Market Order: 13.0 NEAR/USDT at the price of 1.1395$ ~14.81$
+Place Open Long Market Order: 0.5 EGLD/USDT at the price of 27.86$ ~13.93$
+--- End Execution Time : 21/09/2023 01:14:10 ---
