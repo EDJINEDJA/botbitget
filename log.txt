@@ -12724,3 +12724,21 @@ Current VaR rsik 1 period: - 0.54%, LONG exposition 73.3%, SHORT exposition 22.7
 Place Open Short Market Order: 14.2 APE/USDT at the price of 1.108$ ~15.73$
 Place Open Short Market Order: 3.079 APT/USDT at the price of 5.118$ ~15.76$
 --- End Execution Time : 21/09/2023 09:18:30 ---
+--- Start Execution Time : 21/09/2023 10:19:42 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 313.43 $
+22 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 111.9 C98/USDT at the price of 0.1381$ ~15.45$
+Place Close Long Market Order: 253.0 DOGE/USDT at the price of 0.061802$ ~15.64$
+Place Close Long Market Order: 100.0 GMT/USDT at the price of 0.1523$ ~15.23$
+Place Close Long Market Order: 29.0 MATIC/USDT at the price of 0.5293$ ~15.35$
+Place Close Long Market Order: 93.1 WOO/USDT at the price of 0.16957$ ~15.79$
+Current VaR rsik 1 period: - 0.19%, LONG exposition 48.16%, SHORT exposition 32.69%
+Place Open Short Market Order: 3.0 DOT/USDT at the price of 4.05$ ~12.15$
+Place Open Short Market Order: 82.0 FTM/USDT at the price of 0.1899$ ~15.57$
+Place Open Short Market Order: 102.0 GMT/USDT at the price of 0.1523$ ~15.53$
+Place Open Short Market Order: 53.0 SAND/USDT at the price of 0.2947$ ~15.62$
+--- End Execution Time : 21/09/2023 10:20:22 ---
