@@ -12742,3 +12742,25 @@ Place Open Short Market Order: 82.0 FTM/USDT at the price of 0.1899$ ~15.57$
 Place Open Short Market Order: 102.0 GMT/USDT at the price of 0.1523$ ~15.53$
 Place Open Short Market Order: 53.0 SAND/USDT at the price of 0.2947$ ~15.62$
 --- End Execution Time : 21/09/2023 10:20:22 ---
+--- Start Execution Time : 21/09/2023 11:14:51 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 313.35 $
+21 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 35.0 CRV/USDT at the price of 0.4364$ ~15.27$
+Place Close Long Market Order: 184.9 GRT/USDT at the price of 0.08798$ ~16.27$
+Place Close Long Market Order: 0.8 KSM/USDT at the price of 19.18$ ~15.34$
+Place Close Long Market Order: 53.0 MANA/USDT at the price of 0.2931$ ~15.53$
+Place Close Long Market Order: 13.0 NEAR/USDT at the price of 1.107$ ~14.39$
+Place Close Long Market Order: 1598.0 ONE/USDT at the price of 0.00984$ ~15.72$
+Current VaR rsik 1 period: - 0.27%, LONG exposition 23.38%, SHORT exposition 51.2%
+Place Open Short Market Order: 114.1 C98/USDT at the price of 0.1373$ ~15.67$
+Place Open Short Market Order: 35.0 CRV/USDT at the price of 0.4364$ ~15.27$
+Place Open Short Market Order: 254.0 DOGE/USDT at the price of 0.061532$ ~15.63$
+Place Open Short Market Order: 84.0 LRC/USDT at the price of 0.1742$ ~14.63$
+Place Open Short Market Order: 2150000.0 SHIB/USDT at the price of 7.265e-06$ ~15.62$
+Place Open Short Market Order: 34.0 STG/USDT at the price of 0.4522$ ~15.37$
+Place Open Short Market Order: 1.0 ETC/USDT at the price of 15.213$ ~15.21$
+--- End Execution Time : 21/09/2023 11:15:30 ---
