@@ -12945,3 +12945,13 @@ USD balance : 311.89 $
 Place Close Long Market Order: 387.0 ROSE/USDT at the price of 0.04278$ ~16.56$
 Current VaR rsik 1 period: - 0.5%, LONG exposition 23.58%, SHORT exposition 81.11%
 --- End Execution Time : 22/09/2023 07:16:39 ---
+--- Start Execution Time : 22/09/2023 08:22:00 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.56 $
+22 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 14.2 APE/USDT at the price of 1.138$ ~16.16$
+Current VaR rsik 1 period: - 0.45%, LONG exposition 23.76%, SHORT exposition 76.27%
+--- End Execution Time : 22/09/2023 08:22:40 ---
