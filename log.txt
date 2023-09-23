@@ -13228,3 +13228,12 @@ Place Open Short Market Order: 3.063 APT/USDT at the price of 5.09$ ~15.59$
 Place Open Short Market Order: 4.8 FIL/USDT at the price of 3.216$ ~15.44$
 Place Open Short Market Order: 14.0 NEAR/USDT at the price of 1.1095$ ~15.53$
 --- End Execution Time : 23/09/2023 14:14:53 ---
+--- Start Execution Time : 23/09/2023 15:15:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.45 $
+18 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.58%, LONG exposition 10.2%, SHORT exposition 76.03%
+--- End Execution Time : 23/09/2023 15:16:37 ---
