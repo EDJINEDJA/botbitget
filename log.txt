@@ -13274,3 +13274,12 @@ USD balance : 311.36 $
 Current VaR rsik 1 period: - 0.58%, LONG exposition 10.28%, SHORT exposition 76.17%
 Place Open Short Market Order: 0.8 KSM/USDT at the price of 18.52$ ~14.82$
 --- End Execution Time : 23/09/2023 19:13:17 ---
+--- Start Execution Time : 23/09/2023 20:16:14 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.15 $
+19 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.62%, LONG exposition 10.31%, SHORT exposition 81.07%
+--- End Execution Time : 23/09/2023 20:16:51 ---
