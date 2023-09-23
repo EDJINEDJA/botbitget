@@ -13106,3 +13106,12 @@ Place Close Short Market Order: 14.0 NEAR/USDT at the price of 1.116$ ~15.62$
 Place Close Short Market Order: 2150000.0 SHIB/USDT at the price of 7.313e-06$ ~15.72$
 Current VaR rsik 1 period: - 0.4%, LONG exposition 14.6%, SHORT exposition 61.09%
 --- End Execution Time : 23/09/2023 01:12:45 ---
+--- Start Execution Time : 23/09/2023 02:20:24 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 312.34 $
+16 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.4%, LONG exposition 14.55%, SHORT exposition 61.0%
+--- End Execution Time : 23/09/2023 02:21:02 ---
