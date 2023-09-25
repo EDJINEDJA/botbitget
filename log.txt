@@ -13656,3 +13656,13 @@ Place Open Short Market Order: 83.0 FTM/USDT at the price of 0.1867$ ~15.5$
 Place Open Short Market Order: 2150000.0 SHIB/USDT at the price of 7.208e-06$ ~15.5$
 Place Open Short Market Order: 10.2 WAVES/USDT at the price of 1.522$ ~15.52$
 --- End Execution Time : 25/09/2023 12:35:43 ---
+--- Start Execution Time : 25/09/2023 13:21:50 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.33 $
+18 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 52.0 SAND/USDT at the price of 0.2982$ ~15.51$
+Current VaR rsik 1 period: - 0.56%, LONG exposition 10.66%, SHORT exposition 73.7%
+--- End Execution Time : 25/09/2023 13:22:28 ---
