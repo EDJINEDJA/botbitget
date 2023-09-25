@@ -13676,3 +13676,13 @@ USD balance : 310.05 $
 Current VaR rsik 1 period: - 0.57%, LONG exposition 10.67%, SHORT exposition 73.87%
 Place Open Long Market Order: 52.0 MANA/USDT at the price of 0.2964$ ~15.41$
 --- End Execution Time : 25/09/2023 14:18:00 ---
+--- Start Execution Time : 25/09/2023 15:19:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 309.97 $
+18 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.52%, LONG exposition 15.66%, SHORT exposition 73.92%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+--- End Execution Time : 25/09/2023 15:19:42 ---
