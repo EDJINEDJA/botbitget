@@ -13602,3 +13602,14 @@ Place Close Long Market Order: 52.0 MANA/USDT at the price of 0.2938$ ~15.28$
 Place Close Short Market Order: 0.002 YFI/USDT at the price of 5175.0$ ~10.35$
 Current VaR rsik 1 period: - 0.38%, LONG exposition 15.65%, SHORT exposition 58.84%
 --- End Execution Time : 25/09/2023 07:17:20 ---
+--- Start Execution Time : 25/09/2023 08:23:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.49 $
+15 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Short Market Order: 14.0 APE/USDT at the price of 1.121$ ~15.69$
+Place Close Short Market Order: 34.0 STG/USDT at the price of 0.4594$ ~15.62$
+Current VaR rsik 1 period: - 0.29%, LONG exposition 15.62%, SHORT exposition 48.9%
+--- End Execution Time : 25/09/2023 08:23:39 ---
