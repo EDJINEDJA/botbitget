@@ -13623,3 +13623,13 @@ USD balance : 310.98 $
 Current VaR rsik 1 period: - 0.29%, LONG exposition 15.65%, SHORT exposition 48.7%
 Place Open Short Market Order: 52.0 SAND/USDT at the price of 0.2949$ ~15.33$
 --- End Execution Time : 25/09/2023 09:19:00 ---
+--- Start Execution Time : 25/09/2023 10:19:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.15 $
+14 active positions (['AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.33%, LONG exposition 15.64%, SHORT exposition 53.54%
+Place Open Short Market Order: 1.7 AVAX/USDT at the price of 8.84$ ~15.03$
+--- End Execution Time : 25/09/2023 10:19:49 ---
