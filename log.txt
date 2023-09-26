@@ -13928,3 +13928,13 @@ USD balance : 308.04 $
 Place Close Short Market Order: 12.4 OP/USDT at the price of 1.2771$ ~15.84$
 Current VaR rsik 1 period: - 0.38%, LONG exposition 15.75%, SHORT exposition 58.38%
 --- End Execution Time : 26/09/2023 17:16:31 ---
+--- Start Execution Time : 26/09/2023 18:22:51 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.91 $
+15 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.38%, LONG exposition 15.77%, SHORT exposition 58.0%
+Place Open Short Market Order: 1.0 ETC/USDT at the price of 15.068$ ~15.07$
+--- End Execution Time : 26/09/2023 18:23:30 ---
