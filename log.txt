@@ -13898,3 +13898,12 @@ Place Open Short Market Order: 3.0 DOT/USDT at the price of 3.999$ ~12.0$
 Place Open Short Market Order: 8.0 DYDX/USDT at the price of 1.89$ ~15.12$
 Place Open Short Market Order: 1159.0 GALA/USDT at the price of 0.01329$ ~15.4$
 --- End Execution Time : 26/09/2023 14:18:20 ---
+--- Start Execution Time : 26/09/2023 15:19:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 307.69 $
+15 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.39%, LONG exposition 15.64%, SHORT exposition 58.71%
+--- End Execution Time : 26/09/2023 15:19:41 ---
