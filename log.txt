@@ -13778,3 +13778,13 @@ Current VaR rsik 1 period: - 0.23%, LONG exposition 20.9%, SHORT exposition 44.6
 Place Open Long Market Order: 92.1 WOO/USDT at the price of 0.16776$ ~15.45$
 Place Open Short Market Order: 4333.0 JASMY/USDT at the price of 0.003567$ ~15.46$
 --- End Execution Time : 26/09/2023 01:15:40 ---
+--- Start Execution Time : 26/09/2023 02:23:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.92 $
+15 active positions (['AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.07 BNB/USDT at the price of 211.12$ ~14.78$
+Current VaR rsik 1 period: - 0.2%, LONG exposition 25.89%, SHORT exposition 44.96%
+--- End Execution Time : 26/09/2023 02:23:46 ---
