@@ -13961,3 +13961,12 @@ Place Open Long Market Order: 100.0 GMT/USDT at the price of 0.1536$ ~15.36$
 Place Open Long Market Order: 51.0 MANA/USDT at the price of 0.2984$ ~15.22$
 Place Open Long Market Order: 50.0 SAND/USDT at the price of 0.3022$ ~15.11$
 --- End Execution Time : 26/09/2023 20:19:04 ---
+--- Start Execution Time : 26/09/2023 21:15:21 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.69 $
+19 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.38%, LONG exposition 25.62%, SHORT exposition 67.8%
+--- End Execution Time : 26/09/2023 21:15:53 ---
