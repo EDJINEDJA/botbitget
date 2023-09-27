@@ -14095,3 +14095,17 @@ Place Close Short Market Order: 84.0 LRC/USDT at the price of 0.1736$ ~14.58$
 Current VaR rsik 1 period: - 0.48%, LONG exposition 11.1%, SHORT exposition 64.78%
 Place Open Long Market Order: 51.0 MANA/USDT at the price of 0.2979$ ~15.19$
 --- End Execution Time : 27/09/2023 10:19:49 ---
+--- Start Execution Time : 27/09/2023 11:14:38 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.5 $
+16 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 8.0 DYDX/USDT at the price of 1.903$ ~15.22$
+Place Close Short Market Order: 1631.0 ONE/USDT at the price of 0.00955$ ~15.58$
+Current VaR rsik 1 period: - 0.34%, LONG exposition 16.2%, SHORT exposition 54.91%
+Place Open Long Market Order: 99.0 GMT/USDT at the price of 0.1533$ ~15.18$
+Place Open Long Market Order: 0.7 KSM/USDT at the price of 19.19$ ~13.43$
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 27/09/2023 11:15:18 ---
