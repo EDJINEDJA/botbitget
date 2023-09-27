@@ -14000,3 +14000,13 @@ USD balance : 308.36 $
 Current VaR rsik 1 period: - 0.46%, LONG exposition 15.93%, SHORT exposition 68.02%
 Place Open Long Market Order: 51.0 MANA/USDT at the price of 0.2969$ ~15.14$
 --- End Execution Time : 27/09/2023 01:15:48 ---
+--- Start Execution Time : 27/09/2023 02:23:45 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.55 $
+18 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.42%, LONG exposition 20.9%, SHORT exposition 67.98%
+Place Open Short Market Order: 34.0 STG/USDT at the price of 0.4507$ ~15.32$
+--- End Execution Time : 27/09/2023 02:24:23 ---
