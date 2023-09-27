@@ -14143,3 +14143,28 @@ USD balance : 305.54 $
 Place Close Long Market Order: 99.0 GMT/USDT at the price of 0.1519$ ~15.04$
 Current VaR rsik 1 period: - 0.11%, LONG exposition 30.34%, SHORT exposition 34.78%
 --- End Execution Time : 27/09/2023 14:17:48 ---
+--- Start Execution Time : 27/09/2023 15:19:09 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 305.35 $
+13 active positions (['C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 4.6 FIL/USDT at the price of 3.207$ ~14.75$
+Place Close Long Market Order: 51.0 MANA/USDT at the price of 0.2947$ ~15.03$
+Place Close Long Market Order: 91.1 WOO/USDT at the price of 0.16496$ ~15.03$
+Current VaR rsik 1 period: - 0.18%, LONG exposition 15.36%, SHORT exposition 34.53%
+Place Open Short Market Order: 13.7 APE/USDT at the price of 1.112$ ~15.23$
+Place Open Short Market Order: 3.4 AXS/USDT at the price of 4.436$ ~15.08$
+Place Open Short Market Order: 252.0 DOGE/USDT at the price of 0.060475$ ~15.24$
+Place Open Short Market Order: 3.0 DOT/USDT at the price of 4.003$ ~12.01$
+Place Open Short Market Order: 8.0 DYDX/USDT at the price of 1.874$ ~14.99$
+Place Open Short Market Order: 81.0 FTM/USDT at the price of 0.1873$ ~15.17$
+Place Open Short Market Order: 1153.0 GALA/USDT at the price of 0.01324$ ~15.27$
+Place Open Short Market Order: 101.0 GMT/USDT at the price of 0.1503$ ~15.18$
+Place Open Short Market Order: 177.3 GRT/USDT at the price of 0.08608$ ~15.26$
+Place Open Short Market Order: 84.0 LRC/USDT at the price of 0.1713$ ~14.39$
+Place Open Short Market Order: 1620.0 ONE/USDT at the price of 0.00942$ ~15.26$
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+Place Open Short Market Order: 375.0 ROSE/USDT at the price of 0.04064$ ~15.24$
+--- End Execution Time : 27/09/2023 15:19:44 ---
