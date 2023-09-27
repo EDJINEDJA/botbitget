@@ -14079,3 +14079,19 @@ USD balance : 308.2 $
 Current VaR rsik 1 period: - 0.68%, LONG exposition 10.99%, SHORT exposition 87.67%
 Place Open Short Market Order: 3.4 AXS/USDT at the price of 4.443$ ~15.11$
 --- End Execution Time : 27/09/2023 09:18:16 ---
+--- Start Execution Time : 27/09/2023 10:19:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.63 $
+21 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ETC/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 3.0 DOT/USDT at the price of 4.037$ ~12.11$
+Place Close Short Market Order: 1.0 ETC/USDT at the price of 15.255$ ~15.26$
+Place Close Short Market Order: 4.8 FIL/USDT at the price of 3.216$ ~15.44$
+Place Close Short Market Order: 82.0 FTM/USDT at the price of 0.1881$ ~15.42$
+Place Close Short Market Order: 102.0 GMT/USDT at the price of 0.1527$ ~15.58$
+Place Close Short Market Order: 84.0 LRC/USDT at the price of 0.1736$ ~14.58$
+Current VaR rsik 1 period: - 0.48%, LONG exposition 11.1%, SHORT exposition 64.78%
+Place Open Long Market Order: 51.0 MANA/USDT at the price of 0.2979$ ~15.19$
+--- End Execution Time : 27/09/2023 10:19:49 ---
