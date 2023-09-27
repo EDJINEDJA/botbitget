@@ -14109,3 +14109,18 @@ Place Open Long Market Order: 99.0 GMT/USDT at the price of 0.1533$ ~15.18$
 Place Open Long Market Order: 0.7 KSM/USDT at the price of 19.19$ ~13.43$
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 27/09/2023 11:15:18 ---
+--- Start Execution Time : 27/09/2023 12:34:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 305.48 $
+16 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 13.8 APE/USDT at the price of 1.126$ ~15.54$
+Place Close Short Market Order: 3.4 AXS/USDT at the price of 4.5091$ ~15.33$
+Place Close Short Market Order: 254.0 DOGE/USDT at the price of 0.06127$ ~15.56$
+Place Close Short Market Order: 1159.0 GALA/USDT at the price of 0.01349$ ~15.63$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 25.66%, SHORT exposition 35.12%
+Place Open Long Market Order: 4.6 FIL/USDT at the price of 3.26$ ~15.0$
+Place Open Long Market Order: 91.1 WOO/USDT at the price of 0.1676$ ~15.27$
+--- End Execution Time : 27/09/2023 12:35:39 ---
