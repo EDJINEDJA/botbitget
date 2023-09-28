@@ -14256,3 +14256,14 @@ Place Close Short Market Order: 1620.0 ONE/USDT at the price of 0.00949$ ~15.37$
 Place Close Short Market Order: 375.0 ROSE/USDT at the price of 0.04128$ ~15.48$
 Current VaR rsik 1 period: - 0.56%, LONG exposition 15.52%, SHORT exposition 78.83%
 --- End Execution Time : 28/09/2023 01:15:20 ---
+--- Start Execution Time : 28/09/2023 02:22:46 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 303.4 $
+19 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 13.7 APE/USDT at the price of 1.119$ ~15.33$
+Current VaR rsik 1 period: - 0.51%, LONG exposition 15.56%, SHORT exposition 74.06%
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 28/09/2023 02:23:29 ---
