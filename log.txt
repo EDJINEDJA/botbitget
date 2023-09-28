@@ -14276,3 +14276,13 @@ USD balance : 304.3 $
 18 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.51%, LONG exposition 15.34%, SHORT exposition 73.37%
 --- End Execution Time : 28/09/2023 03:18:21 ---
+--- Start Execution Time : 28/09/2023 04:20:32 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 304.32 $
+18 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Long Market Order: 35.0 CRV/USDT at the price of 0.511$ ~17.89$
+Current VaR rsik 1 period: - 0.56%, LONG exposition 9.52%, SHORT exposition 73.41%
+--- End Execution Time : 28/09/2023 04:21:12 ---
