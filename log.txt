@@ -14389,3 +14389,20 @@ USD balance : 302.38 $
 Place Close Short Market Order: 10.2 WAVES/USDT at the price of 1.531$ ~15.62$
 Current VaR rsik 1 period: - 0.18%, LONG exposition 19.33%, SHORT exposition 40.03%
 --- End Execution Time : 28/09/2023 14:18:11 ---
+--- Start Execution Time : 28/09/2023 15:19:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.01 $
+12 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 0.6 EGLD/USDT at the price of 24.51$ ~14.71$
+Place Close Short Market Order: 81.0 FTM/USDT at the price of 0.1881$ ~15.24$
+Place Close Short Market Order: 29.0 MATIC/USDT at the price of 0.5143$ ~14.91$
+Current VaR rsik 1 period: - 0.1%, LONG exposition 19.4%, SHORT exposition 25.38%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 98.0 GMT/USDT at the price of 0.153$ ~14.99$
+Place Open Long Market Order: 1572.0 ONE/USDT at the price of 0.0096$ ~15.09$
+Place Open Long Market Order: 49.0 SAND/USDT at the price of 0.3027$ ~14.83$
+Place Open Long Market Order: 90.8 WOO/USDT at the price of 0.16615$ ~15.09$
+--- End Execution Time : 28/09/2023 15:19:39 ---
