@@ -14361,3 +14361,12 @@ Place Close Short Market Order: 1153.0 GALA/USDT at the price of 0.01336$ ~15.4$
 Current VaR rsik 1 period: - 0.29%, LONG exposition 15.12%, SHORT exposition 45.24%
 Place Open Long Market Order: 0.2 AAVE/USDT at the price of 63.087$ ~12.62$
 --- End Execution Time : 28/09/2023 11:15:13 ---
+--- Start Execution Time : 28/09/2023 12:34:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.15 $
+13 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.23%, LONG exposition 19.36%, SHORT exposition 45.3%
+--- End Execution Time : 28/09/2023 12:35:10 ---
