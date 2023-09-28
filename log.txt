@@ -14379,3 +14379,13 @@ USD balance : 302.11 $
 13 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.22%, LONG exposition 19.33%, SHORT exposition 45.29%
 --- End Execution Time : 28/09/2023 13:24:50 ---
+--- Start Execution Time : 28/09/2023 14:17:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.38 $
+13 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 10.2 WAVES/USDT at the price of 1.531$ ~15.62$
+Current VaR rsik 1 period: - 0.18%, LONG exposition 19.33%, SHORT exposition 40.03%
+--- End Execution Time : 28/09/2023 14:18:11 ---
