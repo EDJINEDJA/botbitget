@@ -14553,3 +14553,17 @@ Current VaR rsik 1 period: - 0.33%, LONG exposition 44.71%, SHORT exposition 5.1
 Place Open Long Market Order: 171.4 GRT/USDT at the price of 0.08821$ ~15.12$
 Place Open Long Market Order: 90.5 WOO/USDT at the price of 0.16701$ ~15.11$
 --- End Execution Time : 29/09/2023 07:16:39 ---
+--- Start Execution Time : 29/09/2023 08:21:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.81 $
+12 active positions (['AAVE/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 4333.0 JASMY/USDT at the price of 0.003591$ ~15.56$
+Current VaR rsik 1 period: - 0.45%, LONG exposition 54.79%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 28.0 CRV/USDT at the price of 0.525$ ~14.7$
+Place Open Long Market Order: 9.6 WAVES/USDT at the price of 1.553$ ~14.91$
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 29/09/2023 08:22:08 ---
