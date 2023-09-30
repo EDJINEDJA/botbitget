@@ -1,3 +1,448 @@
 ------------------------------------------------------------------------------------------------------
 --------------------------------------------------PILOT LOG TRADING------------------------------
 -------------------------------------------------------------------------------------------------
+
+--- Start Execution Time : 27/07/2023 08:21:05 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 0.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 08:21:34 ---
+--- Start Execution Time : 27/07/2023 09:16:57 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 50.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 09:17:24 ---
+--- Start Execution Time : 27/07/2023 10:18:39 ---
+--- Bollinger Trend on bitget_exemple -- 38 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 50.0 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 31.0 DOGE/USDT at the price of 0.079271$ ~2.46$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690453146467,"data":null}), skip DOGE/USDT:USDT
+Place Open Long Market Order: 310000.0 SHIB/USDT at the price of 7.889e-06$ ~2.45$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690453146662,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 27/07/2023 10:19:06 ---
+--- Start Execution Time : 27/07/2023 11:25:36 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 11:26:02 ---
+--- Start Execution Time : 27/07/2023 12:03:40 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 12:04:08 ---
+--- Start Execution Time : 27/07/2023 12:34:58 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 12:35:28 ---
+--- Start Execution Time : 27/07/2023 13:10:22 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 13:10:48 ---
+--- Start Execution Time : 27/07/2023 13:22:39 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 13:23:05 ---
+--- Start Execution Time : 27/07/2023 14:15:42 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 14:16:11 ---
+--- Start Execution Time : 27/07/2023 15:16:53 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 15:17:20 ---
+--- Start Execution Time : 27/07/2023 16:22:33 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 16:23:02 ---
+--- Start Execution Time : 27/07/2023 17:15:31 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 17:15:54 ---
+--- Start Execution Time : 27/07/2023 18:21:07 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/07/2023 18:21:33 ---
+--- Start Execution Time : 27/07/2023 19:13:33 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.36 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.4 AVAX/USDT at the price of 13.08$ ~5.23$
+Place Open Short Market Order: 1.2 FIL/USDT at the price of 4.347$ ~5.22$
+Place Open Short Market Order: 228.0 GALA/USDT at the price of 0.02324$ ~5.3$
+Place Open Short Market Order: 13.0 MANA/USDT at the price of 0.3822$ ~4.97$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690485243905,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 12.0 SAND/USDT at the price of 0.4222$ ~5.07$
+--- End Execution Time : 27/07/2023 19:14:04 ---
+--- Start Execution Time : 27/07/2023 20:20:05 ---
+--- Bollinger Trend on bitget_exemple -- 37 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.31 $
+4 active positions (['AVAX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.23%, LONG exposition 0%, SHORT exposition 19.61%
+--- End Execution Time : 27/07/2023 20:20:27 ---
+--- Start Execution Time : 27/07/2023 21:13:15 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.22 $
+4 active positions (['AVAX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.23%, LONG exposition 0%, SHORT exposition 19.71%
+--- End Execution Time : 27/07/2023 21:13:41 ---
+--- Start Execution Time : 27/07/2023 22:15:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.14 $
+4 active positions (['AVAX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 0%, SHORT exposition 19.8%
+Place Open Short Market Order: 2.6 APE/USDT at the price of 1.977$ ~5.14$
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 27/07/2023 22:16:19 ---
+--- Start Execution Time : 27/07/2023 23:16:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.13 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.3%, LONG exposition 0%, SHORT exposition 24.65%
+--- End Execution Time : 27/07/2023 23:16:53 ---
+--- Start Execution Time : 28/07/2023 01:22:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.05 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Short Market Order: 1.2 FIL/USDT at the price of 4.445$ ~5.33$
+Current VaR rsik 1 period: - 0.24%, LONG exposition 0%, SHORT exposition 19.73%
+Place Open Long Market Order: 1323.0 JASMY/USDT at the price of 0.004006$ ~5.3$
+--- End Execution Time : 28/07/2023 01:22:51 ---
+--- Start Execution Time : 28/07/2023 02:31:55 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.12 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.2%, LONG exposition 5.02%, SHORT exposition 19.67%
+--- End Execution Time : 28/07/2023 02:32:22 ---
+--- Start Execution Time : 28/07/2023 03:17:16 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.17 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.2%, LONG exposition 5.08%, SHORT exposition 19.67%
+--- End Execution Time : 28/07/2023 03:17:45 ---
+--- Start Execution Time : 28/07/2023 04:20:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.1 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.2%, LONG exposition 5.06%, SHORT exposition 19.73%
+--- End Execution Time : 28/07/2023 04:20:42 ---
+--- Start Execution Time : 28/07/2023 05:16:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.22 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.13%, SHORT exposition 19.67%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 28/07/2023 05:16:29 ---
+--- Start Execution Time : 28/07/2023 06:22:08 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.31 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.11%, SHORT exposition 19.55%
+Place Open Short Market Order: 7.0 CRV/USDT at the price of 0.7204$ ~5.04$
+Place Open Short Market Order: 2.0 DYDX/USDT at the price of 2.022$ ~4.04$
+Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350066,"data":null}), skip DYDX/USDT:USDT
+Place Open Short Market Order: 13.0 MANA/USDT at the price of 0.3824$ ~4.97$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350252,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 7.0 MATIC/USDT at the price of 0.7082$ ~4.96$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1690525350401,"data":null}), skip MATIC/USDT:USDT
+--- End Execution Time : 28/07/2023 06:22:30 ---
+--- Start Execution Time : 28/07/2023 07:15:38 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.32 $
+6 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 5.13%, SHORT exposition 24.3%
+--- End Execution Time : 28/07/2023 07:16:06 ---
+--- Start Execution Time : 28/07/2023 08:21:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.35 $
+6 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 5.17%, SHORT exposition 24.31%
+--- End Execution Time : 28/07/2023 08:21:23 ---
+--- Start Execution Time : 28/07/2023 09:16:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.42 $
+6 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 5.22%, SHORT exposition 24.28%
+--- End Execution Time : 28/07/2023 09:16:31 ---
+--- Start Execution Time : 28/07/2023 10:17:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.35 $
+6 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Short Market Order: 12.0 SAND/USDT at the price of 0.4296$ ~5.16$
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.27%, SHORT exposition 19.56%
+--- End Execution Time : 28/07/2023 10:18:26 ---
+--- Start Execution Time : 28/07/2023 11:14:20 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.38 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT'])
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.27%, SHORT exposition 19.52%
+--- End Execution Time : 28/07/2023 11:15:00 ---
+--- Start Execution Time : 28/07/2023 12:34:47 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.37 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT'])
+Current VaR rsik 1 period: - 0.19%, LONG exposition 5.31%, SHORT exposition 19.57%
+--- End Execution Time : 28/07/2023 12:35:12 ---
+--- Start Execution Time : 28/07/2023 13:21:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.32 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT'])
+Place Close Short Market Order: 7.0 CRV/USDT at the price of 0.7268$ ~5.09$
+Current VaR rsik 1 period: - 0.14%, LONG exposition 5.25%, SHORT exposition 14.78%
+Place Open Long Market Order: 640000.0 SHIB/USDT at the price of 8.18e-06$ ~5.24$
+--- End Execution Time : 28/07/2023 13:21:33 ---
+--- Start Execution Time : 28/07/2023 14:15:20 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.26 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.12%, LONG exposition 10.2%, SHORT exposition 14.86%
+--- End Execution Time : 28/07/2023 14:15:42 ---
+--- Start Execution Time : 28/07/2023 15:18:03 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.23 $
+5 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 0.4 AVAX/USDT at the price of 13.257$ ~5.3$
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.23%, SHORT exposition 9.93%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 28/07/2023 15:18:31 ---
+--- Start Execution Time : 28/07/2023 16:32:21 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.2 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.17%, SHORT exposition 9.88%
+--- End Execution Time : 28/07/2023 16:32:49 ---
+--- Start Execution Time : 28/07/2023 17:15:24 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.18 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.15%, SHORT exposition 9.89%
+--- End Execution Time : 28/07/2023 17:15:50 ---
+--- Start Execution Time : 28/07/2023 18:19:51 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.22 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.14%, SHORT exposition 9.84%
+Place Open Short Market Order: 7.0 CRV/USDT at the price of 0.7226$ ~5.06$
+--- End Execution Time : 28/07/2023 18:20:14 ---
+--- Start Execution Time : 28/07/2023 20:17:33 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.18 $
+5 active positions (['APE/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.12%, LONG exposition 10.15%, SHORT exposition 14.64%
+--- End Execution Time : 28/07/2023 20:18:01 ---
+--- Start Execution Time : 28/07/2023 21:14:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.17 $
+5 active positions (['APE/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 7.0 CRV/USDT at the price of 0.7288$ ~5.1$
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.18%, SHORT exposition 9.89%
+--- End Execution Time : 28/07/2023 21:15:02 ---
+--- Start Execution Time : 28/07/2023 22:15:56 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.09 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.11%, SHORT exposition 9.89%
+--- End Execution Time : 28/07/2023 22:16:25 ---
+--- Start Execution Time : 28/07/2023 23:16:44 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.06 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.09%, SHORT exposition 9.9%
+--- End Execution Time : 28/07/2023 23:17:09 ---
+--- Start Execution Time : 29/07/2023 02:28:09 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.1 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.14%, SHORT exposition 9.9%
+--- End Execution Time : 29/07/2023 02:28:36 ---
+--- Start Execution Time : 29/07/2023 03:16:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.12 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.19%, SHORT exposition 9.93%
+--- End Execution Time : 29/07/2023 03:17:26 ---
+--- Start Execution Time : 29/07/2023 04:19:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.16 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.22%, SHORT exposition 9.92%
+--- End Execution Time : 29/07/2023 04:20:05 ---
+--- Start Execution Time : 29/07/2023 05:15:18 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 106.15 $
+4 active positions (['APE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 228.0 GALA/USDT at the price of 0.02374$ ~5.41$
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.22%, SHORT exposition 4.84%
+--- End Execution Time : 29/07/2023 05:15:46 ---
+--- Start Execution Time : 29/07/2023 07:14:43 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.95 $
+3 active positions (['APE/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.04%, SHORT exposition 4.83%
+--- End Execution Time : 29/07/2023 07:15:07 ---
+--- Start Execution Time : 29/07/2023 08:19:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 105.94 $
+3 active positions (['APE/USDT:USDT', 'JASMY/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 10.02%, SHORT exposition 4.82%
+--- End Execution Time : 29/07/2023 08:19:42 ---
