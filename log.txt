@@ -14719,3 +14719,15 @@ Current VaR rsik 1 period: - 0.68%, LONG exposition 83.51%, SHORT exposition 0%
 Place Open Long Market Order: 2060000.0 SHIB/USDT at the price of 7.354e-06$ ~15.15$
 Place Open Long Market Order: 360.0 ROSE/USDT at the price of 0.04218$ ~15.18$
 --- End Execution Time : 30/09/2023 01:13:41 ---
+--- Start Execution Time : 30/09/2023 02:21:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 303.06 $
+19 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 2.75 APT/USDT at the price of 5.336$ ~14.67$
+Place Close Long Market Order: 28.0 CRV/USDT at the price of 0.5199$ ~14.56$
+Place Close Long Market Order: 171.4 GRT/USDT at the price of 0.08666$ ~14.85$
+Current VaR rsik 1 period: - 0.62%, LONG exposition 78.93%, SHORT exposition 0%
+--- End Execution Time : 30/09/2023 02:21:57 ---
