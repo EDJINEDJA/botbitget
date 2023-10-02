@@ -516,3 +516,25 @@ USD balance : 308.44 $
 Current VaR rsik 1 period: - 0.64%, LONG exposition 84.44%, SHORT exposition 5.0%
 Place Open Long Market Order: 78.0 LRC/USDT at the price of 0.1859$ ~14.5$
 --- End Execution Time : 02/10/2023 18:23:48 ---
+--- Start Execution Time : 02/10/2023 19:14:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 303.42 $
+19 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 2.775 APT/USDT at the price of 5.397$ ~14.98$
+Place Close Long Market Order: 1.6 AVAX/USDT at the price of 9.306$ ~14.89$
+Place Close Long Market Order: 106.3 C98/USDT at the price of 0.1475$ ~15.68$
+Place Close Long Market Order: 3.0 DOT/USDT at the price of 4.116$ ~12.35$
+Place Close Long Market Order: 4.6 FIL/USDT at the price of 3.317$ ~15.26$
+Place Close Long Market Order: 98.0 GMT/USDT at the price of 0.1562$ ~15.31$
+Place Close Long Market Order: 172.0 GRT/USDT at the price of 0.08821$ ~15.17$
+Place Close Long Market Order: 50.0 MANA/USDT at the price of 0.3086$ ~15.43$
+Place Close Long Market Order: 1572.0 ONE/USDT at the price of 0.0097$ ~15.25$
+Place Close Long Market Order: 360.0 ROSE/USDT at the price of 0.04143$ ~14.91$
+Place Close Long Market Order: 2060000.0 SHIB/USDT at the price of 7.281e-06$ ~15.0$
+Place Close Long Market Order: 9.6 WAVES/USDT at the price of 1.549$ ~14.87$
+Current VaR rsik 1 period: - 0.23%, LONG exposition 29.79%, SHORT exposition 4.93%
+Place Open Short Market Order: 2080000.0 SHIB/USDT at the price of 7.281e-06$ ~15.14$
+--- End Execution Time : 02/10/2023 19:14:50 ---
