@@ -819,3 +819,12 @@ USD balance : 304.28 $
 16 active positions (['AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.4%, LONG exposition 10.43%, SHORT exposition 66.09%
 --- End Execution Time : 04/10/2023 02:25:30 ---
+--- Start Execution Time : 04/10/2023 03:17:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 304.14 $
+16 active positions (['AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.4%, LONG exposition 10.47%, SHORT exposition 66.2%
+--- End Execution Time : 04/10/2023 03:18:30 ---
