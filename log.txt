@@ -865,3 +865,12 @@ USD balance : 304.08 $
 Current VaR rsik 1 period: - 0.4%, LONG exposition 10.77%, SHORT exposition 66.53%
 Place Open Long Market Order: 1.5 AVAX/USDT at the price of 9.658$ ~14.49$
 --- End Execution Time : 04/10/2023 07:17:01 ---
+--- Start Execution Time : 04/10/2023 08:22:54 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 304.34 $
+17 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.37%, LONG exposition 15.68%, SHORT exposition 66.54%
+--- End Execution Time : 04/10/2023 08:23:33 ---
