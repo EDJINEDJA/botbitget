@@ -965,3 +965,12 @@ USD balance : 303.68 $
 18 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.4%, LONG exposition 15.48%, SHORT exposition 71.64%
 --- End Execution Time : 04/10/2023 18:24:22 ---
+--- Start Execution Time : 04/10/2023 19:14:35 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.86 $
+18 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.41%, LONG exposition 15.65%, SHORT exposition 72.23%
+--- End Execution Time : 04/10/2023 19:15:17 ---
