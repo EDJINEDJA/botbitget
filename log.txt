@@ -1177,3 +1177,12 @@ USD balance : 305.69 $
 Current VaR rsik 1 period: - 0.58%, LONG exposition 14.24%, SHORT exposition 95.62%
 Blocked open SHORT on C98/USDT:USDT, because next VaR: - 0.58%
 --- End Execution Time : 05/10/2023 17:16:58 ---
+--- Start Execution Time : 05/10/2023 18:23:24 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.26 $
+23 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.58%, LONG exposition 14.28%, SHORT exposition 95.32%
+--- End Execution Time : 05/10/2023 18:24:04 ---
