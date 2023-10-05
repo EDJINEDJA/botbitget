@@ -1040,3 +1040,12 @@ Place Close Long Market Order: 28.0 MATIC/USDT at the price of 0.5606$ ~15.7$
 Current VaR rsik 1 period: - 0.48%, LONG exposition 10.39%, SHORT exposition 77.06%
 Place Open Short Market Order: 2.861 APT/USDT at the price of 5.294$ ~15.15$
 --- End Execution Time : 05/10/2023 03:18:24 ---
+--- Start Execution Time : 05/10/2023 04:20:42 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 303.07 $
+19 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.52%, LONG exposition 10.31%, SHORT exposition 81.94%
+--- End Execution Time : 05/10/2023 04:21:14 ---
