@@ -1434,3 +1434,16 @@ USD balance : 303.08 $
 Place Close Short Market Order: 247.0 DOGE/USDT at the price of 0.061263$ ~15.13$
 Current VaR rsik 1 period: - 0.18%, LONG exposition 19.92%, SHORT exposition 44.3%
 --- End Execution Time : 06/10/2023 21:15:24 ---
+--- Start Execution Time : 06/10/2023 22:16:06 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.57 $
+12 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 1591.0 ONE/USDT at the price of 0.00952$ ~15.15$
+Place Close Short Market Order: 2080000.0 SHIB/USDT at the price of 7.245e-06$ ~15.07$
+Current VaR rsik 1 period: - 0.11%, LONG exposition 20.02%, SHORT exposition 29.63%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.002 YFI/USDT at the price of 5327.0$ ~10.65$
+--- End Execution Time : 06/10/2023 22:16:38 ---
