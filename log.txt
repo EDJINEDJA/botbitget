@@ -1401,3 +1401,17 @@ Place Close Short Market Order: 381.0 ROSE/USDT at the price of 0.04131$ ~15.74$
 Current VaR rsik 1 period: - 0.39%, LONG exposition 10.39%, SHORT exposition 63.6%
 Place Open Long Market Order: 0.2 AAVE/USDT at the price of 69.203$ ~13.84$
 --- End Execution Time : 06/10/2023 18:23:38 ---
+--- Start Execution Time : 06/10/2023 19:13:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 303.11 $
+16 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 2.861 APT/USDT at the price of 5.317$ ~15.21$
+Place Close Short Market Order: 7.0 DYDX/USDT at the price of 1.997$ ~13.98$
+Place Close Short Market Order: 50.0 MANA/USDT at the price of 0.2999$ ~14.99$
+Place Close Short Market Order: 13.0 NEAR/USDT at the price of 1.0945$ ~14.23$
+Current VaR rsik 1 period: - 0.21%, LONG exposition 15.01%, SHORT exposition 44.37%
+Place Open Long Market Order: 4.5 FIL/USDT at the price of 3.34$ ~15.03$
+--- End Execution Time : 06/10/2023 19:14:21 ---
