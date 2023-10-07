@@ -1484,3 +1484,13 @@ USD balance : 302.8 $
 Current VaR rsik 1 period: - 0.1%, LONG exposition 23.49%, SHORT exposition 29.49%
 Place Open Long Market Order: 26.0 MATIC/USDT at the price of 0.5728$ ~14.89$
 --- End Execution Time : 07/10/2023 03:18:17 ---
+--- Start Execution Time : 07/10/2023 04:20:21 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.69 $
+12 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'AVAX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Long Market Order: 0.2 AAVE/USDT at the price of 67.065$ ~13.41$
+Current VaR rsik 1 period: - 0.1%, LONG exposition 24.03%, SHORT exposition 29.58%
+--- End Execution Time : 07/10/2023 04:20:58 ---
