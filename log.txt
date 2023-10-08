@@ -1688,3 +1688,14 @@ USD balance : 301.84 $
 Place Close Short Market Order: 177.5 GRT/USDT at the price of 0.08552$ ~15.18$
 Current VaR rsik 1 period: - 0.18%, LONG exposition 28.47%, SHORT exposition 49.23%
 --- End Execution Time : 08/10/2023 01:20:19 ---
+--- Start Execution Time : 08/10/2023 02:25:11 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 301.3 $
+16 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 0.07 BNB/USDT at the price of 212.45$ ~14.87$
+Place Close Long Market Order: 26.0 MATIC/USDT at the price of 0.5628$ ~14.63$
+Current VaR rsik 1 period: - 0.19%, LONG exposition 23.75%, SHORT exposition 44.64%
+--- End Execution Time : 08/10/2023 02:25:52 ---
