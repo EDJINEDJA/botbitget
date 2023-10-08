@@ -1783,3 +1783,17 @@ Place Open Short Market Order: 0.07 BNB/USDT at the price of 211.07$ ~14.77$
 Place Open Short Market Order: 177.7 GRT/USDT at the price of 0.08485$ ~15.08$
 Place Open Short Market Order: 13.0 NEAR/USDT at the price of 1.079$ ~14.03$
 --- End Execution Time : 08/10/2023 10:17:39 ---
+--- Start Execution Time : 08/10/2023 11:13:15 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 302.02 $
+14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.31%, LONG exposition 13.31%, SHORT exposition 52.71%
+Place Open Short Market Order: 104.8 C98/USDT at the price of 0.144$ ~15.09$
+Place Open Short Market Order: 248.0 DOGE/USDT at the price of 0.060881$ ~15.1$
+Place Open Short Market Order: 1622.0 ONE/USDT at the price of 0.00931$ ~15.1$
+Place Open Short Market Order: 2100000.0 SHIB/USDT at the price of 7.178e-06$ ~15.07$
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 08/10/2023 11:13:52 ---
