@@ -2004,3 +2004,24 @@ Place Open Short Market Order: 1611.0 ONE/USDT at the price of 0.00937$ ~15.1$
 Place Open Short Market Order: 51.0 SAND/USDT at the price of 0.2951$ ~15.05$
 Place Open Short Market Order: 34.0 STG/USDT at the price of 0.438$ ~14.89$
 --- End Execution Time : 09/10/2023 09:19:51 ---
+--- Start Execution Time : 09/10/2023 10:20:43 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 307.43 $
+20 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
+Place Close Long Market Order: 7.0 DYDX/USDT at the price of 1.988$ ~13.92$
+Place Close Long Market Order: 4.5 FIL/USDT at the price of 3.297$ ~14.84$
+Place Close Long Market Order: 84.0 LRC/USDT at the price of 0.1709$ ~14.36$
+Current VaR rsik 1 period: - 0.58%, LONG exposition 0%, SHORT exposition 78.71%
+Place Open Short Market Order: 4.6 FIL/USDT at the price of 3.297$ ~15.17$
+Place Open Short Market Order: 104.0 GMT/USDT at the price of 0.147$ ~15.29$
+Place Open Short Market Order: 0.8 KSM/USDT at the price of 17.4$ ~13.92$
+Place Open Short Market Order: 84.0 LRC/USDT at the price of 0.1709$ ~14.36$
+Blocked open SHORT on WAVES/USDT:USDT, because next VaR: - 0.58%
+Blocked open SHORT on YFI/USDT:USDT, because next VaR: - 0.58%
+Blocked open SHORT on EGLD/USDT:USDT, because next VaR: - 0.58%
+Blocked open SHORT on JASMY/USDT:USDT, because next VaR: - 0.58%
+Blocked open SHORT on ROSE/USDT:USDT, because next VaR: - 0.58%
+--- End Execution Time : 09/10/2023 10:21:27 ---
