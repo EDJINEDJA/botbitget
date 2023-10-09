@@ -1911,3 +1911,13 @@ USD balance : 299.93 $
 14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
 Current VaR rsik 1 period: - 0.36%, LONG exposition 9.76%, SHORT exposition 58.92%
 --- End Execution Time : 08/10/2023 23:17:29 ---
+--- Start Execution Time : 09/10/2023 01:14:58 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 300.75 $
+14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'OP/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
+Current VaR rsik 1 period: - 0.36%, LONG exposition 9.76%, SHORT exposition 58.52%
+Place Open Short Market Order: 13.0 NEAR/USDT at the price of 1.0795$ ~14.03$
+--- End Execution Time : 09/10/2023 01:15:31 ---
