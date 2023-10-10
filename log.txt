@@ -2172,3 +2172,12 @@ USD balance : 308.78 $
 21 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
 Current VaR rsik 1 period: - 0.73%, LONG exposition 0%, SHORT exposition 96.8%
 --- End Execution Time : 10/10/2023 03:18:26 ---
+--- Start Execution Time : 10/10/2023 04:20:33 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.3 $
+21 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT'])
+Current VaR rsik 1 period: - 0.73%, LONG exposition 0%, SHORT exposition 95.84%
+--- End Execution Time : 10/10/2023 04:21:10 ---
