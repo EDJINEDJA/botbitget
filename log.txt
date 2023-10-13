@@ -2993,3 +2993,13 @@ Place Close Short Market Order: 34.0 STG/USDT at the price of 0.4172$ ~14.18$
 Place Close Short Market Order: 0.003 YFI/USDT at the price of 5134.0$ ~15.4$
 Current VaR rsik 1 period: - 0.15%, LONG exposition 5.02%, SHORT exposition 26.89%
 --- End Execution Time : 13/10/2023 21:15:39 ---
+--- Start Execution Time : 13/10/2023 22:16:40 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.66 $
+7 active positions (['AVAX/USDT:USDT', 'DOT/USDT:USDT', 'ETH/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.8 KSM/USDT at the price of 17.09$ ~13.67$
+Current VaR rsik 1 period: - 0.12%, LONG exposition 5.08%, SHORT exposition 22.62%
+--- End Execution Time : 13/10/2023 22:17:16 ---
