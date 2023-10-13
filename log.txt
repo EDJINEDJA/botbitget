@@ -2980,3 +2980,16 @@ USD balance : 312.14 $
 11 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'ETH/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.27%, LONG exposition 4.96%, SHORT exposition 45.01%
 --- End Execution Time : 13/10/2023 20:19:43 ---
+--- Start Execution Time : 13/10/2023 21:15:05 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.87 $
+11 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'ETH/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Place Close Short Market Order: 3.4 AXS/USDT at the price of 4.2322$ ~14.39$
+Place Close Short Market Order: 104.8 C98/USDT at the price of 0.1369$ ~14.35$
+Place Close Short Market Order: 34.0 STG/USDT at the price of 0.4172$ ~14.18$
+Place Close Short Market Order: 0.003 YFI/USDT at the price of 5134.0$ ~15.4$
+Current VaR rsik 1 period: - 0.15%, LONG exposition 5.02%, SHORT exposition 26.89%
+--- End Execution Time : 13/10/2023 21:15:39 ---
