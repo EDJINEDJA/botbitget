@@ -2934,3 +2934,12 @@ USD balance : 312.79 $
 Current VaR rsik 1 period: - 0.3%, LONG exposition 5.01%, SHORT exposition 49.25%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 13/10/2023 15:19:16 ---
+--- Start Execution Time : 13/10/2023 16:22:41 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 312.44 $
+12 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'ETH/USDT:USDT', 'KSM/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.3%, LONG exposition 5.01%, SHORT exposition 49.41%
+--- End Execution Time : 13/10/2023 16:23:17 ---
