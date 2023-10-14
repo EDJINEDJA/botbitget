@@ -3131,3 +3131,12 @@ USD balance : 311.33 $
 5 active positions (['AVAX/USDT:USDT', 'ETH/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.1%, LONG exposition 5.12%, SHORT exposition 18.8%
 --- End Execution Time : 14/10/2023 13:18:41 ---
+--- Start Execution Time : 14/10/2023 14:14:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.25 $
+5 active positions (['AVAX/USDT:USDT', 'ETH/USDT:USDT', 'NEAR/USDT:USDT', 'OP/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.1%, LONG exposition 5.13%, SHORT exposition 18.84%
+--- End Execution Time : 14/10/2023 14:15:02 ---
