@@ -3351,3 +3351,13 @@ USD balance : 311.09 $
 3 active positions (['OP/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.05%, LONG exposition 5.03%, SHORT exposition 9.43%
 --- End Execution Time : 15/10/2023 14:15:32 ---
+--- Start Execution Time : 15/10/2023 15:16:07 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 311.03 $
+3 active positions (['OP/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.05%, LONG exposition 5.02%, SHORT exposition 9.44%
+Place Open Short Market Order: 8.0 DYDX/USDT at the price of 1.827$ ~14.62$
+--- End Execution Time : 15/10/2023 15:16:45 ---
