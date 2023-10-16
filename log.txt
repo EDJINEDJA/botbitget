@@ -3439,3 +3439,13 @@ USD balance : 310.84 $
 Current VaR rsik 1 period: - 0.04%, LONG exposition 5.08%, SHORT exposition 4.89%
 Place Open Short Market Order: 37.0 STG/USDT at the price of 0.4121$ ~15.25$
 --- End Execution Time : 15/10/2023 23:17:49 ---
+--- Start Execution Time : 16/10/2023 01:16:38 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.77 $
+3 active positions (['STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.05%, LONG exposition 5.12%, SHORT exposition 9.85%
+Place Open Long Market Order: 0.6 EGLD/USDT at the price of 25.4$ ~15.24$
+--- End Execution Time : 16/10/2023 01:17:18 ---
