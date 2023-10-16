@@ -3468,3 +3468,12 @@ USD balance : 310.91 $
 4 active positions (['EGLD/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
 Current VaR rsik 1 period: - 0.06%, LONG exposition 10.05%, SHORT exposition 9.81%
 --- End Execution Time : 16/10/2023 03:19:10 ---
+--- Start Execution Time : 16/10/2023 04:21:21 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.84 $
+4 active positions (['EGLD/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.06%, LONG exposition 10.02%, SHORT exposition 9.8%
+--- End Execution Time : 16/10/2023 04:21:53 ---
