@@ -3758,3 +3758,12 @@ USD balance : 309.52 $
 Current VaR rsik 1 period: - 0.08%, LONG exposition 14.76%, SHORT exposition 8.89%
 Place Open Short Market Order: 85.0 FTM/USDT at the price of 0.1818$ ~15.45$
 --- End Execution Time : 17/10/2023 11:15:49 ---
+--- Start Execution Time : 17/10/2023 12:35:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 309.66 $
+6 active positions (['AAVE/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT'])
+Current VaR rsik 1 period: - 0.07%, LONG exposition 14.7%, SHORT exposition 13.78%
+--- End Execution Time : 17/10/2023 12:36:06 ---
