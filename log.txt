@@ -3784,3 +3784,22 @@ Place Open Short Market Order: 90.0 LRC/USDT at the price of 0.1664$ ~14.98$
 Place Open Short Market Order: 1698.0 ONE/USDT at the price of 0.00911$ ~15.47$
 Place Open Short Market Order: 89.5 WOO/USDT at the price of 0.17277$ ~15.46$
 --- End Execution Time : 17/10/2023 13:22:25 ---
+--- Start Execution Time : 17/10/2023 14:17:13 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 310.45 $
+14 active positions (['AAVE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'LRC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 0.6 EGLD/USDT at the price of 24.2$ ~14.52$
+Place Close Long Market Order: 373.0 ROSE/USDT at the price of 0.04059$ ~15.14$
+Current VaR rsik 1 period: - 0.35%, LONG exposition 4.84%, SHORT exposition 52.35%
+Place Open Short Market Order: 35.0 CRV/USDT at the price of 0.4359$ ~15.26$
+Place Open Short Market Order: 4.8 FIL/USDT at the price of 3.191$ ~15.32$
+Place Open Short Market Order: 108.0 GMT/USDT at the price of 0.1437$ ~15.52$
+Place Open Short Market Order: 55.0 MANA/USDT at the price of 0.2798$ ~15.39$
+Place Open Short Market Order: 54.0 SAND/USDT at the price of 0.2866$ ~15.48$
+Place Open Short Market Order: 2240000.0 SHIB/USDT at the price of 6.903e-06$ ~15.46$
+Place Open Short Market Order: 0.003 YFI/USDT at the price of 5092.0$ ~15.28$
+Place Open Short Market Order: 5095.0 JASMY/USDT at the price of 0.003046$ ~15.52$
+--- End Execution Time : 17/10/2023 14:17:56 ---
