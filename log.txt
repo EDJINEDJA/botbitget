@@ -3901,3 +3901,13 @@ USD balance : 311.01 $
 Current VaR rsik 1 period: - 0.65%, LONG exposition 4.93%, SHORT exposition 96.63%
 Blocked open SHORT on DOGE/USDT:USDT, because next VaR: - 0.65%
 --- End Execution Time : 18/10/2023 01:16:09 ---
+--- Start Execution Time : 18/10/2023 02:24:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 312.0 $
+21 active positions (['AAVE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.65%, LONG exposition 4.86%, SHORT exposition 95.95%
+Blocked open SHORT on YFI/USDT:USDT, because next VaR: - 0.65%
+--- End Execution Time : 18/10/2023 02:24:54 ---
