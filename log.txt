@@ -4359,3 +4359,17 @@ Place Close Short Market Order: 54.0 SAND/USDT at the price of 0.2891$ ~15.61$
 Place Close Short Market Order: 2240000.0 SHIB/USDT at the price of 6.941e-06$ ~15.55$
 Current VaR rsik 1 period: - 0.6%, LONG exposition 0%, SHORT exposition 83.55%
 --- End Execution Time : 20/10/2023 03:18:35 ---
+--- Start Execution Time : 20/10/2023 04:21:05 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.78 $
+17 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'STG/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 1.7 AVAX/USDT at the price of 9.212$ ~15.66$
+Place Close Short Market Order: 4.0 DOT/USDT at the price of 3.702$ ~14.81$
+Place Close Short Market Order: 55.0 MANA/USDT at the price of 0.2824$ ~15.53$
+Place Close Short Market Order: 10.8 WAVES/USDT at the price of 1.469$ ~15.87$
+Current VaR rsik 1 period: - 0.47%, LONG exposition 0%, SHORT exposition 63.58%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+--- End Execution Time : 20/10/2023 04:21:48 ---
