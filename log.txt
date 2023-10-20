@@ -4433,3 +4433,13 @@ Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than mini
 Place Open Long Market Order: 0.07 BNB/USDT at the price of 214.57$ ~15.02$
 Place Open Long Market Order: 52.0 SAND/USDT at the price of 0.2932$ ~15.25$
 --- End Execution Time : 20/10/2023 09:18:09 ---
+--- Start Execution Time : 20/10/2023 10:19:13 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.4 $
+7 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.1%, LONG exposition 15.14%, SHORT exposition 20.05%
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 20/10/2023 10:19:52 ---
