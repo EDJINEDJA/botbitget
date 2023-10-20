@@ -4453,3 +4453,12 @@ USD balance : 306.53 $
 Current VaR rsik 1 period: - 0.1%, LONG exposition 15.02%, SHORT exposition 19.88%
 Place Open Long Market Order: 0.6 EGLD/USDT at the price of 25.19$ ~15.11$
 --- End Execution Time : 20/10/2023 11:15:40 ---
+--- Start Execution Time : 20/10/2023 12:34:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.65 $
+8 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT', 'YFI/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 19.79%, SHORT exposition 19.68%
+--- End Execution Time : 20/10/2023 12:34:50 ---
