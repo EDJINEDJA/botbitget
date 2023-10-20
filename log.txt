@@ -4373,3 +4373,13 @@ Place Close Short Market Order: 10.8 WAVES/USDT at the price of 1.469$ ~15.87$
 Current VaR rsik 1 period: - 0.47%, LONG exposition 0%, SHORT exposition 63.58%
 Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
 --- End Execution Time : 20/10/2023 04:21:48 ---
+--- Start Execution Time : 20/10/2023 05:16:15 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 308.38 $
+13 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'STG/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 37.0 STG/USDT at the price of 0.4006$ ~14.82$
+Current VaR rsik 1 period: - 0.45%, LONG exposition 0%, SHORT exposition 58.98%
+--- End Execution Time : 20/10/2023 05:16:54 ---
