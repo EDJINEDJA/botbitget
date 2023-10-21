@@ -4563,3 +4563,12 @@ USD balance : 306.21 $
 Place Close Short Market Order: 0.003 YFI/USDT at the price of 5035.0$ ~15.11$
 Current VaR rsik 1 period: - 0.09%, LONG exposition 19.87%, SHORT exposition 9.67%
 --- End Execution Time : 20/10/2023 23:17:19 ---
+--- Start Execution Time : 21/10/2023 01:13:12 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 305.85 $
+6 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.09%, LONG exposition 19.73%, SHORT exposition 9.63%
+--- End Execution Time : 21/10/2023 01:13:49 ---
