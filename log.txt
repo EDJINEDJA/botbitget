@@ -4600,3 +4600,12 @@ USD balance : 305.87 $
 5 active positions (['C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
 Current VaR rsik 1 period: - 0.08%, LONG exposition 14.92%, SHORT exposition 9.67%
 --- End Execution Time : 21/10/2023 04:20:56 ---
+--- Start Execution Time : 21/10/2023 05:15:37 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.09 $
+5 active positions (['C98/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'GALA/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.08%, LONG exposition 15.0%, SHORT exposition 9.68%
+--- End Execution Time : 21/10/2023 05:16:09 ---
