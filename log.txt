@@ -4698,3 +4698,12 @@ Place Open Long Market Order: 9.6 WAVES/USDT at the price of 1.528$ ~14.67$
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 Place Open Long Market Order: 367.0 ROSE/USDT at the price of 0.04175$ ~15.32$
 --- End Execution Time : 21/10/2023 14:15:14 ---
+--- Start Execution Time : 21/10/2023 15:15:55 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.36 $
+8 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.29%, LONG exposition 39.82%, SHORT exposition 0%
+--- End Execution Time : 21/10/2023 15:16:32 ---
