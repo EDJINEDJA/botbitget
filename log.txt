@@ -4904,3 +4904,12 @@ Place Open Long Market Order: 252.0 DOGE/USDT at the price of 0.060792$ ~15.32$
 Place Open Long Market Order: 1628.0 ONE/USDT at the price of 0.00941$ ~15.32$
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 22/10/2023 13:19:02 ---
+--- Start Execution Time : 22/10/2023 14:14:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 306.65 $
+11 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.38%, LONG exposition 54.83%, SHORT exposition 0%
+--- End Execution Time : 22/10/2023 14:15:30 ---
