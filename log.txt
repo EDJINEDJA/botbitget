@@ -5585,3 +5585,12 @@ USD balance : 339.04 $
 Current VaR rsik 1 period: - 0.76%, LONG exposition 98.85%, SHORT exposition 0%
 Blocked open LONG on FIL/USDT:USDT, because next VaR: - 0.76%
 --- End Execution Time : 25/10/2023 16:22:49 ---
+--- Start Execution Time : 25/10/2023 17:15:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 336.4 $
+20 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.76%, LONG exposition 98.85%, SHORT exposition 0%
+--- End Execution Time : 25/10/2023 17:16:02 ---
