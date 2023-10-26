@@ -5799,3 +5799,14 @@ Place Close Long Market Order: 0.07 BNB/USDT at the price of 220.85$ ~15.46$
 Place Close Long Market Order: 9.6 WAVES/USDT at the price of 1.674$ ~16.07$
 Current VaR rsik 1 period: - 0.72%, LONG exposition 89.33%, SHORT exposition 0%
 --- End Execution Time : 26/10/2023 15:18:32 ---
+--- Start Execution Time : 26/10/2023 16:22:38 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 331.86 $
+18 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'EGLD/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'KSM/USDT:USDT', 'LRC/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'OP/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 0.6 EGLD/USDT at the price of 28.4$ ~17.04$
+Place Close Long Market Order: 26.0 MATIC/USDT at the price of 0.6209$ ~16.14$
+Current VaR rsik 1 period: - 0.65%, LONG exposition 79.38%, SHORT exposition 0%
+--- End Execution Time : 26/10/2023 16:23:19 ---
