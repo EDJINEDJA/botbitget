@@ -6061,3 +6061,13 @@ Place Close Long Market Order: 47.0 MANA/USDT at the price of 0.3382$ ~15.9$
 Place Close Long Market Order: 1628.0 ONE/USDT at the price of 0.0108$ ~17.58$
 Current VaR rsik 1 period: - 0.5%, LONG exposition 55.61%, SHORT exposition 0%
 --- End Execution Time : 27/10/2023 18:22:36 ---
+--- Start Execution Time : 27/10/2023 19:12:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 330.62 $
+11 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'C98/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'LRC/USDT:USDT', 'NEAR/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 84.0 LRC/USDT at the price of 0.1878$ ~15.78$
+Current VaR rsik 1 period: - 0.46%, LONG exposition 50.98%, SHORT exposition 0%
+--- End Execution Time : 27/10/2023 19:13:04 ---
