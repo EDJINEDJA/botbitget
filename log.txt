@@ -5968,3 +5968,13 @@ USD balance : 335.86 $
 Current VaR rsik 1 period: - 0.52%, LONG exposition 61.57%, SHORT exposition 0%
 Place Open Long Market Order: 940.0 GALA/USDT at the price of 0.01785$ ~16.78$
 --- End Execution Time : 27/10/2023 09:17:31 ---
+--- Start Execution Time : 27/10/2023 10:18:32 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 336.27 $
+13 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.57%, LONG exposition 66.61%, SHORT exposition 0%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+--- End Execution Time : 27/10/2023 10:19:12 ---
