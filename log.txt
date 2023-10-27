@@ -6017,3 +6017,13 @@ Current VaR rsik 1 period: - 0.57%, LONG exposition 66.71%, SHORT exposition 0%
 Place Open Long Market Order: 6.0 DYDX/USDT at the price of 2.481$ ~14.89$
 Place Open Long Market Order: 0.07 BNB/USDT at the price of 227.61$ ~15.93$
 --- End Execution Time : 27/10/2023 14:16:40 ---
+--- Start Execution Time : 27/10/2023 15:17:37 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x1 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 336.08 $
+15 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 0.07 BNB/USDT at the price of 225.26$ ~15.77$
+Current VaR rsik 1 period: - 0.61%, LONG exposition 71.09%, SHORT exposition 0%
+--- End Execution Time : 27/10/2023 15:18:17 ---
