@@ -2,6 +2,6 @@ account_to_select: "bitget_exemple"
 production: True
 timeframe: "1h"
 type: ["long", "short"]
-leverage: 1
+leverage: 2
 max_var: 1
 max_side_exposition: 1
