@@ -7158,3 +7158,12 @@ USD balance : 9.23 $
 Current VaR rsik 1 period: - 5.74%, LONG exposition 735.27%, SHORT exposition 0%
 Blocked open LONG on GRT/USDT:USDT, because next VaR: - 5.74%
 --- End Execution Time : 01/11/2023 14:17:16 ---
+--- Start Execution Time : 01/11/2023 15:18:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 9.1 $
+3 active positions (['DOT/USDT:USDT', 'ETC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 5.81%, LONG exposition 744.52%, SHORT exposition 0%
+--- End Execution Time : 01/11/2023 15:19:06 ---
