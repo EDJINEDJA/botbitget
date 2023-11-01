@@ -7079,3 +7079,12 @@ USD balance : 338.02 $
 Place Close Long Market Order: 9.1 FIL/USDT at the price of 3.733$ ~33.97$
 Current VaR rsik 1 period: - 0.23%, LONG exposition 30.12%, SHORT exposition 0%
 --- End Execution Time : 01/11/2023 06:24:17 ---
+--- Start Execution Time : 01/11/2023 07:16:47 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 338.24 $
+5 active positions (['APT/USDT:USDT', 'DOT/USDT:USDT', 'ETC/USDT:USDT', 'ETH/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.24%, LONG exposition 30.17%, SHORT exposition 0%
+--- End Execution Time : 01/11/2023 07:17:19 ---
