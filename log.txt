@@ -7177,3 +7177,12 @@ USD balance : 9.81 $
 Current VaR rsik 1 period: - 5.45%, LONG exposition 697.5%, SHORT exposition 0%
 Blocked open LONG on AAVE/USDT:USDT, because next VaR: - 5.45%
 --- End Execution Time : 01/11/2023 16:23:54 ---
+--- Start Execution Time : 01/11/2023 17:15:56 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 10.18 $
+3 active positions (['DOT/USDT:USDT', 'ETC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 5.28%, LONG exposition 676.08%, SHORT exposition 0%
+--- End Execution Time : 01/11/2023 17:16:28 ---
