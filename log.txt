@@ -7137,3 +7137,14 @@ USD balance : 8.26 $
 Current VaR rsik 1 period: - 6.3%, LONG exposition 809.74%, SHORT exposition 0%
 Blocked open LONG on C98/USDT:USDT, because next VaR: - 6.3%
 --- End Execution Time : 01/11/2023 12:34:55 ---
+--- Start Execution Time : 01/11/2023 13:20:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 9.76 $
+3 active positions (['DOT/USDT:USDT', 'ETC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 5.46%, LONG exposition 700.54%, SHORT exposition 0%
+Blocked open LONG on BTC/USDT:USDT, because next VaR: - 5.46%
+Blocked open LONG on ETH/USDT:USDT, because next VaR: - 5.46%
+--- End Execution Time : 01/11/2023 13:20:59 ---
