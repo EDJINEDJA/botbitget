@@ -7630,3 +7630,16 @@ Current VaR rsik 1 period: - 0.53%, LONG exposition 49.06%, SHORT exposition 0%
 Place Open Long Market Order: 8.0 CRV/USDT at the price of 0.5141$ ~4.11$
 Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699017743887,"data":null}), skip CRV/USDT:USDT
 --- End Execution Time : 03/11/2023 13:22:23 ---
+--- Start Execution Time : 03/11/2023 14:17:35 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.49 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 48.89%, SHORT exposition 0%
+Place Open Long Market Order: 10.0 MANA/USDT at the price of 0.3972$ ~3.97$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699021087938,"data":null}), skip MANA/USDT:USDT
+Place Open Long Market Order: 6.0 MATIC/USDT at the price of 0.6606$ ~3.96$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699021088099,"data":null}), skip MATIC/USDT:USDT
+--- End Execution Time : 03/11/2023 14:18:08 ---
