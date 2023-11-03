@@ -7643,3 +7643,14 @@ Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 6.0 MATIC/USDT at the price of 0.6606$ ~3.96$
 Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699021088099,"data":null}), skip MATIC/USDT:USDT
 --- End Execution Time : 03/11/2023 14:18:08 ---
+--- Start Execution Time : 03/11/2023 15:17:53 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.55 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 48.96%, SHORT exposition 0%
+Place Open Long Market Order: 0.3 AVAX/USDT at the price of 12.019$ ~3.61$
+Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699024720192,"data":null}), skip AVAX/USDT:USDT
+--- End Execution Time : 03/11/2023 15:18:40 ---
