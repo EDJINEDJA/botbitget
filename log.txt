@@ -7530,3 +7530,13 @@ USD balance : 42.54 $
 Current VaR rsik 1 period: - 1.05%, LONG exposition 122.81%, SHORT exposition 0%
 Blocked open LONG on MANA/USDT:USDT, because next VaR: - 1.05%
 --- End Execution Time : 03/11/2023 04:21:36 ---
+--- Start Execution Time : 03/11/2023 05:16:41 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.51 $
+2 active positions (['DOT/USDT:USDT', 'NEAR/USDT:USDT'])
+Place Close Long Market Order: 7.0 DOT/USDT at the price of 4.492$ ~31.44$
+Current VaR rsik 1 period: - 0.49%, LONG exposition 48.84%, SHORT exposition 0%
+--- End Execution Time : 03/11/2023 05:17:13 ---
