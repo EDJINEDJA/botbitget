@@ -7903,3 +7903,13 @@ Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum am
 Place Open Long Market Order: 11.0 SAND/USDT at the price of 0.3674$ ~4.04$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699103962284,"data":null}), skip SAND/USDT:USDT
 --- End Execution Time : 04/11/2023 13:19:22 ---
+--- Start Execution Time : 04/11/2023 14:15:11 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.41 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 48.8%, SHORT exposition 0%
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+--- End Execution Time : 04/11/2023 14:15:43 ---
