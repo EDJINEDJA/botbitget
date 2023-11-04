@@ -7840,3 +7840,20 @@ Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 64.0 ROSE/USDT at the price of 0.06617$ ~4.23$
 Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699086041460,"data":null}), skip ROSE/USDT:USDT
 --- End Execution Time : 04/11/2023 08:20:41 ---
+--- Start Execution Time : 04/11/2023 09:15:28 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.9 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 49.39%, SHORT exposition 0%
+Place Open Long Market Order: 0.3 AVAX/USDT at the price of 12.138$ ~3.64$
+Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699089370456,"data":null}), skip AVAX/USDT:USDT
+Place Open Long Market Order: 0.7 AXS/USDT at the price of 5.5576$ ~3.89$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699089370696,"data":null}), skip AXS/USDT:USDT
+Place Open Long Market Order: 17.0 FTM/USDT at the price of 0.2514$ ~4.27$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699089370923,"data":null}), skip FTM/USDT:USDT
+Place Open Long Market Order: 11.0 SAND/USDT at the price of 0.3688$ ~4.06$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699089371166,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 04/11/2023 09:16:11 ---
