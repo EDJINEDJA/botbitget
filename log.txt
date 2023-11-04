@@ -7774,3 +7774,16 @@ USD balance : 42.59 $
 1 active positions (['NEAR/USDT:USDT'])
 Current VaR rsik 1 period: - 0.53%, LONG exposition 49.02%, SHORT exposition 0%
 --- End Execution Time : 04/11/2023 03:18:29 ---
+--- Start Execution Time : 04/11/2023 04:20:42 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.84 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 49.32%, SHORT exposition 0%
+Place Open Long Market Order: 3.1 APE/USDT at the price of 1.367$ ~4.24$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699071674597,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 8.0 STG/USDT at the price of 0.4792$ ~3.83$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699071674809,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 04/11/2023 04:21:14 ---
