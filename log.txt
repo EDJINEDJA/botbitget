@@ -7940,3 +7940,13 @@ USD balance : 42.81 $
 1 active positions (['NEAR/USDT:USDT'])
 Current VaR rsik 1 period: - 0.54%, LONG exposition 49.28%, SHORT exposition 0%
 --- End Execution Time : 04/11/2023 17:15:22 ---
+--- Start Execution Time : 04/11/2023 18:21:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.72 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 49.18%, SHORT exposition 0%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+--- End Execution Time : 04/11/2023 18:21:42 ---
