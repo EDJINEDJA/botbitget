@@ -8072,3 +8072,12 @@ Place Open Long Market Order: 0.616 APT/USDT at the price of 7.101$ ~4.37$
 Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699158060302,"data":null}), skip APT/USDT:USDT
 Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than minimum amount precision of 0.001), skip YFI/USDT:USDT
 --- End Execution Time : 05/11/2023 04:21:00 ---
+--- Start Execution Time : 05/11/2023 05:16:13 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.47 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.55%, LONG exposition 50.06%, SHORT exposition 0%
+--- End Execution Time : 05/11/2023 05:16:58 ---
