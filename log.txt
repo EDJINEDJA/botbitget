@@ -8026,3 +8026,18 @@ Place Open Long Market Order: 540000.0 SHIB/USDT at the price of 7.943e-06$ ~4.2
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699139831912,"data":null}), skip SHIB/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 04/11/2023 23:17:12 ---
+--- Start Execution Time : 05/11/2023 01:20:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 42.95 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 49.46%, SHORT exposition 0%
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Long Market Order: 10.0 MANA/USDT at the price of 0.4173$ ~4.17$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699147290207,"data":null}), skip MANA/USDT:USDT
+Place Open Long Market Order: 1.8 WAVES/USDT at the price of 1.955$ ~3.52$
+Error on WAVES/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699147290442,"data":null}), skip WAVES/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+--- End Execution Time : 05/11/2023 01:21:30 ---
