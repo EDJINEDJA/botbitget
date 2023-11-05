@@ -8041,3 +8041,12 @@ Place Open Long Market Order: 1.8 WAVES/USDT at the price of 1.955$ ~3.52$
 Error on WAVES/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699147290442,"data":null}), skip WAVES/USDT:USDT
 Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
 --- End Execution Time : 05/11/2023 01:21:30 ---
+--- Start Execution Time : 05/11/2023 02:27:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.06 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 49.59%, SHORT exposition 0%
+--- End Execution Time : 05/11/2023 02:28:05 ---
