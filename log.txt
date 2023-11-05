@@ -8178,3 +8178,12 @@ Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than mini
 Place Open Long Market Order: 1048.0 JASMY/USDT at the price of 0.004231$ ~4.43$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699190370590,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 05/11/2023 13:19:30 ---
+--- Start Execution Time : 05/11/2023 14:14:41 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 44.27 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.56%, LONG exposition 50.98%, SHORT exposition 0%
+--- End Execution Time : 05/11/2023 14:15:25 ---
