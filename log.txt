@@ -8531,3 +8531,12 @@ USD balance : 43.61 $
 1 active positions (['NEAR/USDT:USDT'])
 Current VaR rsik 1 period: - 0.58%, LONG exposition 50.28%, SHORT exposition 0%
 --- End Execution Time : 06/11/2023 21:16:09 ---
+--- Start Execution Time : 06/11/2023 22:16:54 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.72 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.58%, LONG exposition 50.41%, SHORT exposition 0%
+--- End Execution Time : 06/11/2023 22:17:27 ---
