@@ -8359,3 +8359,12 @@ Current VaR rsik 1 period: - 0.58%, LONG exposition 50.96%, SHORT exposition 0%
 Place Open Long Market Order: 24.2 C98/USDT at the price of 0.1821$ ~4.41$
 Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699244532771,"data":null}), skip C98/USDT:USDT
 --- End Execution Time : 06/11/2023 04:22:12 ---
+--- Start Execution Time : 06/11/2023 05:17:31 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 44.16 $
+1 active positions (['NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.58%, LONG exposition 50.88%, SHORT exposition 0%
+--- End Execution Time : 06/11/2023 05:18:11 ---
