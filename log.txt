@@ -8619,3 +8619,14 @@ Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2264$ ~4.08$
 Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699338224664,"data":null}), skip LRC/USDT:USDT
 --- End Execution Time : 07/11/2023 06:23:44 ---
+--- Start Execution Time : 07/11/2023 07:16:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5788$ ~4.05$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699341404529,"data":null}), skip CRV/USDT:USDT
+--- End Execution Time : 07/11/2023 07:16:44 ---
