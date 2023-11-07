@@ -8596,3 +8596,13 @@ Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 306.0 ONE/USDT at the price of 0.01414$ ~4.33$
 Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699330896290,"data":null}), skip ONE/USDT:USDT
 --- End Execution Time : 07/11/2023 04:21:36 ---
+--- Start Execution Time : 07/11/2023 05:16:50 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+--- End Execution Time : 07/11/2023 05:17:26 ---
