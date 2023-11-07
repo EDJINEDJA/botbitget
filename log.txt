@@ -8666,3 +8666,17 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 07/11/2023 11:15:50 ---
+--- Start Execution Time : 07/11/2023 12:33:51 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 58.0 DOGE/USDT at the price of 0.073637$ ~4.27$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699360467799,"data":null}), skip DOGE/USDT:USDT
+Place Open Long Market Order: 11.0 SAND/USDT at the price of 0.3904$ ~4.29$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699360467996,"data":null}), skip SAND/USDT:USDT
+Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than minimum amount precision of 0.001), skip YFI/USDT:USDT
+--- End Execution Time : 07/11/2023 12:34:28 ---
