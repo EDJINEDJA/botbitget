@@ -8750,3 +8750,30 @@ Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than mini
 Place Open Long Market Order: 17.7 WOO/USDT at the price of 0.24475$ ~4.33$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699381374077,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 07/11/2023 18:22:54 ---
+--- Start Execution Time : 07/11/2023 19:14:11 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.595 APT/USDT at the price of 7.274$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384484689,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 0.3 AVAX/USDT at the price of 12.857$ ~3.86$
+Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384484887,"data":null}), skip AVAX/USDT:USDT
+Place Open Long Market Order: 58.0 DOGE/USDT at the price of 0.073518$ ~4.26$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485062,"data":null}), skip DOGE/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Long Market Order: 1.0 DYDX/USDT at the price of 2.439$ ~2.44$
+Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485247,"data":null}), skip DYDX/USDT:USDT
+Place Open Long Market Order: 1.0 FIL/USDT at the price of 4.268$ ~4.27$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485427,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2259$ ~4.07$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485610,"data":null}), skip LRC/USDT:USDT
+Place Open Long Market Order: 5.0 MATIC/USDT at the price of 0.7249$ ~3.62$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485774,"data":null}), skip MATIC/USDT:USDT
+Place Open Long Market Order: 11.0 SAND/USDT at the price of 0.3918$ ~4.31$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699384485959,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 07/11/2023 19:14:46 ---
