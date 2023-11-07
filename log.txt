@@ -8719,3 +8719,12 @@ Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 6.0 MATIC/USDT at the price of 0.7085$ ~4.25$
 Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699370364312,"data":null}), skip MATIC/USDT:USDT
 --- End Execution Time : 07/11/2023 15:19:24 ---
+--- Start Execution Time : 07/11/2023 16:23:29 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 07/11/2023 16:24:10 ---
