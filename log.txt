@@ -8934,3 +8934,18 @@ Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.3947$ ~3.95$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699438793796,"data":null}), skip SAND/USDT:USDT
 --- End Execution Time : 08/11/2023 10:19:53 ---
+--- Start Execution Time : 08/11/2023 11:14:47 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.571$ ~4.0$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699442119199,"data":null}), skip CRV/USDT:USDT
+Place Open Long Market Order: 1.0 DYDX/USDT at the price of 2.453$ ~2.45$
+Error on DYDX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699442119387,"data":null}), skip DYDX/USDT:USDT
+Place Open Long Market Order: 15.0 FTM/USDT at the price of 0.2716$ ~4.07$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699442119558,"data":null}), skip FTM/USDT:USDT
+--- End Execution Time : 08/11/2023 11:15:19 ---
