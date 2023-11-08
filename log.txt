@@ -9030,3 +9030,16 @@ Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.3979$ ~3.98$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699463829998,"data":null}), skip SAND/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 08/11/2023 17:17:10 ---
+--- Start Execution Time : 08/11/2023 18:22:32 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.3 AVAX/USDT at the price of 13.0$ ~3.9$
+Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699467790550,"data":null}), skip AVAX/USDT:USDT
+Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2278$ ~4.1$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699467790755,"data":null}), skip LRC/USDT:USDT
+--- End Execution Time : 08/11/2023 18:23:10 ---
