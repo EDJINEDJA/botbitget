@@ -9173,3 +9173,14 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.01 BNB/USDT at the price of 249.17$ ~2.49$
 Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699507051245,"data":null}), skip BNB/USDT:USDT
 --- End Execution Time : 09/11/2023 05:17:31 ---
+--- Start Execution Time : 09/11/2023 06:22:56 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 18.0 GMT/USDT at the price of 0.2339$ ~4.21$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699511008883,"data":null}), skip GMT/USDT:USDT
+--- End Execution Time : 09/11/2023 06:23:28 ---
