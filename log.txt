@@ -9139,3 +9139,15 @@ Place Open Long Market Order: 15.0 FTM/USDT at the price of 0.2749$ ~4.12$
 Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699496775628,"data":null}), skip FTM/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 09/11/2023 02:26:15 ---
+--- Start Execution Time : 09/11/2023 03:18:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+Place Open Long Market Order: 975.0 JASMY/USDT at the price of 0.004444$ ~4.33$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699499922784,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 09/11/2023 03:18:42 ---
