@@ -9105,3 +9105,24 @@ Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2273$ ~4.09$
 Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699485476199,"data":null}), skip LRC/USDT:USDT
 --- End Execution Time : 08/11/2023 23:17:56 ---
+--- Start Execution Time : 09/11/2023 01:17:09 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 2.9 APE/USDT at the price of 1.479$ ~4.29$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699492662232,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5728$ ~4.01$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699492662404,"data":null}), skip CRV/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2279$ ~4.1$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699492662565,"data":null}), skip LRC/USDT:USDT
+Place Open Long Market Order: 306.0 ONE/USDT at the price of 0.01412$ ~4.32$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699492662732,"data":null}), skip ONE/USDT:USDT
+Place Open Long Market Order: 510000.0 SHIB/USDT at the price of 8.34e-06$ ~4.25$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699492662897,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 09/11/2023 01:17:42 ---
