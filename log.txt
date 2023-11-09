@@ -9208,3 +9208,18 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 09/11/2023 08:22:48 ---
+--- Start Execution Time : 09/11/2023 09:17:22 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.01 BNB/USDT at the price of 249.97$ ~2.5$
+Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699521474404,"data":null}), skip BNB/USDT:USDT
+Place Open Long Market Order: 18.0 GMT/USDT at the price of 0.234$ ~4.21$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699521474592,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 972.0 JASMY/USDT at the price of 0.004458$ ~4.33$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699521474751,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 09/11/2023 09:17:54 ---
