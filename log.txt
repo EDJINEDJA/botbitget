@@ -9510,3 +9510,12 @@ Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 58.0 ROSE/USDT at the price of 0.07393$ ~4.29$
 Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699611586236,"data":null}), skip ROSE/USDT:USDT
 --- End Execution Time : 10/11/2023 10:19:46 ---
+--- Start Execution Time : 10/11/2023 11:14:52 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 10/11/2023 11:15:36 ---
