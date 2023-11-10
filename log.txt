@@ -9597,3 +9597,17 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 778.0 JASMY/USDT at the price of 0.005566$ ~4.33$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699640568359,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 10/11/2023 18:22:48 ---
+--- Start Execution Time : 10/11/2023 19:14:17 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.7 AXS/USDT at the price of 6.1349$ ~4.29$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699643695269,"data":null}), skip AXS/USDT:USDT
+Place Open Long Market Order: 0.9 FIL/USDT at the price of 4.532$ ~4.08$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699643695536,"data":null}), skip FIL/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+--- End Execution Time : 10/11/2023 19:14:55 ---
