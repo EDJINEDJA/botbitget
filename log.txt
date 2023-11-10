@@ -9479,3 +9479,16 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.3 AVAX/USDT at the price of 13.186$ ~3.96$
 Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699604564322,"data":null}), skip AVAX/USDT:USDT
 --- End Execution Time : 10/11/2023 08:22:44 ---
+--- Start Execution Time : 10/11/2023 09:17:27 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.6047$ ~4.23$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699607884761,"data":null}), skip CRV/USDT:USDT
+Place Open Long Market Order: 0.01 BNB/USDT at the price of 252.52$ ~2.53$
+Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699607884979,"data":null}), skip BNB/USDT:USDT
+--- End Execution Time : 10/11/2023 09:18:05 ---
