@@ -9637,3 +9637,16 @@ Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 500000.0 SHIB/USDT at the price of 8.517e-06$ ~4.26$
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699650942832,"data":null}), skip SHIB/USDT:USDT
 --- End Execution Time : 10/11/2023 21:15:42 ---
+--- Start Execution Time : 10/11/2023 22:16:36 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.58 APT/USDT at the price of 7.463$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699654637607,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 9.0 MANA/USDT at the price of 0.4339$ ~3.91$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699654637868,"data":null}), skip MANA/USDT:USDT
+--- End Execution Time : 10/11/2023 22:17:17 ---
