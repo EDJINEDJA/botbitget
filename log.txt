@@ -9611,3 +9611,14 @@ Place Open Long Market Order: 0.9 FIL/USDT at the price of 4.532$ ~4.08$
 Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699643695536,"data":null}), skip FIL/USDT:USDT
 Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
 --- End Execution Time : 10/11/2023 19:14:55 ---
+--- Start Execution Time : 10/11/2023 20:18:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 2.0 NEAR/USDT at the price of 1.539$ ~3.08$
+Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699647538497,"data":null}), skip NEAR/USDT:USDT
+--- End Execution Time : 10/11/2023 20:18:58 ---
