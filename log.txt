@@ -9622,3 +9622,18 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 2.0 NEAR/USDT at the price of 1.539$ ~3.08$
 Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699647538497,"data":null}), skip NEAR/USDT:USDT
 --- End Execution Time : 10/11/2023 20:18:58 ---
+--- Start Execution Time : 10/11/2023 21:15:04 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2333$ ~4.2$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699650942407,"data":null}), skip LRC/USDT:USDT
+Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.4139$ ~4.14$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699650942623,"data":null}), skip SAND/USDT:USDT
+Place Open Long Market Order: 500000.0 SHIB/USDT at the price of 8.517e-06$ ~4.26$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699650942832,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 10/11/2023 21:15:42 ---
