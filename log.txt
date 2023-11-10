@@ -9381,3 +9381,18 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 185.0 GALA/USDT at the price of 0.02335$ ~4.32$
 Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699571917698,"data":null}), skip GALA/USDT:USDT
 --- End Execution Time : 09/11/2023 23:18:37 ---
+--- Start Execution Time : 10/11/2023 01:16:16 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.7 AXS/USDT at the price of 6.1249$ ~4.29$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699579017356,"data":null}), skip AXS/USDT:USDT
+Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.4108$ ~4.11$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699579017621,"data":null}), skip SAND/USDT:USDT
+Place Open Long Market Order: 942.0 JASMY/USDT at the price of 0.004598$ ~4.33$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699579017871,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 10/11/2023 01:16:57 ---
