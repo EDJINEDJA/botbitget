@@ -9683,3 +9683,22 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.572 APT/USDT at the price of 7.565$ ~4.33$
 Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699671286468,"data":null}), skip APT/USDT:USDT
 --- End Execution Time : 11/11/2023 02:54:46 ---
+--- Start Execution Time : 11/11/2023 03:19:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 18.0 GMT/USDT at the price of 0.2295$ ~4.13$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699672804039,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2329$ ~4.19$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699672804260,"data":null}), skip LRC/USDT:USDT
+Place Open Long Market Order: 2.0 NEAR/USDT at the price of 1.5175$ ~3.04$
+Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699672804492,"data":null}), skip NEAR/USDT:USDT
+Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.4132$ ~4.13$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699672804726,"data":null}), skip SAND/USDT:USDT
+Place Open Long Market Order: 16.6 WOO/USDT at the price of 0.25961$ ~4.31$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699672804949,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 11/11/2023 03:20:05 ---
