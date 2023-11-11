@@ -9835,3 +9835,21 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.6 AXS/USDT at the price of 6.205$ ~3.72$
 Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699712129648,"data":null}), skip AXS/USDT:USDT
 --- End Execution Time : 11/11/2023 14:15:29 ---
+--- Start Execution Time : 11/11/2023 15:16:13 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.571 APT/USDT at the price of 7.58$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699715806156,"data":null}), skip APT/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 0.01 BNB/USDT at the price of 254.16$ ~2.54$
+Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699715806334,"data":null}), skip BNB/USDT:USDT
+Place Open Long Market Order: 171.0 GALA/USDT at the price of 0.02534$ ~4.33$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699715806518,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 31.3 GRT/USDT at the price of 0.13811$ ~4.32$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699715806699,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 11/11/2023 15:16:46 ---
