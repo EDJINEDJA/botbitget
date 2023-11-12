@@ -10013,3 +10013,16 @@ Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 18.0 LRC/USDT at the price of 0.2404$ ~4.33$
 Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699773449660,"data":null}), skip LRC/USDT:USDT
 --- End Execution Time : 12/11/2023 07:17:29 ---
+--- Start Execution Time : 12/11/2023 08:20:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 176.0 GALA/USDT at the price of 0.02459$ ~4.33$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699777277039,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 31.8 GRT/USDT at the price of 0.136$ ~4.32$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699777277517,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 12/11/2023 08:21:17 ---
