@@ -10272,3 +10272,21 @@ Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 2.2 OP/USDT at the price of 1.899$ ~4.18$
 Error on OP/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699863828835,"data":null}), skip OP/USDT:USDT
 --- End Execution Time : 13/11/2023 08:23:48 ---
+--- Start Execution Time : 13/11/2023 09:18:33 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.6 AXS/USDT at the price of 6.449$ ~3.87$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699867150781,"data":null}), skip AXS/USDT:USDT
+Place Open Long Market Order: 13.0 FTM/USDT at the price of 0.3239$ ~4.21$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699867151013,"data":null}), skip FTM/USDT:USDT
+Place Open Long Market Order: 12.0 LRC/USDT at the price of 0.2429$ ~2.91$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699867151222,"data":null}), skip LRC/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+Place Open Long Market Order: 7.0 STG/USDT at the price of 0.5945$ ~4.16$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699867151446,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 13/11/2023 09:19:11 ---
