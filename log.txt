@@ -10323,3 +10323,22 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 13/11/2023 12:35:36 ---
+--- Start Execution Time : 13/11/2023 13:21:50 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.6 AXS/USDT at the price of 6.4042$ ~3.84$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699881753627,"data":null}), skip AXS/USDT:USDT
+Place Open Long Market Order: 9.0 MANA/USDT at the price of 0.4758$ ~4.28$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699881753910,"data":null}), skip MANA/USDT:USDT
+Place Open Long Market Order: 2.0 NEAR/USDT at the price of 1.6795$ ~3.36$
+Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699881754218,"data":null}), skip NEAR/USDT:USDT
+Place Open Long Market Order: 283.0 ONE/USDT at the price of 0.0153$ ~4.33$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699881754503,"data":null}), skip ONE/USDT:USDT
+Place Open Long Market Order: 7.0 STG/USDT at the price of 0.5971$ ~4.18$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699881754821,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 13/11/2023 13:22:34 ---
