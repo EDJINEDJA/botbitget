@@ -10290,3 +10290,16 @@ Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than mini
 Place Open Long Market Order: 7.0 STG/USDT at the price of 0.5945$ ~4.16$
 Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699867151446,"data":null}), skip STG/USDT:USDT
 --- End Execution Time : 13/11/2023 09:19:11 ---
+--- Start Execution Time : 13/11/2023 10:20:13 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 2.9 APE/USDT at the price of 1.478$ ~4.29$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699870845171,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 17.0 GMT/USDT at the price of 0.2433$ ~4.14$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1699870845420,"data":null}), skip GMT/USDT:USDT
+--- End Execution Time : 13/11/2023 10:20:45 ---
