@@ -10871,3 +10871,14 @@ Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 1.8 WAVES/USDT at the price of 2.377$ ~4.28$
 Error on WAVES/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700075725890,"data":null}), skip WAVES/USDT:USDT
 --- End Execution Time : 15/11/2023 19:15:25 ---
+--- Start Execution Time : 15/11/2023 20:19:19 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.6 AXS/USDT at the price of 6.412$ ~3.85$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700079600336,"data":null}), skip AXS/USDT:USDT
+--- End Execution Time : 15/11/2023 20:20:00 ---
