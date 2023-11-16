@@ -10957,3 +10957,16 @@ Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 2.0 NEAR/USDT at the price of 1.753$ ~3.51$
 Error on NEAR/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700104769262,"data":null}), skip NEAR/USDT:USDT
 --- End Execution Time : 16/11/2023 03:19:29 ---
+--- Start Execution Time : 16/11/2023 04:22:25 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.8 FIL/USDT at the price of 5.284$ ~4.23$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700108577633,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 7.0 STG/USDT at the price of 0.6027$ ~4.22$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700108577913,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 16/11/2023 04:22:58 ---
