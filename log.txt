@@ -11259,3 +11259,20 @@ Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Short Market Order: 24.8 C98/USDT at the price of 0.1742$ ~4.32$
 Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700209422729,"data":null}), skip C98/USDT:USDT
 --- End Execution Time : 17/11/2023 08:23:42 ---
+--- Start Execution Time : 17/11/2023 09:18:02 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 12.0 FTM/USDT at the price of 0.3507$ ~4.21$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700212718310,"data":null}), skip FTM/USDT:USDT
+Place Open Long Market Order: 174.0 GALA/USDT at the price of 0.02478$ ~4.31$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700212718521,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 16.0 GMT/USDT at the price of 0.2589$ ~4.14$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700212718731,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 470000.0 SHIB/USDT at the price of 9.091e-06$ ~4.27$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700212718942,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 17/11/2023 09:18:39 ---
