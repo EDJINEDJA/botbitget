@@ -11629,3 +11629,25 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 18/11/2023 23:17:49 ---
+--- Start Execution Time : 19/11/2023 01:23:53 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 3.2 APE/USDT at the price of 1.316$ ~4.21$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357070569,"data":null}), skip APE/USDT:USDT
+Place Open Short Market Order: 0.623 APT/USDT at the price of 6.953$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357070782,"data":null}), skip APT/USDT:USDT
+Place Open Short Market Order: 25.8 C98/USDT at the price of 0.1678$ ~4.33$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357070974,"data":null}), skip C98/USDT:USDT
+Place Open Short Market Order: 7.0 CRV/USDT at the price of 0.5527$ ~3.87$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357071163,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 10.0 MANA/USDT at the price of 0.4114$ ~4.11$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357071360,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 8.0 STG/USDT at the price of 0.5208$ ~4.17$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700357071589,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 19/11/2023 01:24:31 ---
