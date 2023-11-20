@@ -11970,3 +11970,12 @@ Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than mi
 Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5871$ ~4.11$
 Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700478989398,"data":null}), skip CRV/USDT:USDT
 --- End Execution Time : 20/11/2023 11:16:29 ---
+--- Start Execution Time : 20/11/2023 12:36:23 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 20/11/2023 12:36:59 ---
