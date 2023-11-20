@@ -11997,3 +11997,20 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 20/11/2023 14:19:02 ---
+--- Start Execution Time : 20/11/2023 15:20:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.584 APT/USDT at the price of 7.416$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700493638297,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 23.4 C98/USDT at the price of 0.1849$ ~4.33$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700493638478,"data":null}), skip C98/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Long Market Order: 0.01 BNB/USDT at the price of 248.16$ ~2.48$
+Error on BNB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700493638677,"data":null}), skip BNB/USDT:USDT
+--- End Execution Time : 20/11/2023 15:20:38 ---
