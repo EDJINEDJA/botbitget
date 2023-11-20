@@ -11887,3 +11887,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 7.0 STG/USDT at the price of 0.5656$ ~3.96$
 Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700450395565,"data":null}), skip STG/USDT:USDT
 --- End Execution Time : 20/11/2023 03:19:55 ---
+--- Start Execution Time : 20/11/2023 04:22:46 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 20/11/2023 04:23:19 ---
