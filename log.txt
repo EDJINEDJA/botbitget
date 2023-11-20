@@ -12032,3 +12032,23 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 20/11/2023 17:14:58 ---
+--- Start Execution Time : 20/11/2023 18:23:27 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.589 APT/USDT at the price of 7.346$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700504648644,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5813$ ~4.07$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700504648950,"data":null}), skip CRV/USDT:USDT
+Place Open Long Market Order: 16.0 GMT/USDT at the price of 0.2645$ ~4.23$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700504649227,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 10.0 MANA/USDT at the price of 0.4305$ ~4.3$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700504649447,"data":null}), skip MANA/USDT:USDT
+Place Open Long Market Order: 10.0 SAND/USDT at the price of 0.4193$ ~4.19$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700504649670,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 20/11/2023 18:24:09 ---
