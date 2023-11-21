@@ -12289,3 +12289,17 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5725$ ~4.01$
 Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700587220074,"data":null}), skip CRV/USDT:USDT
 --- End Execution Time : 21/11/2023 17:20:20 ---
+--- Start Execution Time : 21/11/2023 18:24:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 7.0 CRV/USDT at the price of 0.5451$ ~3.82$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700591110310,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 8.0 STG/USDT at the price of 0.5142$ ~4.11$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700591110526,"data":null}), skip STG/USDT:USDT
+Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than minimum amount precision of 0.001), skip YFI/USDT:USDT
+--- End Execution Time : 21/11/2023 18:25:10 ---
