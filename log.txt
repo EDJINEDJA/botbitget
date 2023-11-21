@@ -12254,3 +12254,18 @@ Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Short Market Order: 10.0 SAND/USDT at the price of 0.3964$ ~3.96$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700576331423,"data":null}), skip SAND/USDT:USDT
 --- End Execution Time : 21/11/2023 14:18:51 ---
+--- Start Execution Time : 21/11/2023 15:19:26 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.7 AXS/USDT at the price of 5.795$ ~4.06$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700580006262,"data":null}), skip AXS/USDT:USDT
+Place Open Short Market Order: 18.0 LRC/USDT at the price of 0.2093$ ~3.77$
+Error on LRC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700580006492,"data":null}), skip LRC/USDT:USDT
+Place Open Short Market Order: 1.8 WAVES/USDT at the price of 2.026$ ~3.65$
+Error on WAVES/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700580006716,"data":null}), skip WAVES/USDT:USDT
+--- End Execution Time : 21/11/2023 15:20:06 ---
