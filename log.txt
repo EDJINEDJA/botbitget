@@ -12581,3 +12581,18 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 22/11/2023 22:17:05 ---
+--- Start Execution Time : 22/11/2023 23:18:30 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 7.0 CRV/USDT at the price of 0.5785$ ~4.05$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700695143063,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 336.0 ONE/USDT at the price of 0.01286$ ~4.32$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700695143234,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 530000.0 SHIB/USDT at the price of 8.078e-06$ ~4.28$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700695143402,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 22/11/2023 23:19:03 ---
