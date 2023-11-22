@@ -12390,3 +12390,14 @@ USD balance : 43.34 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than minimum amount precision of 0.001), skip YFI/USDT:USDT
 --- End Execution Time : 22/11/2023 02:33:23 ---
+--- Start Execution Time : 22/11/2023 03:19:31 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 16.0 GMT/USDT at the price of 0.2679$ ~4.29$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700623209666,"data":null}), skip GMT/USDT:USDT
+--- End Execution Time : 22/11/2023 03:20:09 ---
