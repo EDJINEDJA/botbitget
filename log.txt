@@ -12693,3 +12693,16 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.59 APT/USDT at the price of 7.334$ ~4.33$
 Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700731129881,"data":null}), skip APT/USDT:USDT
 --- End Execution Time : 23/11/2023 09:18:49 ---
+--- Start Execution Time : 23/11/2023 10:19:31 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 15.0 GMT/USDT at the price of 0.2805$ ~4.21$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700734804443,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 30.4 GRT/USDT at the price of 0.14246$ ~4.33$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700734804652,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 23/11/2023 10:20:04 ---
