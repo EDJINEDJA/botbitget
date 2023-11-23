@@ -12622,3 +12622,12 @@ Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 23.5 C98/USDT at the price of 0.1839$ ~4.32$
 Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700706589083,"data":null}), skip C98/USDT:USDT
 --- End Execution Time : 23/11/2023 02:29:49 ---
+--- Start Execution Time : 23/11/2023 03:18:46 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 23/11/2023 03:19:18 ---
