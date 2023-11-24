@@ -12986,3 +12986,22 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 7.0 STG/USDT at the price of 0.5571$ ~3.9$
 Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700839155447,"data":null}), skip STG/USDT:USDT
 --- End Execution Time : 24/11/2023 15:19:15 ---
+--- Start Execution Time : 24/11/2023 16:23:39 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.585 APT/USDT at the price of 7.406$ ~4.33$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700843056682,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 0.1 AVAX/USDT at the price of 21.694$ ~2.17$
+Error on AVAX/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700843056891,"data":null}), skip AVAX/USDT:USDT
+Place Open Long Market Order: 22.8 C98/USDT at the price of 0.1893$ ~4.32$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700843057112,"data":null}), skip C98/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
+Place Open Long Market Order: 806.0 JASMY/USDT at the price of 0.005375$ ~4.33$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700843057329,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 24/11/2023 16:24:17 ---
