@@ -12966,3 +12966,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.586 APT/USDT at the price of 7.388$ ~4.33$
 Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1700832135268,"data":null}), skip APT/USDT:USDT
 --- End Execution Time : 24/11/2023 13:22:15 ---
+--- Start Execution Time : 24/11/2023 14:17:01 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 24/11/2023 14:17:35 ---
