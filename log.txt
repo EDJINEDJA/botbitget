@@ -13608,3 +13608,12 @@ Error on YFI/USDT:USDT (bitget amount of YFI/USDT:USDT must be greater than mini
 Place Open Short Market Order: 19.7 WOO/USDT at the price of 0.21928$ ~4.32$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1701055182397,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 27/11/2023 03:19:42 ---
+--- Start Execution Time : 27/11/2023 04:22:14 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 27/11/2023 04:22:54 ---
