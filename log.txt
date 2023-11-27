@@ -13719,3 +13719,16 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 54.0 DOGE/USDT at the price of 0.07888$ ~4.26$
 Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1701088576243,"data":null}), skip DOGE/USDT:USDT
 --- End Execution Time : 27/11/2023 12:36:16 ---
+--- Start Execution Time : 27/11/2023 13:22:10 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 330.0 ONE/USDT at the price of 0.01313$ ~4.33$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1701091370883,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 8.0 STG/USDT at the price of 0.5358$ ~4.29$
+Error on STG/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1701091371113,"data":null}), skip STG/USDT:USDT
+--- End Execution Time : 27/11/2023 13:22:51 ---
