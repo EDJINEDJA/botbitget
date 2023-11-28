@@ -14069,3 +14069,14 @@ USD balance : 43.34 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 28/11/2023 20:20:02 ---
+--- Start Execution Time : 28/11/2023 21:16:03 ---
+--- Bollinger Trend on bitget_exemple -- 36 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 43.34 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 13.0 FTM/USDT at the price of 0.318$ ~4.13$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1701206201230,"data":null}), skip FTM/USDT:USDT
+--- End Execution Time : 28/11/2023 21:16:41 ---
