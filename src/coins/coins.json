@@ -113,12 +113,6 @@
         "bb_std": 2.25,
         "long_ma_window": 500
     },
-    "LRC/USDT:USDT": {
-        "wallet_exposure": 0.05,
-        "bb_window": 100,
-        "bb_std": 1,
-        "long_ma_window": 500
-    },
     "MANA/USDT:USDT": {
         "wallet_exposure": 0.05,
         "bb_window": 100,
@@ -143,12 +137,6 @@
         "bb_std": 1,
         "long_ma_window": 500
     },
-    "OP/USDT:USDT": {
-        "wallet_exposure": 0.05,
-        "bb_window": 100,
-        "bb_std": 2.25,
-        "long_ma_window": 500
-    },
     "SAND/USDT:USDT": {
         "wallet_exposure": 0.05,
         "bb_window": 100,
@@ -167,22 +155,10 @@
         "bb_std": 1,
         "long_ma_window": 500
     },
-    "STG/USDT:USDT": {
-        "wallet_exposure": 0.05,
-        "bb_window": 100,
-        "bb_std": 1,
-        "long_ma_window": 500
-    },
     "WAVES/USDT:USDT": {
         "wallet_exposure": 0.05,
         "bb_window": 100,
         "bb_std": 2.25,
-        "long_ma_window": 500
-    },
-    "YFI/USDT:USDT": {
-        "wallet_exposure": 0.05,
-        "bb_window": 100,
-        "bb_std": 1,
         "long_ma_window": 500
     },
     "WOO/USDT:USDT": {
