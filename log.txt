@@ -298,3 +298,14 @@ Place Close Short Market Order: 1.7 FIL/USDT at the price of 5.969$ ~10.15$
 Place Close Short Market Order: 627.0 ONE/USDT at the price of 0.01708$ ~10.71$
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 10/01/2024 22:18:18 ---
+--- Start Execution Time : 10/01/2024 23:18:07 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.27 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.02 BNB/USDT at the price of 309.32$ ~6.19$
+Place Open Long Market Order: 69.0 ROSE/USDT at the price of 0.13182$ ~9.1$
+--- End Execution Time : 10/01/2024 23:18:35 ---
