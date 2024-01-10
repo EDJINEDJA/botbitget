@@ -85,3 +85,14 @@ USD balance : 97.08 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 10/01/2024 02:31:42 ---
+--- Start Execution Time : 10/01/2024 03:19:40 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 97.08 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 7.3 APE/USDT at the price of 1.329$ ~9.7$
+Place Open Short Market Order: 1.164 APT/USDT at the price of 8.335$ ~9.7$
+--- End Execution Time : 10/01/2024 03:20:19 ---
