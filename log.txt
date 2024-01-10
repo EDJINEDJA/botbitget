@@ -158,3 +158,13 @@ Place Open Short Market Order: 25.0 FTM/USDT at the price of 0.3754$ ~9.38$
 Place Open Short Market Order: 0.03 BNB/USDT at the price of 299.25$ ~8.98$
 Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 0.41%
 --- End Execution Time : 10/01/2024 09:19:18 ---
+--- Start Execution Time : 10/01/2024 10:19:43 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 95.31 $
+7 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'ONE/USDT:USDT'])
+Current VaR rsik 1 period: - 1.05%, LONG exposition 0%, SHORT exposition 70.87%
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 10/01/2024 10:20:12 ---
