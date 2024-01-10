@@ -143,3 +143,18 @@ USD balance : 96.82 $
 Current VaR rsik 1 period: - 0.28%, LONG exposition 9.42%, SHORT exposition 19.74%
 Place Open Short Market Order: 627.0 ONE/USDT at the price of 0.01544$ ~9.68$
 --- End Execution Time : 10/01/2024 08:24:06 ---
+--- Start Execution Time : 10/01/2024 09:18:42 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 96.44 $
+4 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'ONE/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 22.5 WOO/USDT at the price of 0.40223$ ~9.05$
+Current VaR rsik 1 period: - 0.41%, LONG exposition 9.38%, SHORT exposition 30.18%
+Place Open Short Market Order: 1.3 AXS/USDT at the price of 7.3938$ ~9.61$
+Place Open Short Market Order: 1.7 FIL/USDT at the price of 5.479$ ~9.31$
+Place Open Short Market Order: 25.0 FTM/USDT at the price of 0.3754$ ~9.38$
+Place Open Short Market Order: 0.03 BNB/USDT at the price of 299.25$ ~8.98$
+Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 0.41%
+--- End Execution Time : 10/01/2024 09:19:18 ---
