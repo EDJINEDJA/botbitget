@@ -309,3 +309,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 0.02 BNB/USDT at the price of 309.32$ ~6.19$
 Place Open Long Market Order: 69.0 ROSE/USDT at the price of 0.13182$ ~9.1$
 --- End Execution Time : 10/01/2024 23:18:35 ---
+--- Start Execution Time : 11/01/2024 01:20:18 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.05 $
+2 active positions (['BNB/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.25%, LONG exposition 16.38%, SHORT exposition 0%
+--- End Execution Time : 11/01/2024 01:20:52 ---
