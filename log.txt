@@ -354,3 +354,12 @@ USD balance : 91.99 $
 2 active positions (['BNB/USDT:USDT', 'ROSE/USDT:USDT'])
 Current VaR rsik 1 period: - 0.25%, LONG exposition 16.33%, SHORT exposition 0%
 --- End Execution Time : 11/01/2024 05:18:50 ---
+--- Start Execution Time : 11/01/2024 06:24:02 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.78 $
+2 active positions (['BNB/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.25%, LONG exposition 16.14%, SHORT exposition 0%
+--- End Execution Time : 11/01/2024 06:24:37 ---
