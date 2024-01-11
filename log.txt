@@ -447,3 +447,12 @@ USD balance : 92.2 $
 Current VaR rsik 1 period: - 0.6%, LONG exposition 36.45%, SHORT exposition 0%
 Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
 --- End Execution Time : 11/01/2024 15:20:02 ---
+--- Start Execution Time : 11/01/2024 16:24:32 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.23 $
+4 active positions (['BNB/USDT:USDT', 'KSM/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.59%, LONG exposition 35.77%, SHORT exposition 0%
+--- End Execution Time : 11/01/2024 16:25:07 ---
