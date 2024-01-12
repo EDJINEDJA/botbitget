@@ -714,3 +714,15 @@ USD balance : 90.03 $
 2 active positions (['DOT/USDT:USDT', 'KSM/USDT:USDT'])
 Current VaR rsik 1 period: - 0.36%, LONG exposition 18.11%, SHORT exposition 0%
 --- End Execution Time : 12/01/2024 21:15:41 ---
+--- Start Execution Time : 12/01/2024 22:17:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.66 $
+2 active positions (['DOT/USDT:USDT', 'KSM/USDT:USDT'])
+Place Close Long Market Order: 1.0 DOT/USDT at the price of 7.573$ ~7.57$
+Place Close Long Market Order: 0.2 KSM/USDT at the price of 42.02$ ~8.4$
+Current VaR rsik 1 period: - 0.36%, LONG exposition 17.77%, SHORT exposition 0%
+Place Open Short Market Order: 0.03 BNB/USDT at the price of 294.68$ ~8.84$
+--- End Execution Time : 12/01/2024 22:17:49 ---
