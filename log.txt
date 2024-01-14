@@ -1148,3 +1148,13 @@ Blocked open SHORT on MATIC/USDT:USDT, because next VaR: - 0.52%
 Blocked open SHORT on NEAR/USDT:USDT, because next VaR: - 0.52%
 Blocked open SHORT on SHIB/USDT:USDT, because next VaR: - 0.52%
 --- End Execution Time : 14/01/2024 20:19:09 ---
+--- Start Execution Time : 14/01/2024 21:16:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.25 $
+11 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 33.3 C98/USDT at the price of 0.2557$ ~8.51$
+Current VaR rsik 1 period: - 1.02%, LONG exposition 19.97%, SHORT exposition 77.97%
+--- End Execution Time : 14/01/2024 21:16:45 ---
