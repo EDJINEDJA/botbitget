@@ -997,3 +997,13 @@ Current VaR rsik 1 period: - 0.3%, LONG exposition 19.99%, SHORT exposition 10.3
 Place Open Short Market Order: 28.0 GMT/USDT at the price of 0.3106$ ~8.7$
 Place Open Short Market Order: 545.0 ONE/USDT at the price of 0.01605$ ~8.75$
 --- End Execution Time : 14/01/2024 05:18:12 ---
+--- Start Execution Time : 14/01/2024 06:23:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.52 $
+5 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'GMT/USDT:USDT', 'ONE/USDT:USDT'])
+Place Close Short Market Order: 0.03 BNB/USDT at the price of 304.92$ ~9.15$
+Current VaR rsik 1 period: - 0.3%, LONG exposition 20.3%, SHORT exposition 20.21%
+--- End Execution Time : 14/01/2024 06:23:56 ---
