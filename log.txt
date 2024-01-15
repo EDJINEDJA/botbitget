@@ -1334,3 +1334,12 @@ Blocked open SHORT on MATIC/USDT:USDT, because next VaR: - 1.1%
 Blocked open SHORT on SHIB/USDT:USDT, because next VaR: - 1.1%
 Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 1.1%
 --- End Execution Time : 15/01/2024 15:19:47 ---
+--- Start Execution Time : 15/01/2024 16:24:20 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.23 $
+10 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 1.1%, LONG exposition 17.26%, SHORT exposition 77.71%
+--- End Execution Time : 15/01/2024 16:24:53 ---
