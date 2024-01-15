@@ -1294,3 +1294,15 @@ Current VaR rsik 1 period: - 0.99%, LONG exposition 27.49%, SHORT exposition 79.
 Blocked open SHORT on NEAR/USDT:USDT, because next VaR: - 0.99%
 Blocked open SHORT on SHIB/USDT:USDT, because next VaR: - 0.99%
 --- End Execution Time : 15/01/2024 12:35:47 ---
+--- Start Execution Time : 15/01/2024 13:22:25 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.6 $
+11 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'GRT/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 3.0 DYDX/USDT at the price of 2.815$ ~8.45$
+Current VaR rsik 1 period: - 0.99%, LONG exposition 27.35%, SHORT exposition 79.31%
+Blocked open SHORT on AAVE/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on C98/USDT:USDT, because next VaR: - 0.99%
+--- End Execution Time : 15/01/2024 13:23:00 ---
