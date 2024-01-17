@@ -1864,3 +1864,12 @@ USD balance : 86.87 $
 Current VaR rsik 1 period: - 0.89%, LONG exposition 17.51%, SHORT exposition 76.3%
 Blocked open SHORT on ONE/USDT:USDT, because next VaR: - 0.89%
 --- End Execution Time : 17/01/2024 22:18:32 ---
+--- Start Execution Time : 17/01/2024 23:19:39 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.69 $
+10 active positions (['APT/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.89%, LONG exposition 17.39%, SHORT exposition 76.5%
+--- End Execution Time : 17/01/2024 23:20:16 ---
