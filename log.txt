@@ -1706,3 +1706,12 @@ Place Open Short Market Order: 0.2 AVAX/USDT at the price of 35.631$ ~7.13$
 Place Open Short Market Order: 15.0 CRV/USDT at the price of 0.5416$ ~8.12$
 Place Open Short Market Order: 338.0 GALA/USDT at the price of 0.02544$ ~8.6$
 --- End Execution Time : 17/01/2024 06:24:45 ---
+--- Start Execution Time : 17/01/2024 07:17:46 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.01 $
+11 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.88%, LONG exposition 24.14%, SHORT exposition 75.29%
+--- End Execution Time : 17/01/2024 07:18:21 ---
