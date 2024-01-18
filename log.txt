@@ -2097,3 +2097,12 @@ Current VaR rsik 1 period: - 0.93%, LONG exposition 6.88%, SHORT exposition 71.8
 Blocked open SHORT on BNB/USDT:USDT, because next VaR: - 0.93%
 Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 18/01/2024 20:20:14 ---
+--- Start Execution Time : 18/01/2024 21:16:45 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.6 $
+9 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 6.76%, SHORT exposition 71.79%
+--- End Execution Time : 18/01/2024 21:17:19 ---
