@@ -2002,3 +2002,18 @@ USD balance : 86.93 $
 10 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 0.87%, LONG exposition 16.68%, SHORT exposition 75.2%
 --- End Execution Time : 18/01/2024 12:35:20 ---
+--- Start Execution Time : 18/01/2024 13:22:30 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.02 $
+10 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 32.6 C98/USDT at the price of 0.2525$ ~8.23$
+Current VaR rsik 1 period: - 0.86%, LONG exposition 16.48%, SHORT exposition 74.83%
+Place Open Short Market Order: 16.0 CRV/USDT at the price of 0.5325$ ~8.52$
+Blocked open SHORT on FTM/USDT:USDT, because next VaR: - 0.86%
+Blocked open SHORT on NEAR/USDT:USDT, because next VaR: - 0.86%
+Blocked open SHORT on SAND/USDT:USDT, because next VaR: - 0.86%
+Blocked open SHORT on WAVES/USDT:USDT, because next VaR: - 0.86%
+--- End Execution Time : 18/01/2024 13:23:06 ---
