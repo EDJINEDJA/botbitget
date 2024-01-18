@@ -1993,3 +1993,12 @@ Blocked open SHORT on CRV/USDT:USDT, because next VaR: - 0.88%
 Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 0.88%
 Blocked open SHORT on SAND/USDT:USDT, because next VaR: - 0.88%
 --- End Execution Time : 18/01/2024 11:16:38 ---
+--- Start Execution Time : 18/01/2024 12:34:47 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.93 $
+10 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.87%, LONG exposition 16.68%, SHORT exposition 75.2%
+--- End Execution Time : 18/01/2024 12:35:20 ---
