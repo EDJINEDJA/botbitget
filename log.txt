@@ -1979,3 +1979,17 @@ Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 0.89%
 Blocked open SHORT on NEAR/USDT:USDT, because next VaR: - 0.89%
 Blocked open SHORT on ONE/USDT:USDT, because next VaR: - 0.89%
 --- End Execution Time : 18/01/2024 10:21:54 ---
+--- Start Execution Time : 18/01/2024 11:16:02 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.52 $
+10 active positions (['APT/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.88%, LONG exposition 17.01%, SHORT exposition 76.27%
+Blocked open SHORT on AAVE/USDT:USDT, because next VaR: - 0.88%
+Blocked open SHORT on AXS/USDT:USDT, because next VaR: - 0.88%
+Blocked open SHORT on CRV/USDT:USDT, because next VaR: - 0.88%
+Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 0.88%
+Blocked open SHORT on SAND/USDT:USDT, because next VaR: - 0.88%
+--- End Execution Time : 18/01/2024 11:16:38 ---
