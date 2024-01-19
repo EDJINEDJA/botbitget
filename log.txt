@@ -2268,3 +2268,14 @@ USD balance : 88.42 $
 Current VaR rsik 1 period: - 0.91%, LONG exposition 9.32%, SHORT exposition 71.6%
 Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 0.91%
 --- End Execution Time : 19/01/2024 15:20:26 ---
+--- Start Execution Time : 19/01/2024 16:24:09 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.53 $
+9 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 18.0 MANA/USDT at the price of 0.4447$ ~8.0$
+Current VaR rsik 1 period: - 0.88%, LONG exposition 8.97%, SHORT exposition 69.24%
+Blocked open SHORT on ROSE/USDT:USDT, because next VaR: - 0.88%
+--- End Execution Time : 19/01/2024 16:24:46 ---
