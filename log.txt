@@ -2279,3 +2279,19 @@ Place Close Long Market Order: 18.0 MANA/USDT at the price of 0.4447$ ~8.0$
 Current VaR rsik 1 period: - 0.88%, LONG exposition 8.97%, SHORT exposition 69.24%
 Blocked open SHORT on ROSE/USDT:USDT, because next VaR: - 0.88%
 --- End Execution Time : 19/01/2024 16:24:46 ---
+--- Start Execution Time : 19/01/2024 17:17:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.99 $
+8 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.99%, LONG exposition 0%, SHORT exposition 68.37%
+Blocked open SHORT on BTC/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on BNB/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on KSM/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on WAVES/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on EGLD/USDT:USDT, because next VaR: - 0.99%
+Blocked open SHORT on ETC/USDT:USDT, because next VaR: - 0.99%
+--- End Execution Time : 19/01/2024 17:17:38 ---
