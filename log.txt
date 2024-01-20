@@ -2556,3 +2556,12 @@ Place Close Short Market Order: 1645.0 JASMY/USDT at the price of 0.005175$ ~8.5
 Current VaR rsik 1 period: - 0.75%, LONG exposition 9.83%, SHORT exposition 54.73%
 Place Open Long Market Order: 0.02 BNB/USDT at the price of 315.83$ ~6.32$
 --- End Execution Time : 20/01/2024 21:16:21 ---
+--- Start Execution Time : 20/01/2024 22:17:19 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.88 $
+8 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT'])
+Current VaR rsik 1 period: - 0.7%, LONG exposition 17.13%, SHORT exposition 54.78%
+--- End Execution Time : 20/01/2024 22:17:50 ---
