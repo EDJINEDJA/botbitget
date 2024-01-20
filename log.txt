@@ -2536,3 +2536,12 @@ USD balance : 87.57 $
 Current VaR rsik 1 period: - 0.88%, LONG exposition 9.77%, SHORT exposition 63.27%
 Blocked open SHORT on AAVE/USDT:USDT, because next VaR: - 0.88%
 --- End Execution Time : 20/01/2024 19:15:09 ---
+--- Start Execution Time : 20/01/2024 20:18:38 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.28 $
+8 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT'])
+Current VaR rsik 1 period: - 0.89%, LONG exposition 9.82%, SHORT exposition 63.83%
+--- End Execution Time : 20/01/2024 20:19:13 ---
