@@ -2350,3 +2350,15 @@ USD balance : 87.69 $
 8 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 1.06%, LONG exposition 0%, SHORT exposition 72.78%
 --- End Execution Time : 19/01/2024 23:17:09 ---
+--- Start Execution Time : 20/01/2024 01:19:22 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.02 $
+8 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 1.05%, LONG exposition 0%, SHORT exposition 72.14%
+Blocked open SHORT on APE/USDT:USDT, because next VaR: - 1.05%
+Blocked open SHORT on SAND/USDT:USDT, because next VaR: - 1.05%
+Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 1.05%
+--- End Execution Time : 20/01/2024 01:19:59 ---
