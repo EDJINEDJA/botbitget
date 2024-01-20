@@ -2409,3 +2409,13 @@ USD balance : 87.22 $
 9 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
 Current VaR rsik 1 period: - 0.94%, LONG exposition 9.67%, SHORT exposition 73.47%
 --- End Execution Time : 20/01/2024 06:23:17 ---
+--- Start Execution Time : 20/01/2024 07:16:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.9 $
+9 active positions (['APT/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 890000.0 SHIB/USDT at the price of 9.465e-06$ ~8.42$
+Current VaR rsik 1 period: - 0.83%, LONG exposition 9.64%, SHORT exposition 64.36%
+--- End Execution Time : 20/01/2024 07:17:04 ---
