@@ -2586,3 +2586,12 @@ Place Open Short Market Order: 0.2 AVAX/USDT at the price of 32.585$ ~6.52$
 Blocked open SHORT on SOL/USDT:USDT, because next VaR: - 0.7%
 Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 0.7%
 --- End Execution Time : 21/01/2024 01:26:50 ---
+--- Start Execution Time : 21/01/2024 02:35:41 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.99 $
+9 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT'])
+Current VaR rsik 1 period: - 0.82%, LONG exposition 17.18%, SHORT exposition 62.15%
+--- End Execution Time : 21/01/2024 02:36:12 ---
