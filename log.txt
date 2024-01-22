@@ -2885,3 +2885,16 @@ Blocked open SHORT on APE/USDT:USDT, because next VaR: - 1.11%
 Blocked open SHORT on GALA/USDT:USDT, because next VaR: - 1.11%
 Blocked open SHORT on MATIC/USDT:USDT, because next VaR: - 1.11%
 --- End Execution Time : 22/01/2024 09:20:24 ---
+--- Start Execution Time : 22/01/2024 10:20:37 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.23 $
+9 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'GMT/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 0.02 BNB/USDT at the price of 312.15$ ~6.24$
+Current VaR rsik 1 period: - 1.13%, LONG exposition 0%, SHORT exposition 70.56%
+Blocked open SHORT on AXS/USDT:USDT, because next VaR: - 1.13%
+Blocked open SHORT on CRV/USDT:USDT, because next VaR: - 1.13%
+Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 1.13%
+--- End Execution Time : 22/01/2024 10:21:14 ---
