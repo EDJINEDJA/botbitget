@@ -2898,3 +2898,12 @@ Blocked open SHORT on AXS/USDT:USDT, because next VaR: - 1.13%
 Blocked open SHORT on CRV/USDT:USDT, because next VaR: - 1.13%
 Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 1.13%
 --- End Execution Time : 22/01/2024 10:21:14 ---
+--- Start Execution Time : 22/01/2024 11:16:18 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.91 $
+8 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'GMT/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 1.14%, LONG exposition 0%, SHORT exposition 71.18%
+--- End Execution Time : 22/01/2024 11:16:54 ---
