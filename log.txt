@@ -3056,3 +3056,12 @@ USD balance : 88.96 $
 7 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'GMT/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.94%, LONG exposition 0%, SHORT exposition 59.58%
 --- End Execution Time : 23/01/2024 02:33:58 ---
+--- Start Execution Time : 23/01/2024 03:19:51 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.94 $
+7 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOT/USDT:USDT', 'GMT/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 0%, SHORT exposition 59.62%
+--- End Execution Time : 23/01/2024 03:20:20 ---
