@@ -3800,3 +3800,13 @@ Place Close Short Market Order: 950000.0 SHIB/USDT at the price of 8.988e-06$ ~8
 Place Close Short Market Order: 21.8 WOO/USDT at the price of 0.34967$ ~7.62$
 Current VaR rsik 1 period: - 0.29%, LONG exposition 0%, SHORT exposition 19.04%
 --- End Execution Time : 26/01/2024 11:15:01 ---
+--- Start Execution Time : 26/01/2024 12:31:28 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.35 $
+1 active positions (['DOGE/USDT:USDT'])
+Place Close Short Market Order: 117.0 DOGE/USDT at the price of 0.079395$ ~9.29$
+Current VaR rsik 1 period: - 0.13%, LONG exposition 0%, SHORT exposition 10.5%
+--- End Execution Time : 26/01/2024 12:32:01 ---
