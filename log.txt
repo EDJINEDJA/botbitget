@@ -4190,3 +4190,12 @@ USD balance : 88.39 $
 1 active positions (['EGLD/USDT:USDT'])
 Current VaR rsik 1 period: - 0.11%, LONG exposition 6.11%, SHORT exposition 0%
 --- End Execution Time : 28/01/2024 08:21:27 ---
+--- Start Execution Time : 28/01/2024 09:16:53 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.38 $
+1 active positions (['EGLD/USDT:USDT'])
+Current VaR rsik 1 period: - 0.11%, LONG exposition 6.1%, SHORT exposition 0%
+--- End Execution Time : 28/01/2024 09:17:26 ---
