@@ -4365,3 +4365,12 @@ USD balance : 88.35 $
 4 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT'])
 Current VaR rsik 1 period: - 0.47%, LONG exposition 32.88%, SHORT exposition 0%
 --- End Execution Time : 29/01/2024 04:21:17 ---
+--- Start Execution Time : 29/01/2024 05:18:02 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.48 $
+4 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT'])
+Current VaR rsik 1 period: - 0.48%, LONG exposition 32.98%, SHORT exposition 0%
+--- End Execution Time : 29/01/2024 05:18:33 ---
