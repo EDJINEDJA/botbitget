@@ -4347,3 +4347,12 @@ USD balance : 88.38 $
 Current VaR rsik 1 period: - 0.32%, LONG exposition 22.99%, SHORT exposition 0%
 Place Open Long Market Order: 23.0 FTM/USDT at the price of 0.3805$ ~8.75$
 --- End Execution Time : 29/01/2024 02:23:08 ---
+--- Start Execution Time : 29/01/2024 03:18:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.44 $
+4 active positions (['APT/USDT:USDT', 'BNB/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT'])
+Current VaR rsik 1 period: - 0.48%, LONG exposition 32.95%, SHORT exposition 0%
+--- End Execution Time : 29/01/2024 03:18:59 ---
