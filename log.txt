@@ -4707,3 +4707,13 @@ Current VaR rsik 1 period: - 0.85%, LONG exposition 62.01%, SHORT exposition 0%
 Place Open Long Market Order: 6.2 APE/USDT at the price of 1.435$ ~8.9$
 Blocked open LONG on MANA/USDT:USDT, because next VaR: - 0.85%
 --- End Execution Time : 30/01/2024 17:17:48 ---
+--- Start Execution Time : 30/01/2024 18:21:38 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.98 $
+8 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT'])
+Current VaR rsik 1 period: - 0.99%, LONG exposition 71.89%, SHORT exposition 0%
+Blocked open LONG on ROSE/USDT:USDT, because next VaR: - 0.99%
+--- End Execution Time : 30/01/2024 18:22:14 ---
