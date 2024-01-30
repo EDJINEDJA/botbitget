@@ -4696,3 +4696,14 @@ Current VaR rsik 1 period: - 0.7%, LONG exposition 51.85%, SHORT exposition 0%
 Place Open Long Market Order: 54.9 GRT/USDT at the price of 0.16189$ ~8.89$
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 30/01/2024 16:22:24 ---
+--- Start Execution Time : 30/01/2024 17:17:15 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.28 $
+7 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT'])
+Current VaR rsik 1 period: - 0.85%, LONG exposition 62.01%, SHORT exposition 0%
+Place Open Long Market Order: 6.2 APE/USDT at the price of 1.435$ ~8.9$
+Blocked open LONG on MANA/USDT:USDT, because next VaR: - 0.85%
+--- End Execution Time : 30/01/2024 17:17:48 ---
