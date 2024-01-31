@@ -4780,3 +4780,15 @@ Place Open Short Market Order: 19.0 SAND/USDT at the price of 0.45$ ~8.55$
 Place Open Short Market Order: 3.6 WAVES/USDT at the price of 2.171$ ~7.82$
 Place Open Short Market Order: 1729.0 JASMY/USDT at the price of 0.005057$ ~8.74$
 --- End Execution Time : 31/01/2024 01:15:34 ---
+--- Start Execution Time : 31/01/2024 02:22:58 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.39 $
+8 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'EGLD/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Long Market Order: 6.2 APE/USDT at the price of 1.403$ ~8.7$
+Place Close Long Market Order: 0.02 BNB/USDT at the price of 305.61$ ~6.11$
+Current VaR rsik 1 period: - 0.36%, LONG exposition 21.28%, SHORT exposition 38.45%
+Place Open Short Market Order: 1.2 AXS/USDT at the price of 7.212$ ~8.65$
+--- End Execution Time : 31/01/2024 02:23:27 ---
