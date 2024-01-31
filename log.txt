@@ -4967,3 +4967,13 @@ USD balance : 86.91 $
 Current VaR rsik 1 period: - 0.96%, LONG exposition 6.35%, SHORT exposition 68.34%
 Blocked open SHORT on BNB/USDT:USDT, because next VaR: - 0.96%
 --- End Execution Time : 31/01/2024 19:13:30 ---
+--- Start Execution Time : 31/01/2024 20:17:33 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.28 $
+8 active positions (['AXS/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Long Market Order: 0.1 EGLD/USDT at the price of 54.13$ ~5.41$
+Current VaR rsik 1 period: - 0.95%, LONG exposition 6.2%, SHORT exposition 67.51%
+--- End Execution Time : 31/01/2024 20:18:09 ---
