@@ -4764,3 +4764,19 @@ Place Close Long Market Order: 110.0 DOGE/USDT at the price of 0.080512$ ~8.86$
 Place Close Long Market Order: 54.9 GRT/USDT at the price of 0.15985$ ~8.78$
 Current VaR rsik 1 period: - 0.89%, LONG exposition 61.66%, SHORT exposition 0%
 --- End Execution Time : 30/01/2024 23:19:14 ---
+--- Start Execution Time : 31/01/2024 01:14:57 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.46 $
+6 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT'])
+Place Close Long Market Order: 0.976 APT/USDT at the price of 8.923$ ~8.71$
+Place Close Long Market Order: 23.0 FTM/USDT at the price of 0.3714$ ~8.54$
+Current VaR rsik 1 period: - 0.6%, LONG exposition 41.29%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 55.4 GRT/USDT at the price of 0.15765$ ~8.73$
+Place Open Short Market Order: 19.0 SAND/USDT at the price of 0.45$ ~8.55$
+Place Open Short Market Order: 3.6 WAVES/USDT at the price of 2.171$ ~7.82$
+Place Open Short Market Order: 1729.0 JASMY/USDT at the price of 0.005057$ ~8.74$
+--- End Execution Time : 31/01/2024 01:15:34 ---
