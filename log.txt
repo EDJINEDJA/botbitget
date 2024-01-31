@@ -4850,3 +4850,13 @@ USD balance : 87.48 $
 9 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.56%, LONG exposition 25.71%, SHORT exposition 58.08%
 --- End Execution Time : 31/01/2024 08:21:32 ---
+--- Start Execution Time : 31/01/2024 09:16:45 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.71 $
+9 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.55%, LONG exposition 25.51%, SHORT exposition 57.54%
+Place Open Short Market Order: 607.0 ONE/USDT at the price of 0.01443$ ~8.76$
+--- End Execution Time : 31/01/2024 09:17:19 ---
