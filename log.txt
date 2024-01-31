@@ -4977,3 +4977,18 @@ USD balance : 87.28 $
 Place Close Long Market Order: 0.1 EGLD/USDT at the price of 54.13$ ~5.41$
 Current VaR rsik 1 period: - 0.95%, LONG exposition 6.2%, SHORT exposition 67.51%
 --- End Execution Time : 31/01/2024 20:18:09 ---
+--- Start Execution Time : 31/01/2024 21:16:40 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.63 $
+7 active positions (['AXS/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 1.02%, LONG exposition 0%, SHORT exposition 66.84%
+Blocked open SHORT on DOGE/USDT:USDT, because next VaR: - 1.02%
+Blocked open SHORT on DYDX/USDT:USDT, because next VaR: - 1.02%
+Blocked open SHORT on NEAR/USDT:USDT, because next VaR: - 1.02%
+Blocked open SHORT on SHIB/USDT:USDT, because next VaR: - 1.02%
+Blocked open SHORT on WOO/USDT:USDT, because next VaR: - 1.02%
+Blocked open SHORT on ROSE/USDT:USDT, because next VaR: - 1.02%
+--- End Execution Time : 31/01/2024 21:17:15 ---
