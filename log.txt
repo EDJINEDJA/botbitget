@@ -4792,3 +4792,12 @@ Place Close Long Market Order: 0.02 BNB/USDT at the price of 305.61$ ~6.11$
 Current VaR rsik 1 period: - 0.36%, LONG exposition 21.28%, SHORT exposition 38.45%
 Place Open Short Market Order: 1.2 AXS/USDT at the price of 7.212$ ~8.65$
 --- End Execution Time : 31/01/2024 02:23:27 ---
+--- Start Execution Time : 31/01/2024 03:18:10 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.03 $
+7 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'EGLD/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.55%, LONG exposition 14.49%, SHORT exposition 49.11%
+--- End Execution Time : 31/01/2024 03:18:45 ---
