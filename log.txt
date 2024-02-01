@@ -5025,3 +5025,16 @@ USD balance : 88.88 $
 Current VaR rsik 1 period: - 0.98%, LONG exposition 0%, SHORT exposition 64.48%
 Place Open Long Market Order: 37.2 C98/USDT at the price of 0.2386$ ~8.88$
 --- End Execution Time : 01/02/2024 01:18:44 ---
+--- Start Execution Time : 01/02/2024 02:26:31 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.18 $
+8 active positions (['AXS/USDT:USDT', 'C98/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.83%, LONG exposition 10.16%, SHORT exposition 64.14%
+Place Open Short Market Order: 6.3 APE/USDT at the price of 1.399$ ~8.81$
+Blocked open SHORT on ETH/USDT:USDT, because next VaR: - 0.83%
+Blocked open SHORT on KSM/USDT:USDT, because next VaR: - 0.83%
+Blocked open SHORT on SOL/USDT:USDT, because next VaR: - 0.83%
+--- End Execution Time : 01/02/2024 02:27:07 ---
