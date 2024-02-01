@@ -5087,3 +5087,13 @@ Place Close Long Market Order: 37.2 C98/USDT at the price of 0.2346$ ~8.73$
 Current VaR rsik 1 period: - 0.73%, LONG exposition 19.66%, SHORT exposition 64.99%
 Place Open Short Market Order: 112.0 DOGE/USDT at the price of 0.078833$ ~8.83$
 --- End Execution Time : 01/02/2024 07:17:29 ---
+--- Start Execution Time : 01/02/2024 08:21:32 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.19 $
+9 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.95%, LONG exposition 9.84%, SHORT exposition 75.32%
+Blocked open SHORT on C98/USDT:USDT, because next VaR: - 0.95%
+--- End Execution Time : 01/02/2024 08:22:00 ---
