@@ -5038,3 +5038,13 @@ Blocked open SHORT on ETH/USDT:USDT, because next VaR: - 0.83%
 Blocked open SHORT on KSM/USDT:USDT, because next VaR: - 0.83%
 Blocked open SHORT on SOL/USDT:USDT, because next VaR: - 0.83%
 --- End Execution Time : 01/02/2024 02:27:07 ---
+--- Start Execution Time : 01/02/2024 03:18:46 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.08 $
+9 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 6.3 APE/USDT at the price of 1.421$ ~8.95$
+Current VaR rsik 1 period: - 0.83%, LONG exposition 10.47%, SHORT exposition 64.47%
+--- End Execution Time : 01/02/2024 03:19:22 ---
