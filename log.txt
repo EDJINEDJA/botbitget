@@ -5294,3 +5294,13 @@ USD balance : 87.43 $
 10 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.85%, LONG exposition 20.28%, SHORT exposition 77.23%
 --- End Execution Time : 02/02/2024 06:22:26 ---
+--- Start Execution Time : 02/02/2024 07:15:16 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.35 $
+10 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.86%, LONG exposition 20.43%, SHORT exposition 77.52%
+Place Open Long Market Order: 10.0 MATIC/USDT at the price of 0.8189$ ~8.19$
+--- End Execution Time : 02/02/2024 07:15:47 ---
