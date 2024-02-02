@@ -5304,3 +5304,13 @@ USD balance : 87.35 $
 Current VaR rsik 1 period: - 0.86%, LONG exposition 20.43%, SHORT exposition 77.52%
 Place Open Long Market Order: 10.0 MATIC/USDT at the price of 0.8189$ ~8.19$
 --- End Execution Time : 02/02/2024 07:15:47 ---
+--- Start Execution Time : 02/02/2024 08:21:29 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.98 $
+11 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'DOGE/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 1729.0 JASMY/USDT at the price of 0.005051$ ~8.73$
+Current VaR rsik 1 period: - 0.62%, LONG exposition 29.38%, SHORT exposition 67.69%
+--- End Execution Time : 02/02/2024 08:21:58 ---
