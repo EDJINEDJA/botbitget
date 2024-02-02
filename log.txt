@@ -5325,3 +5325,12 @@ Place Close Long Market Order: 6.1 APE/USDT at the price of 1.412$ ~8.61$
 Current VaR rsik 1 period: - 0.74%, LONG exposition 19.26%, SHORT exposition 67.44%
 Place Open Short Market Order: 37.8 C98/USDT at the price of 0.23$ ~8.69$
 --- End Execution Time : 02/02/2024 09:18:36 ---
+--- Start Execution Time : 02/02/2024 10:18:42 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.76 $
+10 active positions (['APT/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.89%, LONG exposition 19.33%, SHORT exposition 77.91%
+--- End Execution Time : 02/02/2024 10:19:15 ---
