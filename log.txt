@@ -5460,3 +5460,14 @@ USD balance : 86.55 $
 15 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
 Current VaR rsik 1 period: - 0.71%, LONG exposition 46.44%, SHORT exposition 95.37%
 --- End Execution Time : 02/02/2024 23:17:04 ---
+--- Start Execution Time : 03/02/2024 01:12:48 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.71 $
+15 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 1.2 AXS/USDT at the price of 7.2483$ ~8.7$
+Place Close Short Market Order: 55.4 GRT/USDT at the price of 0.15822$ ~8.77$
+Current VaR rsik 1 period: - 0.58%, LONG exposition 46.96%, SHORT exposition 85.6%
+--- End Execution Time : 03/02/2024 01:13:21 ---
