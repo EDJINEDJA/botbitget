@@ -5546,3 +5546,12 @@ Place Close Long Market Order: 3.0 DYDX/USDT at the price of 2.73$ ~8.19$
 Current VaR rsik 1 period: - 0.45%, LONG exposition 36.77%, SHORT exposition 65.77%
 Place Open Short Market Order: 10.0 MATIC/USDT at the price of 0.7901$ ~7.9$
 --- End Execution Time : 03/02/2024 09:17:51 ---
+--- Start Execution Time : 03/02/2024 10:16:29 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.38 $
+12 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 36.96%, SHORT exposition 74.91%
+--- End Execution Time : 03/02/2024 10:17:02 ---
