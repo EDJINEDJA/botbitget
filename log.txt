@@ -5667,3 +5667,12 @@ USD balance : 85.7 $
 Current VaR rsik 1 period: - 0.35%, LONG exposition 56.48%, SHORT exposition 65.28%
 Place Open Short Market Order: 6.1 APE/USDT at the price of 1.396$ ~8.52$
 --- End Execution Time : 03/02/2024 22:18:00 ---
+--- Start Execution Time : 03/02/2024 23:17:28 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.96 $
+14 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Current VaR rsik 1 period: - 0.39%, LONG exposition 56.48%, SHORT exposition 74.84%
+--- End Execution Time : 03/02/2024 23:18:00 ---
