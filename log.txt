@@ -5824,3 +5824,13 @@ USD balance : 85.57 $
 Place Close Short Market Order: 0.02 BNB/USDT at the price of 306.48$ ~6.13$
 Current VaR rsik 1 period: - 0.87%, LONG exposition 28.33%, SHORT exposition 87.56%
 --- End Execution Time : 04/02/2024 15:16:34 ---
+--- Start Execution Time : 04/02/2024 16:20:14 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.94 $
+12 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'DOGE/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT'])
+Place Close Short Market Order: 112.0 DOGE/USDT at the price of 0.079039$ ~8.85$
+Current VaR rsik 1 period: - 0.86%, LONG exposition 28.45%, SHORT exposition 87.05%
+--- End Execution Time : 04/02/2024 16:20:51 ---
