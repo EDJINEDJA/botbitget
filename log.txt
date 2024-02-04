@@ -5895,3 +5895,23 @@ Current VaR rsik 1 period: - 0.93%, LONG exposition 28.14%, SHORT exposition 87.
 Blocked open SHORT on APT/USDT:USDT, because next VaR: - 0.93%
 Blocked open SHORT on GMT/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 04/02/2024 22:16:43 ---
+--- Start Execution Time : 04/02/2024 23:16:34 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.21 $
+12 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'C98/USDT:USDT', 'GALA/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 0.2 AVAX/USDT at the price of 34.92$ ~6.98$
+Current VaR rsik 1 period: - 0.91%, LONG exposition 27.51%, SHORT exposition 85.31%
+Blocked open SHORT on AAVE/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on AXS/USDT:USDT, because next VaR: - 0.91%
+Place Open Short Market Order: 110.0 DOGE/USDT at the price of 0.078132$ ~8.59$
+Blocked open SHORT on DOT/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on DYDX/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on FIL/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on FTM/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 0.91%
+Blocked open SHORT on SHIB/USDT:USDT, because next VaR: - 0.91%
+--- End Execution Time : 04/02/2024 23:17:09 ---
