@@ -6064,3 +6064,18 @@ USD balance : 84.94 $
 Current VaR rsik 1 period: - 0.54%, LONG exposition 27.58%, SHORT exposition 57.91%
 Place Open Short Market Order: 950000.0 SHIB/USDT at the price of 8.891e-06$ ~8.45$
 --- End Execution Time : 05/02/2024 15:18:14 ---
+--- Start Execution Time : 05/02/2024 16:21:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.06 $
+10 active positions (['APE/USDT:USDT', 'DOT/USDT:USDT', 'JASMY/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 1.0 DOT/USDT at the price of 6.777$ ~6.78$
+Place Close Long Market Order: 75.0 ROSE/USDT at the price of 0.11328$ ~8.5$
+Current VaR rsik 1 period: - 0.86%, LONG exposition 9.41%, SHORT exposition 67.49%
+Place Open Short Market Order: 1.2 AXS/USDT at the price of 6.929$ ~8.31$
+Blocked open SHORT on C98/USDT:USDT, because next VaR: - 0.86%
+Blocked open SHORT on GMT/USDT:USDT, because next VaR: - 0.86%
+Blocked open SHORT on GRT/USDT:USDT, because next VaR: - 0.86%
+--- End Execution Time : 05/02/2024 16:22:03 ---
