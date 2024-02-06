@@ -6240,3 +6240,14 @@ USD balance : 85.19 $
 10 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'DYDX/USDT:USDT', 'JASMY/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.82%, LONG exposition 19.97%, SHORT exposition 77.8%
 --- End Execution Time : 06/02/2024 09:18:11 ---
+--- Start Execution Time : 06/02/2024 10:19:30 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.49 $
+10 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'DYDX/USDT:USDT', 'JASMY/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WAVES/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.81%, LONG exposition 19.82%, SHORT exposition 77.1%
+Place Open Short Market Order: 0.1 AAVE/USDT at the price of 83.371$ ~8.34$
+Blocked open SHORT on DOT/USDT:USDT, because next VaR: - 0.81%
+--- End Execution Time : 06/02/2024 10:20:02 ---
