@@ -6410,3 +6410,15 @@ Place Close Short Market Order: 1.2 AXS/USDT at the price of 7.011$ ~8.41$
 Current VaR rsik 1 period: - 0.25%, LONG exposition 29.39%, SHORT exposition 39.34%
 Place Open Short Market Order: 0.984 APT/USDT at the price of 8.591$ ~8.45$
 --- End Execution Time : 07/02/2024 03:19:27 ---
+--- Start Execution Time : 07/02/2024 04:20:49 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.61 $
+8 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'DYDX/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.35%, LONG exposition 29.24%, SHORT exposition 49.16%
+Place Open Short Market Order: 24.0 FTM/USDT at the price of 0.3503$ ~8.41$
+Place Open Short Market Order: 19.0 MANA/USDT at the price of 0.4302$ ~8.17$
+Place Open Short Market Order: 0.1 EGLD/USDT at the price of 51.53$ ~5.15$
+--- End Execution Time : 07/02/2024 04:21:25 ---
