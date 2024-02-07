@@ -6595,3 +6595,13 @@ Place Close Short Market Order: 0.1 EGLD/USDT at the price of 53.3$ ~5.33$
 Current VaR rsik 1 period: - 0.67%, LONG exposition 67.84%, SHORT exposition 26.64%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 1), skip SOL/USDT:USDT
 --- End Execution Time : 07/02/2024 21:15:43 ---
+--- Start Execution Time : 07/02/2024 22:16:20 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.27 $
+9 active positions (['AAVE/USDT:USDT', 'APT/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT'])
+Place Close Short Market Order: 0.984 APT/USDT at the price of 8.8$ ~8.66$
+Current VaR rsik 1 period: - 0.88%, LONG exposition 67.96%, SHORT exposition 10.0%
+--- End Execution Time : 07/02/2024 22:16:55 ---
