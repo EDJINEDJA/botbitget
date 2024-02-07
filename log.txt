@@ -6511,3 +6511,12 @@ USD balance : 84.25 $
 Current VaR rsik 1 period: - 0.72%, LONG exposition 38.59%, SHORT exposition 93.04%
 Place Open Long Market Order: 17.0 CRV/USDT at the price of 0.4793$ ~8.15$
 --- End Execution Time : 07/02/2024 13:19:13 ---
+--- Start Execution Time : 07/02/2024 14:15:40 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.1 $
+15 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.63%, LONG exposition 48.47%, SHORT exposition 93.48%
+--- End Execution Time : 07/02/2024 14:16:13 ---
