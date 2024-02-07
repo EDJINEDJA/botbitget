@@ -6565,3 +6565,13 @@ Place Close Short Market Order: 19.0 MANA/USDT at the price of 0.439$ ~8.34$
 Current VaR rsik 1 period: - 0.56%, LONG exposition 67.64%, SHORT exposition 36.48%
 Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
 --- End Execution Time : 07/02/2024 18:21:48 ---
+--- Start Execution Time : 07/02/2024 19:13:59 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.1 $
+11 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT'])
+Place Close Short Market Order: 6.1 APE/USDT at the price of 1.376$ ~8.39$
+Current VaR rsik 1 period: - 0.67%, LONG exposition 67.61%, SHORT exposition 26.38%
+--- End Execution Time : 07/02/2024 19:14:27 ---
