@@ -6482,3 +6482,13 @@ Place Close Short Market Order: 24.0 FTM/USDT at the price of 0.3563$ ~8.55$
 Current VaR rsik 1 period: - 0.72%, LONG exposition 29.32%, SHORT exposition 82.76%
 Place Open Long Market Order: 0.2 KSM/USDT at the price of 39.2$ ~7.84$
 --- End Execution Time : 07/02/2024 10:19:32 ---
+--- Start Execution Time : 07/02/2024 11:15:18 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.49 $
+13 active positions (['AAVE/USDT:USDT', 'APE/USDT:USDT', 'APT/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 0.6%, LONG exposition 38.47%, SHORT exposition 82.69%
+Place Open Short Market Order: 1.2 AXS/USDT at the price of 6.892$ ~8.27$
+--- End Execution Time : 07/02/2024 11:15:50 ---
