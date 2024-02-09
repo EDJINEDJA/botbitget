@@ -6845,3 +6845,15 @@ USD balance : 84.71 $
 7 active positions (['CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT'])
 Current VaR rsik 1 period: - 0.99%, LONG exposition 68.23%, SHORT exposition 0%
 --- End Execution Time : 09/02/2024 02:22:30 ---
+--- Start Execution Time : 09/02/2024 03:18:08 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.11 $
+7 active positions (['CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GRT/USDT:USDT', 'KSM/USDT:USDT', 'MATIC/USDT:USDT'])
+Current VaR rsik 1 period: - 0.99%, LONG exposition 68.37%, SHORT exposition 0%
+Blocked open LONG on BTC/USDT:USDT, because next VaR: - 0.99%
+Blocked open LONG on APT/USDT:USDT, because next VaR: - 0.99%
+Blocked open LONG on ETC/USDT:USDT, because next VaR: - 0.99%
+--- End Execution Time : 09/02/2024 03:18:44 ---
