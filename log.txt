@@ -7645,3 +7645,19 @@ Current VaR rsik 1 period: - 0.59%, LONG exposition 56.81%, SHORT exposition 20.
 Place Open Long Market Order: 16.0 CRV/USDT at the price of 0.503$ ~8.05$
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 --- End Execution Time : 12/02/2024 15:18:45 ---
+--- Start Execution Time : 12/02/2024 16:23:06 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.43 $
+9 active positions (['APE/USDT:USDT', 'APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'GMT/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.956 APT/USDT at the price of 9.133$ ~8.73$
+Place Close Short Market Order: 34.0 GMT/USDT at the price of 0.2541$ ~8.64$
+Current VaR rsik 1 period: - 0.93%, LONG exposition 66.92%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Blocked open LONG on DOT/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on GMT/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on MATIC/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on ONE/USDT:USDT, because next VaR: - 0.93%
+--- End Execution Time : 12/02/2024 16:23:37 ---
