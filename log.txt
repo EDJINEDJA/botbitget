@@ -7592,3 +7592,17 @@ USD balance : 84.77 $
 7 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT'])
 Current VaR rsik 1 period: - 0.89%, LONG exposition 65.72%, SHORT exposition 0%
 --- End Execution Time : 12/02/2024 09:18:59 ---
+--- Start Execution Time : 12/02/2024 10:20:52 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.43 $
+7 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'CRV/USDT:USDT', 'MANA/USDT:USDT', 'NEAR/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 16.0 CRV/USDT at the price of 0.4916$ ~7.87$
+Place Close Long Market Order: 18.0 SAND/USDT at the price of 0.4628$ ~8.33$
+Current VaR rsik 1 period: - 0.78%, LONG exposition 56.28%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 0.956 APT/USDT at the price of 8.827$ ~8.44$
+Place Open Short Market Order: 34.0 GMT/USDT at the price of 0.2469$ ~8.39$
+--- End Execution Time : 12/02/2024 10:21:24 ---
