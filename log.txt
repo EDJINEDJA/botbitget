@@ -7513,3 +7513,14 @@ Place Open Long Market Order: 1.1 AXS/USDT at the price of 7.6991$ ~8.47$
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 Place Open Long Market Order: 22.2 WOO/USDT at the price of 0.38417$ ~8.53$
 --- End Execution Time : 12/02/2024 01:14:53 ---
+--- Start Execution Time : 12/02/2024 02:23:43 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.15 $
+4 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'KSM/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.58%, LONG exposition 38.81%, SHORT exposition 0%
+Place Open Long Market Order: 5.9 APE/USDT at the price of 1.433$ ~8.45$
+Place Open Long Market Order: 18.0 SAND/USDT at the price of 0.4715$ ~8.49$
+--- End Execution Time : 12/02/2024 02:24:13 ---
