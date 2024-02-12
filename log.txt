@@ -7571,3 +7571,15 @@ USD balance : 84.82 $
 Place Close Long Market Order: 0.2 KSM/USDT at the price of 41.55$ ~8.31$
 Current VaR rsik 1 period: - 0.68%, LONG exposition 48.67%, SHORT exposition 0%
 --- End Execution Time : 12/02/2024 07:16:31 ---
+--- Start Execution Time : 12/02/2024 08:22:08 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 84.99 $
+4 active positions (['APE/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 39.02%, SHORT exposition 0%
+Place Open Long Market Order: 16.0 CRV/USDT at the price of 0.5002$ ~8.0$
+Place Open Long Market Order: 18.0 MANA/USDT at the price of 0.4698$ ~8.46$
+Place Open Long Market Order: 2.0 NEAR/USDT at the price of 3.1505$ ~6.3$
+--- End Execution Time : 12/02/2024 08:22:45 ---
