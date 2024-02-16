@@ -8610,3 +8610,14 @@ USD balance : 86.72 $
 7 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT'])
 Current VaR rsik 1 period: - 0.74%, LONG exposition 67.7%, SHORT exposition 0%
 --- End Execution Time : 16/02/2024 18:22:35 ---
+--- Start Execution Time : 16/02/2024 19:15:22 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.0 $
+7 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT'])
+Current VaR rsik 1 period: - 0.74%, LONG exposition 67.8%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Long Market Order: 508.0 ONE/USDT at the price of 0.01711$ ~8.69$
+--- End Execution Time : 16/02/2024 19:16:01 ---
