@@ -8590,3 +8590,14 @@ USD balance : 87.63 $
 Current VaR rsik 1 period: - 0.97%, LONG exposition 84.74%, SHORT exposition 0%
 Blocked open LONG on SAND/USDT:USDT, because next VaR: - 0.97%
 --- End Execution Time : 16/02/2024 16:22:32 ---
+--- Start Execution Time : 16/02/2024 17:15:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.75 $
+9 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOGE/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT'])
+Place Close Long Market Order: 2.0 DYDX/USDT at the price of 3.078$ ~6.16$
+Place Close Long Market Order: 21.0 FTM/USDT at the price of 0.4041$ ~8.49$
+Current VaR rsik 1 period: - 0.87%, LONG exposition 77.49%, SHORT exposition 0%
+--- End Execution Time : 16/02/2024 17:15:38 ---
