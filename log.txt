@@ -8773,3 +8773,12 @@ Current VaR rsik 1 period: - 0.78%, LONG exposition 68.84%, SHORT exposition 0%
 Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
 Place Open Long Market Order: 17.0 SAND/USDT at the price of 0.4986$ ~8.48$
 --- End Execution Time : 17/02/2024 12:29:44 ---
+--- Start Execution Time : 17/02/2024 13:17:10 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 86.45 $
+8 active positions (['APE/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'FIL/USDT:USDT', 'GMT/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.88%, LONG exposition 78.48%, SHORT exposition 0%
+--- End Execution Time : 17/02/2024 13:17:45 ---
