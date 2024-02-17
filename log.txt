@@ -8824,3 +8824,12 @@ USD balance : 85.51 $
 Current VaR rsik 1 period: - 0.31%, LONG exposition 28.68%, SHORT exposition 0%
 Place Open Long Market Order: 9.0 MATIC/USDT at the price of 0.9328$ ~8.4$
 --- End Execution Time : 17/02/2024 17:17:50 ---
+--- Start Execution Time : 17/02/2024 18:20:00 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.42 $
+4 active positions (['BNB/USDT:USDT', 'FIL/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.42%, LONG exposition 38.44%, SHORT exposition 0%
+--- End Execution Time : 17/02/2024 18:20:35 ---
