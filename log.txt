@@ -8805,3 +8805,12 @@ USD balance : 85.15 $
 Place Close Long Market Order: 5.9 APE/USDT at the price of 1.57$ ~9.26$
 Current VaR rsik 1 period: - 0.43%, LONG exposition 39.24%, SHORT exposition 0%
 --- End Execution Time : 17/02/2024 15:17:21 ---
+--- Start Execution Time : 17/02/2024 16:20:44 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 85.32 $
+3 active positions (['BNB/USDT:USDT', 'FIL/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.31%, LONG exposition 28.52%, SHORT exposition 0%
+--- End Execution Time : 17/02/2024 16:21:22 ---
