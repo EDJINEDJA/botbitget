@@ -9169,3 +9169,14 @@ USD balance : 91.33 $
 Current VaR rsik 1 period: - 0.93%, LONG exposition 80.91%, SHORT exposition 0%
 Blocked open LONG on DOGE/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 19/02/2024 06:24:07 ---
+--- Start Execution Time : 19/02/2024 07:17:47 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.04 $
+8 active positions (['APE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 80.84%, SHORT exposition 0%
+Blocked open LONG on KSM/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on JASMY/USDT:USDT, because next VaR: - 0.93%
+--- End Execution Time : 19/02/2024 07:18:16 ---
