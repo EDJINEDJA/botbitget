@@ -9140,3 +9140,12 @@ Current VaR rsik 1 period: - 0.93%, LONG exposition 80.79%, SHORT exposition 0%
 Blocked open LONG on CRV/USDT:USDT, because next VaR: - 0.93%
 Blocked open LONG on JASMY/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 19/02/2024 03:19:04 ---
+--- Start Execution Time : 19/02/2024 04:20:51 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.87 $
+8 active positions (['APE/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 80.81%, SHORT exposition 0%
+--- End Execution Time : 19/02/2024 04:21:27 ---
