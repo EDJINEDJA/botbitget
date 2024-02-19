@@ -9320,3 +9320,13 @@ Current VaR rsik 1 period: - 0.91%, LONG exposition 82.5%, SHORT exposition 0%
 Blocked open LONG on DOT/USDT:USDT, because next VaR: - 0.91%
 Place Open Long Market Order: 920000.0 SHIB/USDT at the price of 9.921e-06$ ~9.13$
 --- End Execution Time : 19/02/2024 21:16:22 ---
+--- Start Execution Time : 19/02/2024 22:17:15 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.45 $
+9 active positions (['APE/USDT:USDT', 'DOGE/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MANA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT'])
+Current VaR rsik 1 period: - 1.0%, LONG exposition 92.48%, SHORT exposition 0%
+Blocked open LONG on APT/USDT:USDT, because next VaR: - 1.0%
+--- End Execution Time : 19/02/2024 22:17:51 ---
