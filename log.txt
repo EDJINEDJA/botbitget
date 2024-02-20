@@ -9503,3 +9503,16 @@ USD balance : 89.97 $
 Place Close Long Market Order: 17.0 MANA/USDT at the price of 0.4944$ ~8.4$
 Current VaR rsik 1 period: - 0.94%, LONG exposition 90.25%, SHORT exposition 0%
 --- End Execution Time : 20/02/2024 15:16:57 ---
+--- Start Execution Time : 20/02/2024 16:22:17 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.59 $
+8 active positions (['APE/USDT:USDT', 'BNB/USDT:USDT', 'DOGE/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 0.02 BNB/USDT at the price of 351.62$ ~7.03$
+Place Close Long Market Order: 103.0 DOGE/USDT at the price of 0.084571$ ~8.71$
+Place Close Long Market Order: 317.0 GALA/USDT at the price of 0.02688$ ~8.52$
+Place Close Long Market Order: 17.0 SAND/USDT at the price of 0.5033$ ~8.56$
+Current VaR rsik 1 period: - 0.52%, LONG exposition 44.23%, SHORT exposition 0%
+--- End Execution Time : 20/02/2024 16:22:54 ---
