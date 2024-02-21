@@ -9683,3 +9683,12 @@ Place Close Long Market Order: 8.0 MATIC/USDT at the price of 0.9528$ ~7.62$
 Current VaR rsik 1 period: - 0.55%, LONG exposition 51.51%, SHORT exposition 0%
 Place Open Short Market Order: 75.0 ROSE/USDT at the price of 0.11451$ ~8.59$
 --- End Execution Time : 21/02/2024 10:20:13 ---
+--- Start Execution Time : 21/02/2024 11:15:58 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 87.73 $
+5 active positions (['BNB/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.39%, LONG exposition 43.57%, SHORT exposition 9.84%
+--- End Execution Time : 21/02/2024 11:16:33 ---
