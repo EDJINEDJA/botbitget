@@ -9946,3 +9946,14 @@ USD balance : 90.73 $
 10 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT'])
 Current VaR rsik 1 period: - 0.63%, LONG exposition 74.62%, SHORT exposition 24.61%
 --- End Execution Time : 22/02/2024 15:18:40 ---
+--- Start Execution Time : 22/02/2024 16:22:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.47 $
+10 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.65%, LONG exposition 75.14%, SHORT exposition 24.18%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 20.3 WOO/USDT at the price of 0.45527$ ~9.24$
+--- End Execution Time : 22/02/2024 16:23:04 ---
