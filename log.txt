@@ -9887,3 +9887,14 @@ Current VaR rsik 1 period: - 0.45%, LONG exposition 45.44%, SHORT exposition 16.
 Place Open Long Market Order: 16.0 CRV/USDT at the price of 0.5565$ ~8.9$
 Place Open Long Market Order: 484.0 ONE/USDT at the price of 0.01907$ ~9.23$
 --- End Execution Time : 22/02/2024 09:18:57 ---
+--- Start Execution Time : 22/02/2024 10:18:10 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.74 $
+8 active positions (['BNB/USDT:USDT', 'CRV/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'ONE/USDT:USDT', 'ROSE/USDT:USDT'])
+Place Close Short Market Order: 75.0 ROSE/USDT at the price of 0.12129$ ~9.1$
+Current VaR rsik 1 period: - 0.69%, LONG exposition 64.8%, SHORT exposition 6.37%
+Place Open Long Market Order: 328.0 GALA/USDT at the price of 0.02789$ ~9.15$
+--- End Execution Time : 22/02/2024 10:18:50 ---
