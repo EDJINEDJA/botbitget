@@ -10215,3 +10215,13 @@ Current VaR rsik 1 period: - 0.71%, LONG exposition 81.67%, SHORT exposition 24.
 Place Open Long Market Order: 8.0 MATIC/USDT at the price of 0.9986$ ~7.99$
 Blocked open LONG on NEAR/USDT:USDT, because next VaR: - 0.71%
 --- End Execution Time : 23/02/2024 21:15:34 ---
+--- Start Execution Time : 23/02/2024 22:16:20 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 89.51 $
+12 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'MATIC/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Long Market Order: 747.0 JASMY/USDT at the price of 0.012972$ ~9.69$
+Current VaR rsik 1 period: - 0.79%, LONG exposition 90.54%, SHORT exposition 24.53%
+--- End Execution Time : 23/02/2024 22:16:50 ---
