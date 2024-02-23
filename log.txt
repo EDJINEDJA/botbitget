@@ -10158,3 +10158,12 @@ Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than mi
 Place Open Long Market Order: 15.0 CRV/USDT at the price of 0.5773$ ~8.66$
 Place Open Long Market Order: 2.0 DYDX/USDT at the price of 3.16$ ~6.32$
 --- End Execution Time : 23/02/2024 15:20:47 ---
+--- Start Execution Time : 23/02/2024 16:21:25 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 88.21 $
+11 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'JASMY/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.69%, LONG exposition 80.62%, SHORT exposition 24.18%
+--- End Execution Time : 23/02/2024 16:22:02 ---
