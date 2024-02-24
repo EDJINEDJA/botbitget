@@ -10324,3 +10324,17 @@ USD balance : 90.48 $
 15 active positions (['AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
 Current VaR rsik 1 period: - 0.67%, LONG exposition 97.48%, SHORT exposition 44.02%
 --- End Execution Time : 24/02/2024 09:15:58 ---
+--- Start Execution Time : 24/02/2024 11:13:31 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.54 $
+15 active positions (['AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GMT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 0.1 EGLD/USDT at the price of 57.69$ ~5.77$
+Place Close Short Market Order: 22.0 FTM/USDT at the price of 0.4108$ ~9.04$
+Place Close Short Market Order: 930000.0 SHIB/USDT at the price of 9.589e-06$ ~8.92$
+Current VaR rsik 1 period: - 0.83%, LONG exposition 97.72%, SHORT exposition 27.89%
+Blocked open LONG on AXS/USDT:USDT, because next VaR: - 0.83%
+Blocked open LONG on MANA/USDT:USDT, because next VaR: - 0.83%
+--- End Execution Time : 24/02/2024 11:14:01 ---
