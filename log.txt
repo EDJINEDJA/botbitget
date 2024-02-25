@@ -10457,3 +10457,12 @@ USD balance : 91.36 $
 Current VaR rsik 1 period: - 1.01%, LONG exposition 97.92%, SHORT exposition 8.05%
 Blocked open LONG on ETH/USDT:USDT, because next VaR: - 1.01%
 --- End Execution Time : 24/02/2024 23:19:15 ---
+--- Start Execution Time : 25/02/2024 01:18:15 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.62 $
+11 active positions (['AVAX/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FIL/USDT:USDT', 'GALA/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 1.01%, LONG exposition 97.95%, SHORT exposition 8.03%
+--- End Execution Time : 25/02/2024 01:18:51 ---
