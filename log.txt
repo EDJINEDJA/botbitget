@@ -10835,3 +10835,16 @@ USD balance : 92.83 $
 Current VaR rsik 1 period: - 0.93%, LONG exposition 88.55%, SHORT exposition 9.93%
 Blocked open LONG on AAVE/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 26/02/2024 14:18:11 ---
+--- Start Execution Time : 26/02/2024 15:18:37 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.78 $
+10 active positions (['BNB/USDT:USDT', 'DYDX/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'ONE/USDT:USDT', 'SAND/USDT:USDT', 'SHIB/USDT:USDT', 'WOO/USDT:USDT'])
+Place Close Short Market Order: 960000.0 SHIB/USDT at the price of 9.722e-06$ ~9.33$
+Current VaR rsik 1 period: - 0.94%, LONG exposition 88.79%, SHORT exposition 9.95%
+Blocked open LONG on APT/USDT:USDT, because next VaR: - 0.94%
+Blocked open LONG on FTM/USDT:USDT, because next VaR: - 0.94%
+Blocked open LONG on GMT/USDT:USDT, because next VaR: - 0.94%
+--- End Execution Time : 26/02/2024 15:19:15 ---
