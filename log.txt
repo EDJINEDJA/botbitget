@@ -11356,3 +11356,14 @@ USD balance : 90.63 $
 Place Close Long Market Order: 17.0 SAND/USDT at the price of 0.5335$ ~9.07$
 Current VaR rsik 1 period: - 0.27%, LONG exposition 22.36%, SHORT exposition 0%
 --- End Execution Time : 28/02/2024 20:19:10 ---
+--- Start Execution Time : 28/02/2024 21:15:30 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.76 $
+2 active positions (['BNB/USDT:USDT', 'GALA/USDT:USDT'])
+Current VaR rsik 1 period: - 0.27%, LONG exposition 22.47%, SHORT exposition 0%
+Place Open Long Market Order: 1.0 AXS/USDT at the price of 8.9696$ ~8.97$
+Place Open Long Market Order: 30.8 GRT/USDT at the price of 0.29442$ ~9.07$
+--- End Execution Time : 28/02/2024 21:16:08 ---
