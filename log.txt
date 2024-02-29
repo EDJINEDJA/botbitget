@@ -11511,3 +11511,13 @@ USD balance : 92.87 $
 Current VaR rsik 1 period: - 0.93%, LONG exposition 86.39%, SHORT exposition 0%
 Blocked open LONG on FIL/USDT:USDT, because next VaR: - 0.93%
 --- End Execution Time : 29/02/2024 12:32:09 ---
+--- Start Execution Time : 29/02/2024 13:18:17 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.82 $
+9 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'KSM/USDT:USDT', 'SAND/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 86.53%, SHORT exposition 0%
+Blocked open LONG on ONE/USDT:USDT, because next VaR: - 0.93%
+--- End Execution Time : 29/02/2024 13:18:57 ---
