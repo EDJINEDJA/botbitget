@@ -11470,3 +11470,15 @@ Place Open Long Market Order: 0.1 KSM/USDT at the price of 52.52$ ~5.25$
 Blocked open LONG on ONE/USDT:USDT, because next VaR: - 0.87%
 Blocked open LONG on ROSE/USDT:USDT, because next VaR: - 0.87%
 --- End Execution Time : 29/02/2024 08:21:20 ---
+--- Start Execution Time : 29/02/2024 09:18:03 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.93 $
+9 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'CRV/USDT:USDT', 'DOT/USDT:USDT', 'GALA/USDT:USDT', 'KSM/USDT:USDT', 'SAND/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 0.93%, LONG exposition 86.55%, SHORT exposition 0%
+Blocked open LONG on APE/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on NEAR/USDT:USDT, because next VaR: - 0.93%
+Blocked open LONG on EGLD/USDT:USDT, because next VaR: - 0.93%
+--- End Execution Time : 29/02/2024 09:18:32 ---
