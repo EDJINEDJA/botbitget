@@ -11714,3 +11714,12 @@ Blocked open LONG on ETH/USDT:USDT, because next VaR: - 0.96%
 Blocked open LONG on SHIB/USDT:USDT, because next VaR: - 0.96%
 Blocked open LONG on WOO/USDT:USDT, because next VaR: - 0.96%
 --- End Execution Time : 01/03/2024 09:20:01 ---
+--- Start Execution Time : 01/03/2024 10:18:40 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.08 $
+8 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.97%, LONG exposition 83.69%, SHORT exposition 0%
+--- End Execution Time : 01/03/2024 10:19:13 ---
