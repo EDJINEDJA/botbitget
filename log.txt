@@ -11773,3 +11773,13 @@ USD balance : 93.1 $
 Current VaR rsik 1 period: - 0.97%, LONG exposition 83.87%, SHORT exposition 0%
 Blocked open LONG on APE/USDT:USDT, because next VaR: - 0.97%
 --- End Execution Time : 01/03/2024 15:19:32 ---
+--- Start Execution Time : 01/03/2024 16:21:24 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.34 $
+8 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 1.0 FIL/USDT at the price of 8.01$ ~8.01$
+Current VaR rsik 1 period: - 0.96%, LONG exposition 83.77%, SHORT exposition 0%
+--- End Execution Time : 01/03/2024 16:22:01 ---
