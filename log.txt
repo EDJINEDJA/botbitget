@@ -12199,3 +12199,12 @@ Blocked open LONG on DYDX/USDT:USDT, because next VaR: - 0.92%
 Place Open Long Market Order: 0.02 BNB/USDT at the price of 413.37$ ~8.27$
 Blocked open LONG on NEAR/USDT:USDT, because next VaR: - 0.92%
 --- End Execution Time : 03/03/2024 12:30:05 ---
+--- Start Execution Time : 03/03/2024 13:17:36 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 95.11 $
+8 active positions (['AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.96%, LONG exposition 85.85%, SHORT exposition 0%
+--- End Execution Time : 03/03/2024 13:18:12 ---
