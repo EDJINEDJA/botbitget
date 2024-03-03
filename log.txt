@@ -12152,3 +12152,14 @@ Place Close Long Market Order: 0.2 AVAX/USDT at the price of 41.686$ ~8.34$
 Place Close Long Market Order: 23.6 C98/USDT at the price of 0.3892$ ~9.19$
 Current VaR rsik 1 period: - 0.72%, LONG exposition 57.87%, SHORT exposition 0%
 --- End Execution Time : 03/03/2024 08:23:05 ---
+--- Start Execution Time : 03/03/2024 09:17:09 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 94.25 $
+5 active positions (['AXS/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.74%, LONG exposition 58.11%, SHORT exposition 0%
+Place Open Long Market Order: 1.0 DOT/USDT at the price of 9.125$ ~9.12$
+Place Open Long Market Order: 8.0 MATIC/USDT at the price of 1.0787$ ~8.63$
+--- End Execution Time : 03/03/2024 09:17:38 ---
