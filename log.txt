@@ -12111,3 +12111,13 @@ Current VaR rsik 1 period: - 1.02%, LONG exposition 86.8%, SHORT exposition 0%
 Blocked open LONG on DOGE/USDT:USDT, because next VaR: - 1.02%
 Blocked open LONG on ETC/USDT:USDT, because next VaR: - 1.02%
 --- End Execution Time : 03/03/2024 04:22:07 ---
+--- Start Execution Time : 03/03/2024 05:17:35 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 99.29 $
+8 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'AXS/USDT:USDT', 'C98/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'GRT/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 1.02%, LONG exposition 86.76%, SHORT exposition 0%
+Blocked open LONG on WOO/USDT:USDT, because next VaR: - 1.02%
+--- End Execution Time : 03/03/2024 05:18:05 ---
