@@ -12436,3 +12436,14 @@ USD balance : 99.29 $
 8 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
 Current VaR rsik 1 period: - 0.97%, LONG exposition 85.66%, SHORT exposition 0%
 --- End Execution Time : 04/03/2024 17:19:31 ---
+--- Start Execution Time : 04/03/2024 18:20:30 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 97.46 $
+8 active positions (['AVAX/USDT:USDT', 'AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Place Close Long Market Order: 0.2 AVAX/USDT at the price of 42.003$ ~8.4$
+Place Close Long Market Order: 16.0 SAND/USDT at the price of 0.6655$ ~10.65$
+Current VaR rsik 1 period: - 0.87%, LONG exposition 76.77%, SHORT exposition 0%
+--- End Execution Time : 04/03/2024 18:21:07 ---
