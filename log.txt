@@ -12406,3 +12406,15 @@ USD balance : 99.53 $
 Place Close Long Market Order: 31.2 GRT/USDT at the price of 0.3107$ ~9.69$
 Current VaR rsik 1 period: - 0.96%, LONG exposition 86.62%, SHORT exposition 0%
 --- End Execution Time : 04/03/2024 14:16:59 ---
+--- Start Execution Time : 04/03/2024 15:19:27 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 99.94 $
+7 active positions (['AXS/USDT:USDT', 'BNB/USDT:USDT', 'DOT/USDT:USDT', 'FTM/USDT:USDT', 'GALA/USDT:USDT', 'MATIC/USDT:USDT', 'SAND/USDT:USDT'])
+Current VaR rsik 1 period: - 0.87%, LONG exposition 77.0%, SHORT exposition 0%
+Place Open Long Market Order: 0.2 AVAX/USDT at the price of 43.461$ ~8.69$
+Blocked open LONG on FIL/USDT:USDT, because next VaR: - 0.87%
+Blocked open LONG on WAVES/USDT:USDT, because next VaR: - 0.87%
+--- End Execution Time : 04/03/2024 15:20:03 ---
