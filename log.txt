@@ -12674,3 +12674,14 @@ Place Close Long Market Order: 8.0 MATIC/USDT at the price of 1.0747$ ~8.6$
 Current VaR rsik 1 period: - 0.85%, LONG exposition 79.14%, SHORT exposition 0%
 Place Open Long Market Order: 300000.0 SHIB/USDT at the price of 3.1204e-05$ ~9.36$
 --- End Execution Time : 05/03/2024 17:19:08 ---
+--- Start Execution Time : 05/03/2024 18:21:24 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 96.19 $
+6 active positions (['AXS/USDT:USDT', 'DOT/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'MANA/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 0.9 FIL/USDT at the price of 9.419$ ~8.48$
+Current VaR rsik 1 period: - 0.77%, LONG exposition 63.2%, SHORT exposition 0%
+Place Open Long Market Order: 2.0 DYDX/USDT at the price of 3.847$ ~7.69$
+--- End Execution Time : 05/03/2024 18:22:02 ---
