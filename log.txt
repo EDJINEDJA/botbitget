@@ -12685,3 +12685,13 @@ Place Close Long Market Order: 0.9 FIL/USDT at the price of 9.419$ ~8.48$
 Current VaR rsik 1 period: - 0.77%, LONG exposition 63.2%, SHORT exposition 0%
 Place Open Long Market Order: 2.0 DYDX/USDT at the price of 3.847$ ~7.69$
 --- End Execution Time : 05/03/2024 18:22:02 ---
+--- Start Execution Time : 05/03/2024 19:13:27 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 94.74 $
+6 active positions (['AXS/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'MANA/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 14.0 MANA/USDT at the price of 0.6558$ ~9.18$
+Current VaR rsik 1 period: - 0.66%, LONG exposition 52.11%, SHORT exposition 0%
+--- End Execution Time : 05/03/2024 19:14:01 ---
