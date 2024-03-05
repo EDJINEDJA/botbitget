@@ -12695,3 +12695,23 @@ USD balance : 94.74 $
 Place Close Long Market Order: 14.0 MANA/USDT at the price of 0.6558$ ~9.18$
 Current VaR rsik 1 period: - 0.66%, LONG exposition 52.11%, SHORT exposition 0%
 --- End Execution Time : 05/03/2024 19:14:01 ---
+--- Start Execution Time : 05/03/2024 20:18:39 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.89 $
+5 active positions (['AXS/USDT:USDT', 'DOT/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Long Market Order: 1.0 AXS/USDT at the price of 9.366$ ~9.37$
+Place Close Long Market Order: 1.0 DOT/USDT at the price of 8.919$ ~8.92$
+Place Close Long Market Order: 2.0 DYDX/USDT at the price of 3.443$ ~6.89$
+Place Close Long Market Order: 19.0 FTM/USDT at the price of 0.5977$ ~11.36$
+Current VaR rsik 1 period: - 0.38%, LONG exposition 22.25%, SHORT exposition 0%
+Place Open Short Market Order: 2.0 DYDX/USDT at the price of 3.443$ ~6.89$
+Place Open Short Market Order: 32.0 GMT/USDT at the price of 0.2811$ ~9.0$
+Place Open Short Market Order: 0.1 KSM/USDT at the price of 47.75$ ~4.78$
+Error on KSM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1709669957450,"data":null}), skip KSM/USDT:USDT
+Place Open Short Market Order: 9.0 MATIC/USDT at the price of 0.9927$ ~8.93$
+Place Open Short Market Order: 18.3 WOO/USDT at the price of 0.49467$ ~9.05$
+Place Open Short Market Order: 0.1 EGLD/USDT at the price of 59.22$ ~5.92$
+--- End Execution Time : 05/03/2024 20:19:18 ---
