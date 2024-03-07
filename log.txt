@@ -12977,3 +12977,15 @@ Place Open Long Market Order: 8.0 MATIC/USDT at the price of 1.1286$ ~9.03$
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 Blocked open LONG on WOO/USDT:USDT, because next VaR: - 0.77%
 --- End Execution Time : 07/03/2024 01:01:44 ---
+--- Start Execution Time : 07/03/2024 02:17:34 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.74 $
+8 active positions (['BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'GMT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT', 'SHIB/USDT:USDT'])
+Place Close Short Market Order: 32.0 GMT/USDT at the price of 0.3153$ ~10.09$
+Current VaR rsik 1 period: - 0.88%, LONG exposition 71.93%, SHORT exposition 10.99%
+Blocked open LONG on C98/USDT:USDT, because next VaR: - 0.88%
+Blocked open LONG on ROSE/USDT:USDT, because next VaR: - 0.88%
+--- End Execution Time : 07/03/2024 02:18:04 ---
