@@ -13039,3 +13039,15 @@ USD balance : 90.16 $
 Current VaR rsik 1 period: - 0.84%, LONG exposition 61.38%, SHORT exposition 0%
 Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
 --- End Execution Time : 07/03/2024 07:14:23 ---
+--- Start Execution Time : 07/03/2024 09:15:16 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.02 $
+6 active positions (['BNB/USDT:USDT', 'CRV/USDT:USDT', 'DYDX/USDT:USDT', 'FTM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.84%, LONG exposition 61.77%, SHORT exposition 0%
+Place Open Long Market Order: 0.673 APT/USDT at the price of 13.511$ ~9.09$
+Blocked open LONG on MANA/USDT:USDT, because next VaR: - 0.84%
+Blocked open LONG on ONE/USDT:USDT, because next VaR: - 0.84%
+--- End Execution Time : 07/03/2024 09:15:53 ---
