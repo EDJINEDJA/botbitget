@@ -13785,3 +13785,13 @@ USD balance : 92.2 $
 Place Close Long Market Order: 21.9 C98/USDT at the price of 0.4154$ ~9.1$
 Current VaR rsik 1 period: - 0.71%, LONG exposition 53.86%, SHORT exposition 0%
 --- End Execution Time : 10/03/2024 15:16:08 ---
+--- Start Execution Time : 10/03/2024 16:20:45 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.25 $
+4 active positions (['BNB/USDT:USDT', 'FIL/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Place Close Long Market Order: 0.8 FIL/USDT at the price of 10.6$ ~8.48$
+Current VaR rsik 1 period: - 0.58%, LONG exposition 44.06%, SHORT exposition 0%
+--- End Execution Time : 10/03/2024 16:21:15 ---
