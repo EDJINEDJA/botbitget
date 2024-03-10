@@ -13686,3 +13686,12 @@ USD balance : 92.44 $
 Place Close Long Market Order: 2.0 DYDX/USDT at the price of 4.156$ ~8.31$
 Current VaR rsik 1 period: - 0.87%, LONG exposition 64.83%, SHORT exposition 0%
 --- End Execution Time : 10/03/2024 05:18:05 ---
+--- Start Execution Time : 10/03/2024 06:20:56 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 92.66 $
+6 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.87%, LONG exposition 64.92%, SHORT exposition 0%
+--- End Execution Time : 10/03/2024 06:21:26 ---
