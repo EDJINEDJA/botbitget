@@ -13727,3 +13727,13 @@ USD balance : 93.24 $
 Current VaR rsik 1 period: - 0.87%, LONG exposition 65.19%, SHORT exposition 0%
 Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
 --- End Execution Time : 10/03/2024 09:19:16 ---
+--- Start Execution Time : 10/03/2024 10:17:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.53 $
+6 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'FIL/USDT:USDT', 'FTM/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.87%, LONG exposition 65.29%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+--- End Execution Time : 10/03/2024 10:17:47 ---
