@@ -14031,3 +14031,13 @@ USD balance : 93.18 $
 Current VaR rsik 1 period: - 0.89%, LONG exposition 65.45%, SHORT exposition 0%
 Blocked open LONG on ONE/USDT:USDT, because next VaR: - 0.89%
 --- End Execution Time : 11/03/2024 16:22:26 ---
+--- Start Execution Time : 11/03/2024 17:16:31 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.72 $
+6 active positions (['BNB/USDT:USDT', 'C98/USDT:USDT', 'CRV/USDT:USDT', 'GMT/USDT:USDT', 'MATIC/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.89%, LONG exposition 65.65%, SHORT exposition 0%
+Blocked open LONG on AAVE/USDT:USDT, because next VaR: - 0.89%
+--- End Execution Time : 11/03/2024 17:17:01 ---
