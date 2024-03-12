@@ -14263,3 +14263,13 @@ USD balance : 94.03 $
 Current VaR rsik 1 period: - 0.65%, LONG exposition 46.31%, SHORT exposition 0%
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 12/03/2024 16:23:11 ---
+--- Start Execution Time : 12/03/2024 17:16:29 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.21 $
+4 active positions (['BNB/USDT:USDT', 'CRV/USDT:USDT', 'GMT/USDT:USDT', 'NEAR/USDT:USDT'])
+Place Close Long Market Order: 11.0 CRV/USDT at the price of 0.7835$ ~8.62$
+Current VaR rsik 1 period: - 0.53%, LONG exposition 36.57%, SHORT exposition 0%
+--- End Execution Time : 12/03/2024 17:17:06 ---
