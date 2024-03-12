@@ -14197,3 +14197,13 @@ Place Close Long Market Order: 21.4 C98/USDT at the price of 0.4278$ ~9.15$
 Place Close Long Market Order: 8.0 MATIC/USDT at the price of 1.1829$ ~9.46$
 Current VaR rsik 1 period: - 0.64%, LONG exposition 45.89%, SHORT exposition 0%
 --- End Execution Time : 12/03/2024 09:22:55 ---
+--- Start Execution Time : 12/03/2024 10:18:21 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 93.37 $
+4 active positions (['BNB/USDT:USDT', 'CRV/USDT:USDT', 'GMT/USDT:USDT', 'NEAR/USDT:USDT'])
+Current VaR rsik 1 period: - 0.64%, LONG exposition 45.91%, SHORT exposition 0%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+--- End Execution Time : 12/03/2024 10:18:51 ---
