@@ -14861,3 +14861,18 @@ USD balance : 92.87 $
 4 active positions (['AVAX/USDT:USDT', 'BNB/USDT:USDT', 'JASMY/USDT:USDT', 'NEAR/USDT:USDT'])
 Current VaR rsik 1 period: - 0.57%, LONG exposition 34.87%, SHORT exposition 9.91%
 --- End Execution Time : 15/03/2024 08:22:19 ---
+--- Start Execution Time : 15/03/2024 09:16:51 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 91.77 $
+4 active positions (['AVAX/USDT:USDT', 'BNB/USDT:USDT', 'JASMY/USDT:USDT', 'NEAR/USDT:USDT'])
+Place Close Long Market Order: 0.1 AVAX/USDT at the price of 49.473$ ~4.95$
+Place Close Long Market Order: 0.02 BNB/USDT at the price of 555.18$ ~11.1$
+Place Close Long Market Order: 2.0 NEAR/USDT at the price of 7.3435$ ~14.69$
+Current VaR rsik 1 period: - 0.38%, LONG exposition 0%, SHORT exposition 9.46%
+Place Open Short Market Order: 0.1 KSM/USDT at the price of 49.98$ ~5.0$
+Error on KSM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1710494240781,"data":null}), skip KSM/USDT:USDT
+Place Open Short Market Order: 61.0 ROSE/USDT at the price of 0.14998$ ~9.15$
+--- End Execution Time : 15/03/2024 09:17:21 ---
