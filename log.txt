@@ -14997,3 +14997,12 @@ USD balance : 90.29 $
 Current VaR rsik 1 period: - 0.46%, LONG exposition 12.74%, SHORT exposition 20.9%
 Place Open Long Market Order: 0.622 APT/USDT at the price of 14.498$ ~9.02$
 --- End Execution Time : 15/03/2024 22:18:00 ---
+--- Start Execution Time : 15/03/2024 23:18:08 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.81 $
+5 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.46%, LONG exposition 23.33%, SHORT exposition 20.95%
+--- End Execution Time : 15/03/2024 23:18:43 ---
