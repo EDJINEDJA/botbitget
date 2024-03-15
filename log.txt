@@ -14876,3 +14876,13 @@ Place Open Short Market Order: 0.1 KSM/USDT at the price of 49.98$ ~5.0$
 Error on KSM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1710494240781,"data":null}), skip KSM/USDT:USDT
 Place Open Short Market Order: 61.0 ROSE/USDT at the price of 0.14998$ ~9.15$
 --- End Execution Time : 15/03/2024 09:17:21 ---
+--- Start Execution Time : 15/03/2024 10:18:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.95 $
+2 active positions (['JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.51%, LONG exposition 0%, SHORT exposition 20.33%
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
+--- End Execution Time : 15/03/2024 10:18:40 ---
