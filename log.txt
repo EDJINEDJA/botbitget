@@ -14949,3 +14949,13 @@ USD balance : 90.88 $
 2 active positions (['JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
 Current VaR rsik 1 period: - 0.52%, LONG exposition 0%, SHORT exposition 20.42%
 --- End Execution Time : 15/03/2024 17:17:05 ---
+--- Start Execution Time : 15/03/2024 18:22:40 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.61 $
+2 active positions (['JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.53%, LONG exposition 0%, SHORT exposition 20.79%
+Place Open Long Market Order: 0.1 AVAX/USDT at the price of 56.58$ ~5.66$
+--- End Execution Time : 15/03/2024 18:23:15 ---
