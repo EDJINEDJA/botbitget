@@ -15070,3 +15070,13 @@ USD balance : 90.95 $
 6 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
 Current VaR rsik 1 period: - 0.54%, LONG exposition 23.8%, SHORT exposition 31.23%
 --- End Execution Time : 16/03/2024 07:16:12 ---
+--- Start Execution Time : 16/03/2024 08:19:58 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.52 $
+6 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 23.86%, SHORT exposition 31.81%
+Place Open Long Market Order: 123.0 GALA/USDT at the price of 0.07325$ ~9.01$
+--- End Execution Time : 16/03/2024 08:20:26 ---
