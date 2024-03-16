@@ -15052,3 +15052,12 @@ USD balance : 90.91 $
 Current VaR rsik 1 period: - 0.45%, LONG exposition 23.16%, SHORT exposition 20.66%
 Place Open Short Market Order: 23.2 C98/USDT at the price of 0.3916$ ~9.09$
 --- End Execution Time : 16/03/2024 05:18:56 ---
+--- Start Execution Time : 16/03/2024 06:20:47 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 90.83 $
+6 active positions (['APT/USDT:USDT', 'AVAX/USDT:USDT', 'BNB/USDT:USDT', 'C98/USDT:USDT', 'JASMY/USDT:USDT', 'ROSE/USDT:USDT'])
+Current VaR rsik 1 period: - 0.54%, LONG exposition 23.48%, SHORT exposition 31.05%
+--- End Execution Time : 16/03/2024 06:21:23 ---
