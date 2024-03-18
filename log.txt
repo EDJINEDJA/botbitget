@@ -15545,3 +15545,19 @@ USD balance : 4.88 $
 Current VaR rsik 1 period: - 17.24%, LONG exposition 0%, SHORT exposition 983.13%
 Blocked open SHORT on GMT/USDT:USDT, because next VaR: - 17.24%
 --- End Execution Time : 18/03/2024 09:18:35 ---
+--- Start Execution Time : 18/03/2024 10:19:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 5.08 $
+6 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 16.5%, LONG exposition 0%, SHORT exposition 941.25%
+Blocked open SHORT on AXS/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on DOGE/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on ETH/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on MATIC/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on ONE/USDT:USDT, because next VaR: - 16.5%
+Blocked open SHORT on SAND/USDT:USDT, because next VaR: - 16.5%
+--- End Execution Time : 18/03/2024 10:19:54 ---
