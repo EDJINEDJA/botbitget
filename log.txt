@@ -15516,3 +15516,12 @@ USD balance : 3.53 $
 Current VaR rsik 1 period: - 24.56%, LONG exposition 0%, SHORT exposition 1400.38%
 Blocked open LONG on APT/USDT:USDT, because next VaR: - 24.56%
 --- End Execution Time : 18/03/2024 06:23:42 ---
+--- Start Execution Time : 18/03/2024 07:17:04 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 3.81 $
+6 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 22.57%, LONG exposition 0%, SHORT exposition 1286.62%
+--- End Execution Time : 18/03/2024 07:17:32 ---
