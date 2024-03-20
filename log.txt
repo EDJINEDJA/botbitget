@@ -16101,3 +16101,12 @@ Blocked open SHORT on CRV/USDT:USDT, because next VaR: - 8.17%
 Blocked open SHORT on MANA/USDT:USDT, because next VaR: - 8.17%
 Blocked open SHORT on ONE/USDT:USDT, because next VaR: - 8.17%
 --- End Execution Time : 20/03/2024 17:15:33 ---
+--- Start Execution Time : 20/03/2024 18:21:34 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 9.26 $
+6 active positions (['APE/USDT:USDT', 'C98/USDT:USDT', 'DYDX/USDT:USDT', 'EGLD/USDT:USDT', 'ROSE/USDT:USDT', 'WOO/USDT:USDT'])
+Current VaR rsik 1 period: - 8.66%, LONG exposition 0%, SHORT exposition 471.72%
+--- End Execution Time : 20/03/2024 18:22:09 ---
