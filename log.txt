@@ -16152,3 +16152,12 @@ USD balance : 6.74 $
 Place Close Short Market Order: 2.0 DYDX/USDT at the price of 3.392$ ~6.78$
 Current VaR rsik 1 period: - 6.91%, LONG exposition 0%, SHORT exposition 346.58%
 --- End Execution Time : 20/03/2024 22:16:26 ---
+--- Start Execution Time : 20/03/2024 23:19:01 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.84 $
+2 active positions (['APE/USDT:USDT', 'C98/USDT:USDT'])
+Current VaR rsik 1 period: - 5.03%, LONG exposition 0%, SHORT exposition 240.66%
+--- End Execution Time : 20/03/2024 23:19:37 ---
