@@ -16198,3 +16198,12 @@ USD balance : 6.88 $
 1 active positions (['APE/USDT:USDT'])
 Current VaR rsik 1 period: - 2.62%, LONG exposition 0%, SHORT exposition 117.09%
 --- End Execution Time : 21/03/2024 04:22:12 ---
+--- Start Execution Time : 21/03/2024 05:16:52 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 7.01 $
+1 active positions (['APE/USDT:USDT'])
+Current VaR rsik 1 period: - 2.53%, LONG exposition 0%, SHORT exposition 112.93%
+--- End Execution Time : 21/03/2024 05:17:29 ---
