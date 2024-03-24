@@ -17007,3 +17007,12 @@ Place Open Long Market Order: 10.0 GALA/USDT at the price of 0.0627$ ~0.63$
 Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711314950163,"data":null}), skip GALA/USDT:USDT
 Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
 --- End Execution Time : 24/03/2024 21:15:50 ---
+--- Start Execution Time : 24/03/2024 22:17:38 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 24/03/2024 22:18:05 ---
