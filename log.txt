@@ -17047,3 +17047,15 @@ USD balance : 6.82 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
 --- End Execution Time : 25/03/2024 02:26:19 ---
+--- Start Execution Time : 25/03/2024 03:20:39 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.041 APT/USDT at the price of 16.506$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711336867800,"data":null}), skip APT/USDT:USDT
+Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than minimum amount precision of 0.6), skip WAVES/USDT:USDT
+--- End Execution Time : 25/03/2024 03:21:07 ---
