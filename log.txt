@@ -17420,3 +17420,13 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 26/03/2024 17:15:58 ---
+--- Start Execution Time : 26/03/2024 18:22:15 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on SAND/USDT:USDT (bitget amount of SAND/USDT:USDT must be greater than minimum amount precision of 1), skip SAND/USDT:USDT
+--- End Execution Time : 26/03/2024 18:22:51 ---
