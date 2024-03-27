@@ -17569,3 +17569,16 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 27/03/2024 09:18:59 ---
+--- Start Execution Time : 27/03/2024 10:19:04 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 3.0 DOGE/USDT at the price of 0.182887$ ~0.55$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711534779453,"data":null}), skip DOGE/USDT:USDT
+Place Open Long Market Order: 20000.0 SHIB/USDT at the price of 3.016e-05$ ~0.6$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711534779671,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 27/03/2024 10:19:39 ---
