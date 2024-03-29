@@ -17945,3 +17945,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 1.6 GRT/USDT at the price of 0.41657$ ~0.67$
 Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711674906008,"data":null}), skip GRT/USDT:USDT
 --- End Execution Time : 29/03/2024 01:15:06 ---
+--- Start Execution Time : 29/03/2024 02:22:32 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 29/03/2024 02:23:00 ---
