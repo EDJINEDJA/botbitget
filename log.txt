@@ -17973,3 +17973,13 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 29/03/2024 04:22:08 ---
+--- Start Execution Time : 29/03/2024 05:17:16 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+--- End Execution Time : 29/03/2024 05:17:51 ---
