@@ -18271,3 +18271,14 @@ Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than 
 Place Open Short Market Order: 22.0 ONE/USDT at the price of 0.0309$ ~0.68$
 Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711783037518,"data":null}), skip ONE/USDT:USDT
 --- End Execution Time : 30/03/2024 07:17:17 ---
+--- Start Execution Time : 30/03/2024 08:21:36 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on CRV/USDT:USDT (bitget amount of CRV/USDT:USDT must be greater than minimum amount precision of 1), skip CRV/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+--- End Execution Time : 30/03/2024 08:22:04 ---
