@@ -18343,3 +18343,15 @@ Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 9.0 GALA/USDT at the price of 0.06867$ ~0.62$
 Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711808116623,"data":null}), skip GALA/USDT:USDT
 --- End Execution Time : 30/03/2024 14:15:16 ---
+--- Start Execution Time : 30/03/2024 15:17:59 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on CRV/USDT:USDT (bitget amount of CRV/USDT:USDT must be greater than minimum amount precision of 1), skip CRV/USDT:USDT
+Place Open Short Market Order: 1.7 GRT/USDT at the price of 0.39436$ ~0.67$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711811914426,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 30/03/2024 15:18:34 ---
