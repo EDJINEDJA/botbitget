@@ -18425,3 +18425,16 @@ Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than mini
 Place Open Short Market Order: 1.0 MANA/USDT at the price of 0.6636$ ~0.66$
 Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711833298656,"data":null}), skip MANA/USDT:USDT
 --- End Execution Time : 30/03/2024 21:14:58 ---
+--- Start Execution Time : 30/03/2024 22:17:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on CRV/USDT:USDT (bitget amount of CRV/USDT:USDT must be greater than minimum amount precision of 1), skip CRV/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
+--- End Execution Time : 30/03/2024 22:17:37 ---
