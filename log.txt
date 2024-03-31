@@ -18651,3 +18651,15 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 3.0 DOGE/USDT at the price of 0.219413$ ~0.66$
 Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711912479575,"data":null}), skip DOGE/USDT:USDT
 --- End Execution Time : 31/03/2024 19:14:39 ---
+--- Start Execution Time : 31/03/2024 20:19:07 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on FIL/USDT:USDT (bitget amount of FIL/USDT:USDT must be greater than minimum amount precision of 0.1), skip FIL/USDT:USDT
+Place Open Long Market Order: 9.0 GALA/USDT at the price of 0.06827$ ~0.61$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711916380068,"data":null}), skip GALA/USDT:USDT
+--- End Execution Time : 31/03/2024 20:19:40 ---
