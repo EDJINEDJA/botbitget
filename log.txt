@@ -18631,3 +18631,12 @@ Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 30.0 JASMY/USDT at the price of 0.022177$ ~0.67$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711905359509,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 31/03/2024 17:15:59 ---
+--- Start Execution Time : 31/03/2024 18:20:24 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 31/03/2024 18:20:58 ---
