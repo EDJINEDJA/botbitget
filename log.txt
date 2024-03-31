@@ -18447,3 +18447,14 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 30/03/2024 23:16:53 ---
+--- Start Execution Time : 31/03/2024 01:21:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 10.0 GALA/USDT at the price of 0.06817$ ~0.68$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1711848100288,"data":null}), skip GALA/USDT:USDT
+--- End Execution Time : 31/03/2024 01:21:40 ---
