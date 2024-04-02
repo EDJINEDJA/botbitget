@@ -19123,3 +19123,12 @@ Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum am
 Place Open Short Market Order: 5.0 ROSE/USDT at the price of 0.11949$ ~0.6$
 Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712074982703,"data":null}), skip ROSE/USDT:USDT
 --- End Execution Time : 02/04/2024 16:23:02 ---
+--- Start Execution Time : 02/04/2024 17:18:13 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 02/04/2024 17:18:45 ---
