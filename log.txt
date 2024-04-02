@@ -18976,3 +18976,21 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 02/04/2024 02:27:19 ---
+--- Start Execution Time : 02/04/2024 03:20:25 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Error on KSM/USDT:USDT (bitget amount of KSM/USDT:USDT must be greater than minimum amount precision of 0.1), skip KSM/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+Place Open Short Market Order: 35.0 JASMY/USDT at the price of 0.01936$ ~0.68$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712028059738,"data":null}), skip JASMY/USDT:USDT
+Place Open Short Market Order: 5.0 ROSE/USDT at the price of 0.12399$ ~0.62$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712028059948,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 02/04/2024 03:21:00 ---
