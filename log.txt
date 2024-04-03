@@ -19351,3 +19351,17 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 03/04/2024 17:16:36 ---
+--- Start Execution Time : 03/04/2024 18:21:52 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 1.8 C98/USDT at the price of 0.3626$ ~0.65$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712168548585,"data":null}), skip C98/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 24.0 ONE/USDT at the price of 0.02791$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712168548791,"data":null}), skip ONE/USDT:USDT
+--- End Execution Time : 03/04/2024 18:22:28 ---
