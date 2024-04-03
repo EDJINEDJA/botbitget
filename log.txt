@@ -19288,3 +19288,14 @@ Place Open Short Market Order: 20000.0 SHIB/USDT at the price of 2.6839e-05$ ~0.
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712142913006,"data":null}), skip SHIB/USDT:USDT
 Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than minimum amount precision of 0.6), skip WAVES/USDT:USDT
 --- End Execution Time : 03/04/2024 11:15:13 ---
+--- Start Execution Time : 03/04/2024 12:32:04 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 1.5 WOO/USDT at the price of 0.42997$ ~0.64$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712147552704,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 03/04/2024 12:32:32 ---
