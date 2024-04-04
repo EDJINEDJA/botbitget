@@ -19422,3 +19422,19 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 04/04/2024 01:16:18 ---
+--- Start Execution Time : 04/04/2024 02:26:03 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 2.0 GRT/USDT at the price of 0.33048$ ~0.66$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712197601410,"data":null}), skip GRT/USDT:USDT
+Place Open Short Market Order: 24.0 ONE/USDT at the price of 0.02771$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712197601645,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 20000.0 SHIB/USDT at the price of 2.6216e-05$ ~0.52$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712197601875,"data":null}), skip SHIB/USDT:USDT
+Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than minimum amount precision of 0.6), skip WAVES/USDT:USDT
+--- End Execution Time : 04/04/2024 02:26:41 ---
