@@ -19927,3 +19927,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Short Market Order: 24.0 ONE/USDT at the price of 0.02752$ ~0.66$
 Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712370181948,"data":null}), skip ONE/USDT:USDT
 --- End Execution Time : 06/04/2024 02:23:02 ---
+--- Start Execution Time : 06/04/2024 03:18:42 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 06/04/2024 03:19:17 ---
