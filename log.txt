@@ -20390,3 +20390,15 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 08/04/2024 05:18:42 ---
+--- Start Execution Time : 08/04/2024 06:23:54 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
+Place Open Long Market Order: 20000.0 SHIB/USDT at the price of 2.8341e-05$ ~0.57$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712557462671,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 08/04/2024 06:24:22 ---
