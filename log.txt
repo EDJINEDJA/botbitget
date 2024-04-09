@@ -20654,3 +20654,12 @@ Place Open Long Market Order: 2.0 GMT/USDT at the price of 0.3271$ ~0.65$
 Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712654398855,"data":null}), skip GMT/USDT:USDT
 Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
 --- End Execution Time : 09/04/2024 09:19:58 ---
+--- Start Execution Time : 09/04/2024 10:21:50 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 09/04/2024 10:22:25 ---
