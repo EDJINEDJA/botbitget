@@ -21379,3 +21379,22 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
 Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
 --- End Execution Time : 12/04/2024 06:23:48 ---
+--- Start Execution Time : 12/04/2024 07:19:02 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.4 APE/USDT at the price of 1.63$ ~0.65$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712906379703,"data":null}), skip APE/USDT:USDT
+Place Open Short Market Order: 0.057 APT/USDT at the price of 11.962$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712906379941,"data":null}), skip APT/USDT:USDT
+Place Open Short Market Order: 1.0 CRV/USDT at the price of 0.6027$ ~0.6$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712906380173,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 2.0 GMT/USDT at the price of 0.2869$ ~0.57$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712906380623,"data":null}), skip GMT/USDT:USDT
+Place Open Short Market Order: 1.7 WOO/USDT at the price of 0.39973$ ~0.68$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1712906380871,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 12/04/2024 07:19:40 ---
