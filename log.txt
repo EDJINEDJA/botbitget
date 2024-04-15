@@ -22061,3 +22061,30 @@ Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Short Market Order: 30000.0 SHIB/USDT at the price of 2.1433e-05$ ~0.64$
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205363273,"data":null}), skip SHIB/USDT:USDT
 --- End Execution Time : 15/04/2024 18:22:43 ---
+--- Start Execution Time : 15/04/2024 19:14:54 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 0.075 APT/USDT at the price of 8.999$ ~0.67$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523157,"data":null}), skip APT/USDT:USDT
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Place Open Short Market Order: 0.1 AXS/USDT at the price of 6.7829$ ~0.68$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523318,"data":null}), skip AXS/USDT:USDT
+Place Open Short Market Order: 1.0 CRV/USDT at the price of 0.417$ ~0.42$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523477,"data":null}), skip CRV/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.828$ ~0.58$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523629,"data":null}), skip FIL/USDT:USDT
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+Place Open Short Market Order: 1.0 MANA/USDT at the price of 0.4211$ ~0.42$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523779,"data":null}), skip MANA/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.4221$ ~0.42$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208523928,"data":null}), skip SAND/USDT:USDT
+Place Open Short Market Order: 2.4 WOO/USDT at the price of 0.2756$ ~0.66$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713208524074,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 15/04/2024 19:15:24 ---
