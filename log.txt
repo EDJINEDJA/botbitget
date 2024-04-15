@@ -22041,3 +22041,23 @@ Place Open Short Market Order: 1.0 FTM/USDT at the price of 0.6663$ ~0.67$
 Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713201308290,"data":null}), skip FTM/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 15/04/2024 17:15:08 ---
+--- Start Execution Time : 15/04/2024 18:22:07 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 2.5 C98/USDT at the price of 0.2709$ ~0.68$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205362417,"data":null}), skip C98/USDT:USDT
+Place Open Short Market Order: 16.0 GALA/USDT at the price of 0.04033$ ~0.65$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205362639,"data":null}), skip GALA/USDT:USDT
+Place Open Short Market Order: 2.0 GMT/USDT at the price of 0.2332$ ~0.47$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205362847,"data":null}), skip GMT/USDT:USDT
+Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
+Place Open Short Market Order: 34.0 ONE/USDT at the price of 0.01959$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205363067,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 30000.0 SHIB/USDT at the price of 2.1433e-05$ ~0.64$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713205363273,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 15/04/2024 18:22:43 ---
