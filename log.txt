@@ -22305,3 +22305,23 @@ Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Short Market Order: 35.0 ONE/USDT at the price of 0.01927$ ~0.67$
 Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713280738823,"data":null}), skip ONE/USDT:USDT
 --- End Execution Time : 16/04/2024 15:18:58 ---
+--- Start Execution Time : 16/04/2024 16:22:52 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.078 APT/USDT at the price of 8.675$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713284608874,"data":null}), skip APT/USDT:USDT
+Place Open Short Market Order: 0.1 AXS/USDT at the price of 6.6537$ ~0.67$
+Error on AXS/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713284609088,"data":null}), skip AXS/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 17.0 GALA/USDT at the price of 0.03923$ ~0.67$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713284609305,"data":null}), skip GALA/USDT:USDT
+Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
+Place Open Short Market Order: 2.5 WOO/USDT at the price of 0.26818$ ~0.67$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713284609522,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 16/04/2024 16:23:29 ---
