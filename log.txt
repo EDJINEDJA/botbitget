@@ -23444,3 +23444,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 32.0 JASMY/USDT at the price of 0.021275$ ~0.68$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713698081362,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 21/04/2024 11:14:41 ---
+--- Start Execution Time : 21/04/2024 12:31:53 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 21/04/2024 12:32:22 ---
