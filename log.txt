@@ -24143,3 +24143,12 @@ Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than 
 Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 24/04/2024 16:22:43 ---
+--- Start Execution Time : 24/04/2024 17:18:01 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 24/04/2024 17:18:37 ---
