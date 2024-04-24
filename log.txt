@@ -24118,3 +24118,28 @@ Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than mini
 Place Open Short Market Order: 2.4 GRT/USDT at the price of 0.27871$ ~0.67$
 Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713972050031,"data":null}), skip GRT/USDT:USDT
 --- End Execution Time : 24/04/2024 15:20:50 ---
+--- Start Execution Time : 24/04/2024 16:22:10 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Place Open Short Market Order: 2.2 C98/USDT at the price of 0.2981$ ~0.66$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713975762888,"data":null}), skip C98/USDT:USDT
+Place Open Short Market Order: 1.0 CRV/USDT at the price of 0.4508$ ~0.45$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713975763084,"data":null}), skip CRV/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Short Market Order: 14.0 GALA/USDT at the price of 0.04851$ ~0.68$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713975763287,"data":null}), skip GALA/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Place Open Short Market Order: 31.0 ONE/USDT at the price of 0.02147$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713975763477,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.4727$ ~0.47$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1713975763650,"data":null}), skip SAND/USDT:USDT
+Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than minimum amount precision of 0.6), skip WAVES/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 24/04/2024 16:22:43 ---
