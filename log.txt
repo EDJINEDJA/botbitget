@@ -25398,3 +25398,20 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 29/04/2024 13:20:45 ---
+--- Start Execution Time : 29/04/2024 14:18:22 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Short Market Order: 0.5 APE/USDT at the price of 1.2359$ ~0.62$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714400334224,"data":null}), skip APE/USDT:USDT
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.778$ ~0.58$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714400334452,"data":null}), skip FIL/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Place Open Short Market Order: 7.0 ROSE/USDT at the price of 0.0924$ ~0.65$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714400334669,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 29/04/2024 14:18:54 ---
