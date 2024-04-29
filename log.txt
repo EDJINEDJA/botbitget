@@ -25321,3 +25321,22 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 29/04/2024 06:25:33 ---
+--- Start Execution Time : 29/04/2024 07:17:30 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Short Market Order: 1.0 CRV/USDT at the price of 0.434$ ~0.43$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714375079611,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.79$ ~0.58$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714375079772,"data":null}), skip FIL/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+Place Open Short Market Order: 38.0 JASMY/USDT at the price of 0.017563$ ~0.67$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714375079937,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 29/04/2024 07:17:59 ---
