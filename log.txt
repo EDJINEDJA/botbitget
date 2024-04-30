@@ -25606,3 +25606,22 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 30/04/2024 07:18:09 ---
+--- Start Execution Time : 30/04/2024 08:23:13 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Error on AXS/USDT:USDT (bitget amount of AXS/USDT:USDT must be greater than minimum amount precision of 0.1), skip AXS/USDT:USDT
+Place Open Short Market Order: 2.4 C98/USDT at the price of 0.2771$ ~0.67$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714465426761,"data":null}), skip C98/USDT:USDT
+Place Open Short Market Order: 15.0 GALA/USDT at the price of 0.04372$ ~0.66$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714465426963,"data":null}), skip GALA/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.437$ ~0.44$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714465427162,"data":null}), skip SAND/USDT:USDT
+Place Open Short Market Order: 20000.0 SHIB/USDT at the price of 2.4149e-05$ ~0.48$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714465427347,"data":null}), skip SHIB/USDT:USDT
+--- End Execution Time : 30/04/2024 08:23:47 ---
