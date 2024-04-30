@@ -25625,3 +25625,27 @@ Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Short Market Order: 20000.0 SHIB/USDT at the price of 2.4149e-05$ ~0.48$
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714465427347,"data":null}), skip SHIB/USDT:USDT
 --- End Execution Time : 30/04/2024 08:23:47 ---
+--- Start Execution Time : 30/04/2024 09:20:57 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Short Market Order: 0.078 APT/USDT at the price of 8.655$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714468891884,"data":null}), skip APT/USDT:USDT
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.723$ ~0.57$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714468892094,"data":null}), skip FIL/USDT:USDT
+Place Open Short Market Order: 1.0 FTM/USDT at the price of 0.6809$ ~0.68$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714468892290,"data":null}), skip FTM/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+Place Open Short Market Order: 39.0 JASMY/USDT at the price of 0.017254$ ~0.67$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714468892494,"data":null}), skip JASMY/USDT:USDT
+Place Open Short Market Order: 7.0 ROSE/USDT at the price of 0.09091$ ~0.64$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714468892743,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 30/04/2024 09:21:32 ---
