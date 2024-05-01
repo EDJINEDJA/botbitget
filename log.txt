@@ -25779,3 +25779,16 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 30/04/2024 23:18:29 ---
+--- Start Execution Time : 01/05/2024 01:22:18 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Short Market Order: 0.079 APT/USDT at the price of 8.625$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714526575930,"data":null}), skip APT/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+--- End Execution Time : 01/05/2024 01:22:56 ---
