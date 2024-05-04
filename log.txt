@@ -26541,3 +26541,17 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 04/05/2024 10:18:10 ---
+--- Start Execution Time : 04/05/2024 11:13:46 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+Place Open Long Market Order: 36.0 JASMY/USDT at the price of 0.018762$ ~0.68$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714821257549,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 04/05/2024 11:14:17 ---
