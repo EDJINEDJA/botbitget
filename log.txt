@@ -26740,3 +26740,14 @@ Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than mini
 Place Open Long Market Order: 20000.0 SHIB/USDT at the price of 2.4868e-05$ ~0.5$
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714897308771,"data":null}), skip SHIB/USDT:USDT
 --- End Execution Time : 05/05/2024 08:21:48 ---
+--- Start Execution Time : 05/05/2024 09:20:03 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
+--- End Execution Time : 05/05/2024 09:20:40 ---
