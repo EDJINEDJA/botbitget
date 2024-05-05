@@ -26801,3 +26801,19 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 05/05/2024 14:16:40 ---
+--- Start Execution Time : 05/05/2024 15:19:15 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Long Market Order: 0.5 APE/USDT at the price of 1.2463$ ~0.62$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714922390910,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 14.0 GALA/USDT at the price of 0.04568$ ~0.64$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714922391119,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4498$ ~0.45$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1714922391335,"data":null}), skip MANA/USDT:USDT
+--- End Execution Time : 05/05/2024 15:19:51 ---
