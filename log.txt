@@ -27071,3 +27071,12 @@ Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 2.2 WOO/USDT at the price of 0.30628$ ~0.67$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005174414,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 06/05/2024 14:19:34 ---
+--- Start Execution Time : 06/05/2024 15:19:08 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 06/05/2024 15:19:42 ---
