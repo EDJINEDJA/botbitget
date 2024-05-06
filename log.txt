@@ -27049,3 +27049,25 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 06/05/2024 13:21:30 ---
+--- Start Execution Time : 06/05/2024 14:18:56 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.5 APE/USDT at the price of 1.2725$ ~0.64$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005173198,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 1.0 CRV/USDT at the price of 0.4465$ ~0.45$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005173424,"data":null}), skip CRV/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+Place Open Long Market Order: 0.1 FIL/USDT at the price of 6.186$ ~0.62$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005173706,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 33.0 ONE/USDT at the price of 0.0206$ ~0.68$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005173952,"data":null}), skip ONE/USDT:USDT
+Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.4562$ ~0.46$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005174179,"data":null}), skip SAND/USDT:USDT
+Place Open Long Market Order: 2.2 WOO/USDT at the price of 0.30628$ ~0.67$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715005174414,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 06/05/2024 14:19:34 ---
