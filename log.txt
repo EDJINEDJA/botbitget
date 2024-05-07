@@ -27423,3 +27423,16 @@ Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than mi
 Place Open Short Market Order: 2.3 WOO/USDT at the price of 0.29513$ ~0.68$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715116615182,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 07/05/2024 21:16:55 ---
+--- Start Execution Time : 07/05/2024 22:17:35 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 1.0 FTM/USDT at the price of 0.6817$ ~0.68$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715120291535,"data":null}), skip FTM/USDT:USDT
+Place Open Short Market Order: 15.0 GALA/USDT at the price of 0.04429$ ~0.66$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715120291758,"data":null}), skip GALA/USDT:USDT
+--- End Execution Time : 07/05/2024 22:18:11 ---
