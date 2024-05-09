@@ -27872,3 +27872,20 @@ Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 32.0 ONE/USDT at the price of 0.02088$ ~0.67$
 Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715271846780,"data":null}), skip ONE/USDT:USDT
 --- End Execution Time : 09/05/2024 16:24:06 ---
+--- Start Execution Time : 09/05/2024 17:16:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.079 APT/USDT at the price of 8.616$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715275020752,"data":null}), skip APT/USDT:USDT
+Place Open Short Market Order: 4.0 DOGE/USDT at the price of 0.147779$ ~0.59$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715275020961,"data":null}), skip DOGE/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Short Market Order: 15.0 GALA/USDT at the price of 0.04325$ ~0.65$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715275021165,"data":null}), skip GALA/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+--- End Execution Time : 09/05/2024 17:17:01 ---
