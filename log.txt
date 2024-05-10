@@ -28136,3 +28136,12 @@ Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Short Market Order: 2.3 WOO/USDT at the price of 0.28573$ ~0.66$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715354352873,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 10/05/2024 15:19:12 ---
+--- Start Execution Time : 10/05/2024 16:24:07 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 10/05/2024 16:24:35 ---
