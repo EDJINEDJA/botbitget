@@ -27965,3 +27965,18 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 10/05/2024 01:19:43 ---
+--- Start Execution Time : 10/05/2024 02:33:04 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Error on AXS/USDT:USDT (bitget amount of AXS/USDT:USDT must be greater than minimum amount precision of 0.1), skip AXS/USDT:USDT
+Place Open Long Market Order: 1.0 CRV/USDT at the price of 0.4451$ ~0.45$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715308420177,"data":null}), skip CRV/USDT:USDT
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+Error on KSM/USDT:USDT (bitget amount of KSM/USDT:USDT must be greater than minimum amount precision of 0.1), skip KSM/USDT:USDT
+--- End Execution Time : 10/05/2024 02:33:40 ---
