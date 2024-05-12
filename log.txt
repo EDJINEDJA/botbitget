@@ -28580,3 +28580,13 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Short Market Order: 0.5 APE/USDT at the price of 1.213$ ~0.61$
 Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715509106480,"data":null}), skip APE/USDT:USDT
 --- End Execution Time : 12/05/2024 10:18:26 ---
+--- Start Execution Time : 12/05/2024 11:15:00 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than minimum amount precision of 1), skip FTM/USDT:USDT
+--- End Execution Time : 12/05/2024 11:15:33 ---
