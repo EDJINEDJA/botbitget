@@ -28863,3 +28863,16 @@ USD balance : 6.82 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than minimum amount precision of 1), skip FTM/USDT:USDT
 --- End Execution Time : 13/05/2024 11:15:58 ---
+--- Start Execution Time : 13/05/2024 12:35:20 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.5 APE/USDT at the price of 1.19$ ~0.59$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715603752852,"data":null}), skip APE/USDT:USDT
+Place Open Short Market Order: 0.082 APT/USDT at the price of 8.251$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715603753044,"data":null}), skip APT/USDT:USDT
+--- End Execution Time : 13/05/2024 12:35:53 ---
