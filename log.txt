@@ -29002,3 +29002,20 @@ Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Short Market Order: 1.0 MATIC/USDT at the price of 0.6642$ ~0.66$
 Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715638739296,"data":null}), skip MATIC/USDT:USDT
 --- End Execution Time : 13/05/2024 22:18:59 ---
+--- Start Execution Time : 13/05/2024 23:18:23 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 1.0 CRV/USDT at the price of 0.4155$ ~0.42$
+Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715642338829,"data":null}), skip CRV/USDT:USDT
+Place Open Short Market Order: 16.0 GALA/USDT at the price of 0.0411$ ~0.66$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715642339070,"data":null}), skip GALA/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.4155$ ~0.42$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715642339304,"data":null}), skip SAND/USDT:USDT
+Place Open Short Market Order: 2.5 WOO/USDT at the price of 0.27012$ ~0.68$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715642339541,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 13/05/2024 23:18:59 ---
