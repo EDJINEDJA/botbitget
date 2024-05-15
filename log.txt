@@ -29439,3 +29439,16 @@ Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than mini
 Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 15/05/2024 13:21:28 ---
+--- Start Execution Time : 15/05/2024 14:18:37 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 2.3 GRT/USDT at the price of 0.29064$ ~0.67$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715782753594,"data":null}), skip GRT/USDT:USDT
+Place Open Long Market Order: 36.0 JASMY/USDT at the price of 0.018772$ ~0.68$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715782753827,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 15/05/2024 14:19:13 ---
