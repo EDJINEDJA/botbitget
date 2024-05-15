@@ -29403,3 +29403,27 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Short Market Order: 2.6 WOO/USDT at the price of 0.25976$ ~0.68$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715771765606,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 15/05/2024 11:16:05 ---
+--- Start Execution Time : 15/05/2024 12:36:28 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Error on AXS/USDT:USDT (bitget amount of AXS/USDT:USDT must be greater than minimum amount precision of 0.1), skip AXS/USDT:USDT
+Place Open Short Market Order: 2.7 C98/USDT at the price of 0.2516$ ~0.68$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776624145,"data":null}), skip C98/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Short Market Order: 1.0 FTM/USDT at the price of 0.6756$ ~0.68$
+Error on FTM/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776624383,"data":null}), skip FTM/USDT:USDT
+Place Open Short Market Order: 3.0 GMT/USDT at the price of 0.2092$ ~0.63$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776624594,"data":null}), skip GMT/USDT:USDT
+Place Open Short Market Order: 1.0 MATIC/USDT at the price of 0.6666$ ~0.67$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776624803,"data":null}), skip MATIC/USDT:USDT
+Place Open Short Market Order: 35.0 ONE/USDT at the price of 0.01902$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776625018,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.417$ ~0.42$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715776625249,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 15/05/2024 12:37:05 ---
