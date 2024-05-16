@@ -29635,3 +29635,12 @@ Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than mi
 Place Open Long Market Order: 33.0 JASMY/USDT at the price of 0.020321$ ~0.67$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715854802943,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 16/05/2024 10:20:03 ---
+--- Start Execution Time : 16/05/2024 11:17:00 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 16/05/2024 11:17:34 ---
