@@ -29847,3 +29847,12 @@ Place Open Long Market Order: 20000.0 SHIB/USDT at the price of 2.4846e-05$ ~0.5
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1715934229510,"data":null}), skip SHIB/USDT:USDT
 Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
 --- End Execution Time : 17/05/2024 08:23:49 ---
+--- Start Execution Time : 17/05/2024 09:20:44 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 17/05/2024 09:21:15 ---
