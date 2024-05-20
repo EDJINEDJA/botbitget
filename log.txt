@@ -30692,3 +30692,20 @@ Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4381$ ~0.44$
 Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716225565867,"data":null}), skip MANA/USDT:USDT
 Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
 --- End Execution Time : 20/05/2024 17:19:25 ---
+--- Start Execution Time : 20/05/2024 18:24:37 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AAVE/USDT:USDT (bitget amount of AAVE/USDT:USDT must be greater than minimum amount precision of 0.1), skip AAVE/USDT:USDT
+Place Open Long Market Order: 0.079 APT/USDT at the price of 8.602$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716229512060,"data":null}), skip APT/USDT:USDT
+Place Open Long Market Order: 14.0 GALA/USDT at the price of 0.04701$ ~0.66$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716229512268,"data":null}), skip GALA/USDT:USDT
+Error on KSM/USDT:USDT (bitget amount of KSM/USDT:USDT must be greater than minimum amount precision of 0.1), skip KSM/USDT:USDT
+Place Open Long Market Order: 2.2 WOO/USDT at the price of 0.30931$ ~0.68$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716229512481,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 20/05/2024 18:25:12 ---
