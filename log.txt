@@ -31156,3 +31156,19 @@ Place Open Long Market Order: 4.0 DOGE/USDT at the price of 0.166328$ ~0.67$
 Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716391294856,"data":null}), skip DOGE/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 22/05/2024 15:21:34 ---
+--- Start Execution Time : 22/05/2024 16:25:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.074 APT/USDT at the price of 9.15$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716395140660,"data":null}), skip APT/USDT:USDT
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Place Open Long Market Order: 20000.0 SHIB/USDT at the price of 2.5628e-05$ ~0.51$
+Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716395140835,"data":null}), skip SHIB/USDT:USDT
+Place Open Long Market Order: 2.0 WOO/USDT at the price of 0.33547$ ~0.67$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716395140987,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 22/05/2024 16:25:41 ---
