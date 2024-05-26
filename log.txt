@@ -31956,3 +31956,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4686$ ~0.47$
 Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716686802849,"data":null}), skip MANA/USDT:USDT
 --- End Execution Time : 26/05/2024 01:26:42 ---
+--- Start Execution Time : 26/05/2024 02:33:39 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 26/05/2024 02:34:07 ---
