@@ -32335,3 +32335,25 @@ Place Open Long Market Order: 3.0 DOGE/USDT at the price of 0.171986$ ~0.52$
 Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716823293150,"data":null}), skip DOGE/USDT:USDT
 Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
 --- End Execution Time : 27/05/2024 15:21:33 ---
+--- Start Execution Time : 27/05/2024 16:22:58 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 0.5 APE/USDT at the price of 1.3406$ ~0.67$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716827013595,"data":null}), skip APE/USDT:USDT
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Place Open Long Market Order: 2.0 GRT/USDT at the price of 0.32897$ ~0.66$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716827013828,"data":null}), skip GRT/USDT:USDT
+Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4679$ ~0.47$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716827014055,"data":null}), skip MANA/USDT:USDT
+Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.4632$ ~0.46$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716827014279,"data":null}), skip SAND/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
+Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than minimum amount precision of 0.6), skip WAVES/USDT:USDT
+Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
+--- End Execution Time : 27/05/2024 16:23:34 ---
