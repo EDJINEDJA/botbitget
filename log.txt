@@ -32303,3 +32303,23 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 27/05/2024 13:22:04 ---
+--- Start Execution Time : 27/05/2024 14:17:32 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Long Market Order: 0.1 FIL/USDT at the price of 6.017$ ~0.6$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716819484479,"data":null}), skip FIL/USDT:USDT
+Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than minimum amount precision of 1), skip FTM/USDT:USDT
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+Place Open Long Market Order: 15.0 GALA/USDT at the price of 0.04468$ ~0.67$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716819484666,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 2.0 GMT/USDT at the price of 0.2405$ ~0.48$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716819484861,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 7.0 ROSE/USDT at the price of 0.09104$ ~0.64$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716819485053,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 27/05/2024 14:18:05 ---
