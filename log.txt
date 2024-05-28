@@ -32454,3 +32454,25 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 28/05/2024 02:33:17 ---
+--- Start Execution Time : 28/05/2024 03:21:23 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.5 APE/USDT at the price of 1.3295$ ~0.66$
+Error on APE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866517782,"data":null}), skip APE/USDT:USDT
+Place Open Long Market Order: 0.1 FIL/USDT at the price of 5.966$ ~0.6$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866517990,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 15.0 GALA/USDT at the price of 0.04492$ ~0.67$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866518198,"data":null}), skip GALA/USDT:USDT
+Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4611$ ~0.46$
+Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866518406,"data":null}), skip MANA/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Place Open Long Market Order: 29.0 ONE/USDT at the price of 0.02286$ ~0.66$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866518617,"data":null}), skip ONE/USDT:USDT
+Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.454$ ~0.45$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866518836,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 28/05/2024 03:21:58 ---
