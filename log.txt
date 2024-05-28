@@ -32476,3 +32476,12 @@ Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.454$ ~0.45$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716866518836,"data":null}), skip SAND/USDT:USDT
 --- End Execution Time : 28/05/2024 03:21:58 ---
+--- Start Execution Time : 28/05/2024 04:24:26 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 28/05/2024 04:25:00 ---
