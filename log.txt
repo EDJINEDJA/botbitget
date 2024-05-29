@@ -32745,3 +32745,16 @@ Place Open Long Market Order: 1.0 MANA/USDT at the price of 0.4649$ ~0.46$
 Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716959987298,"data":null}), skip MANA/USDT:USDT
 Error on EGLD/USDT:USDT (bitget amount of EGLD/USDT:USDT must be greater than minimum amount precision of 0.1), skip EGLD/USDT:USDT
 --- End Execution Time : 29/05/2024 05:19:47 ---
+--- Start Execution Time : 29/05/2024 06:26:03 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 2.0 GMT/USDT at the price of 0.243$ ~0.49$
+Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716963998051,"data":null}), skip GMT/USDT:USDT
+Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.4607$ ~0.46$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1716963998267,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 29/05/2024 06:26:38 ---
