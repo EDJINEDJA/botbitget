@@ -33301,3 +33301,21 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 31/05/2024 13:20:51 ---
+--- Start Execution Time : 31/05/2024 14:17:11 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.754$ ~0.58$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717165064416,"data":null}), skip FIL/USDT:USDT
+Place Open Short Market Order: 15.0 GALA/USDT at the price of 0.04282$ ~0.64$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717165064590,"data":null}), skip GALA/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.4332$ ~0.43$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717165064781,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 31/05/2024 14:17:44 ---
