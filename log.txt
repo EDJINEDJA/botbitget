@@ -33483,3 +33483,12 @@ Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.769$ ~0.58$
 Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717230209644,"data":null}), skip FIL/USDT:USDT
 Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than minimum amount precision of 1), skip FTM/USDT:USDT
 --- End Execution Time : 01/06/2024 08:23:29 ---
+--- Start Execution Time : 01/06/2024 09:21:42 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 01/06/2024 09:22:10 ---
