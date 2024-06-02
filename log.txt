@@ -33689,3 +33689,12 @@ Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.4491$ ~0.45$
 Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717305509030,"data":null}), skip SAND/USDT:USDT
 --- End Execution Time : 02/06/2024 05:18:29 ---
+--- Start Execution Time : 02/06/2024 06:26:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 02/06/2024 06:26:44 ---
