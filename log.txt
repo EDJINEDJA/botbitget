@@ -33774,3 +33774,14 @@ Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than mini
 Place Open Long Market Order: 2.0 GMT/USDT at the price of 0.2404$ ~0.48$
 Error on GMT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717331627869,"data":null}), skip GMT/USDT:USDT
 --- End Execution Time : 02/06/2024 12:33:47 ---
+--- Start Execution Time : 02/06/2024 13:19:12 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AVAX/USDT:USDT (bitget amount of AVAX/USDT:USDT must be greater than minimum amount precision of 0.1), skip AVAX/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
+--- End Execution Time : 02/06/2024 13:19:44 ---
