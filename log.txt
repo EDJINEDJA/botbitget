@@ -34082,3 +34082,20 @@ Place Open Short Market Order: 20000.0 SHIB/USDT at the price of 2.4821e-05$ ~0.
 Error on SHIB/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717428103970,"data":null}), skip SHIB/USDT:USDT
 Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
 --- End Execution Time : 03/06/2024 15:21:44 ---
+--- Start Execution Time : 03/06/2024 16:24:18 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Place Open Long Market Order: 2.5 C98/USDT at the price of 0.2695$ ~0.67$
+Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717431896072,"data":null}), skip C98/USDT:USDT
+Place Open Long Market Order: 4.0 DOGE/USDT at the price of 0.160203$ ~0.64$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717431896308,"data":null}), skip DOGE/USDT:USDT
+Error on KSM/USDT:USDT (bitget amount of KSM/USDT:USDT must be greater than minimum amount precision of 0.1), skip KSM/USDT:USDT
+Place Open Long Market Order: 6.0 ROSE/USDT at the price of 0.10413$ ~0.62$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717431896545,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 03/06/2024 16:24:56 ---
