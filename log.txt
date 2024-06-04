@@ -34272,3 +34272,17 @@ USD balance : 6.82 $
 0 active positions ([])
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 --- End Execution Time : 04/06/2024 08:24:21 ---
+--- Start Execution Time : 04/06/2024 09:22:03 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 4.0 DOGE/USDT at the price of 0.157455$ ~0.63$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717492950944,"data":null}), skip DOGE/USDT:USDT
+Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
+Place Open Short Market Order: 2.1 WOO/USDT at the price of 0.31688$ ~0.67$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717492951087,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 04/06/2024 09:22:31 ---
