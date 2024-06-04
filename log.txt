@@ -34286,3 +34286,15 @@ Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than mini
 Place Open Short Market Order: 2.1 WOO/USDT at the price of 0.31688$ ~0.67$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717492951087,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 04/06/2024 09:22:31 ---
+--- Start Execution Time : 04/06/2024 10:21:05 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.749$ ~0.57$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717496493609,"data":null}), skip FIL/USDT:USDT
+Error on ETC/USDT:USDT (bitget amount of ETC/USDT:USDT must be greater than minimum amount precision of 1), skip ETC/USDT:USDT
+--- End Execution Time : 04/06/2024 10:21:33 ---
