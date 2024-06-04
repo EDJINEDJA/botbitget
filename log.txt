@@ -34338,3 +34338,16 @@ Error on MANA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 16.0 JASMY/USDT at the price of 0.040741$ ~0.65$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717510734369,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 04/06/2024 14:18:54 ---
+--- Start Execution Time : 04/06/2024 15:20:54 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Long Market Order: 0.1 FIL/USDT at the price of 5.93$ ~0.59$
+Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717514492254,"data":null}), skip FIL/USDT:USDT
+Place Open Long Market Order: 29.0 ONE/USDT at the price of 0.02285$ ~0.66$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717514492488,"data":null}), skip ONE/USDT:USDT
+--- End Execution Time : 04/06/2024 15:21:32 ---
