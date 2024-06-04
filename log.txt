@@ -34227,3 +34227,19 @@ Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 6.0 ROSE/USDT at the price of 0.10927$ ~0.66$
 Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717474974839,"data":null}), skip ROSE/USDT:USDT
 --- End Execution Time : 04/06/2024 04:22:54 ---
+--- Start Execution Time : 04/06/2024 05:22:36 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 4.0 DOGE/USDT at the price of 0.158543$ ~0.63$
+Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717478584396,"data":null}), skip DOGE/USDT:USDT
+Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
+Place Open Short Market Order: 2.3 GRT/USDT at the price of 0.29482$ ~0.68$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717478584544,"data":null}), skip GRT/USDT:USDT
+Place Open Long Market Order: 30.0 ONE/USDT at the price of 0.02228$ ~0.67$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717478584693,"data":null}), skip ONE/USDT:USDT
+--- End Execution Time : 04/06/2024 05:23:04 ---
