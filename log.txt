@@ -34429,3 +34429,15 @@ Place Open Long Market Order: 4.0 DOGE/USDT at the price of 0.1604$ ~0.64$
 Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717535910636,"data":null}), skip DOGE/USDT:USDT
 Error on KSM/USDT:USDT (bitget amount of KSM/USDT:USDT must be greater than minimum amount precision of 0.1), skip KSM/USDT:USDT
 --- End Execution Time : 04/06/2024 21:18:30 ---
+--- Start Execution Time : 04/06/2024 22:19:53 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 5.0 ROSE/USDT at the price of 0.11543$ ~0.58$
+Error on ROSE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717539621827,"data":null}), skip ROSE/USDT:USDT
+--- End Execution Time : 04/06/2024 22:20:21 ---
