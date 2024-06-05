@@ -34456,3 +34456,16 @@ Error on DOGE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amo
 Place Open Long Market Order: 14.0 GALA/USDT at the price of 0.04642$ ~0.65$
 Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717543255090,"data":null}), skip GALA/USDT:USDT
 --- End Execution Time : 04/06/2024 23:20:55 ---
+--- Start Execution Time : 05/06/2024 01:21:44 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BTC/USDT:USDT (bitget amount of BTC/USDT:USDT must be greater than minimum amount precision of 0.001), skip BTC/USDT:USDT
+Error on ETH/USDT:USDT (bitget amount of ETH/USDT:USDT must be greater than minimum amount precision of 0.01), skip ETH/USDT:USDT
+Place Open Long Market Order: 2.0 WOO/USDT at the price of 0.32714$ ~0.65$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717550539850,"data":null}), skip WOO/USDT:USDT
+--- End Execution Time : 05/06/2024 01:22:19 ---
