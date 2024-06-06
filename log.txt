@@ -34712,3 +34712,12 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Long Market Order: 1.0 CRV/USDT at the price of 0.4706$ ~0.47$
 Error on CRV/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717641225447,"data":null}), skip CRV/USDT:USDT
 --- End Execution Time : 06/06/2024 02:33:45 ---
+--- Start Execution Time : 06/06/2024 03:22:13 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 06/06/2024 03:22:44 ---
