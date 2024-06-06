@@ -34907,3 +34907,16 @@ Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Place Open Short Market Order: 2.3 GRT/USDT at the price of 0.29325$ ~0.67$
 Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717705322270,"data":null}), skip GRT/USDT:USDT
 --- End Execution Time : 06/06/2024 20:22:02 ---
+--- Start Execution Time : 06/06/2024 21:19:09 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on AXS/USDT:USDT (bitget amount of AXS/USDT:USDT must be greater than minimum amount precision of 0.1), skip AXS/USDT:USDT
+Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
+Place Open Long Market Order: 1.0 SAND/USDT at the price of 0.472$ ~0.47$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717708784572,"data":null}), skip SAND/USDT:USDT
+--- End Execution Time : 06/06/2024 21:19:44 ---
