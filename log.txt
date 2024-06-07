@@ -34989,3 +34989,17 @@ USD balance : 6.82 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on MATIC/USDT:USDT (bitget amount of MATIC/USDT:USDT must be greater than minimum amount precision of 1), skip MATIC/USDT:USDT
 --- End Execution Time : 07/06/2024 05:20:06 ---
+--- Start Execution Time : 07/06/2024 06:27:22 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+Place Open Long Market Order: 2.0 WOO/USDT at the price of 0.33707$ ~0.67$
+Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717741676148,"data":null}), skip WOO/USDT:USDT
+Place Open Long Market Order: 15.0 JASMY/USDT at the price of 0.043815$ ~0.66$
+Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717741676345,"data":null}), skip JASMY/USDT:USDT
+--- End Execution Time : 07/06/2024 06:27:56 ---
