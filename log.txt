@@ -35003,3 +35003,14 @@ Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amou
 Place Open Long Market Order: 15.0 JASMY/USDT at the price of 0.043815$ ~0.66$
 Error on JASMY/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717741676345,"data":null}), skip JASMY/USDT:USDT
 --- End Execution Time : 07/06/2024 06:27:56 ---
+--- Start Execution Time : 07/06/2024 07:18:00 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 2.3 GRT/USDT at the price of 0.29423$ ~0.68$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717744710588,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 07/06/2024 07:18:30 ---
