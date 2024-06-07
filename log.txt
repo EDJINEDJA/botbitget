@@ -35069,3 +35069,17 @@ USD balance : 6.82 $
 Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
 Error on DOT/USDT:USDT (bitget amount of DOT/USDT:USDT must be greater than minimum amount precision of 1), skip DOT/USDT:USDT
 --- End Execution Time : 07/06/2024 12:38:02 ---
+--- Start Execution Time : 07/06/2024 13:22:47 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Error on FTM/USDT:USDT (bitget amount of FTM/USDT:USDT must be greater than minimum amount precision of 1), skip FTM/USDT:USDT
+Place Open Short Market Order: 15.0 GALA/USDT at the price of 0.04479$ ~0.67$
+Error on GALA/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717766603222,"data":null}), skip GALA/USDT:USDT
+Place Open Short Market Order: 2.3 GRT/USDT at the price of 0.29435$ ~0.68$
+Error on GRT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1717766603433,"data":null}), skip GRT/USDT:USDT
+--- End Execution Time : 07/06/2024 13:23:23 ---
