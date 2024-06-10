@@ -35741,3 +35741,12 @@ Place Open Short Market Order: 2.8 C98/USDT at the price of 0.2385$ ~0.67$
 Error on C98/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718007956330,"data":null}), skip C98/USDT:USDT
 Error on DYDX/USDT:USDT (bitget amount of DYDX/USDT:USDT must be greater than minimum amount precision of 1), skip DYDX/USDT:USDT
 --- End Execution Time : 10/06/2024 08:25:56 ---
+--- Start Execution Time : 10/06/2024 09:22:34 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 10/06/2024 09:23:01 ---
