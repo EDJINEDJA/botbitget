@@ -36469,3 +36469,23 @@ Error on AXS/USDT:USDT (bitget amount of AXS/USDT:USDT must be greater than mini
 Place Open Short Market Order: 0.1 FIL/USDT at the price of 5.468$ ~0.55$
 Error on FIL/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718260027921,"data":null}), skip FIL/USDT:USDT
 --- End Execution Time : 13/06/2024 06:27:08 ---
+--- Start Execution Time : 13/06/2024 07:17:58 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+Place Open Short Market Order: 0.085 APT/USDT at the price of 7.971$ ~0.68$
+Error on APT/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718263112146,"data":null}), skip APT/USDT:USDT
+Error on BNB/USDT:USDT (bitget amount of BNB/USDT:USDT must be greater than minimum amount precision of 0.01), skip BNB/USDT:USDT
+Place Open Short Market Order: 1.0 MATIC/USDT at the price of 0.6287$ ~0.63$
+Error on MATIC/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718263112360,"data":null}), skip MATIC/USDT:USDT
+Error on NEAR/USDT:USDT (bitget amount of NEAR/USDT:USDT must be greater than minimum amount precision of 1), skip NEAR/USDT:USDT
+Place Open Short Market Order: 38.0 ONE/USDT at the price of 0.01789$ ~0.68$
+Error on ONE/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718263112573,"data":null}), skip ONE/USDT:USDT
+Place Open Short Market Order: 1.0 SAND/USDT at the price of 0.399$ ~0.4$
+Error on SAND/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718263112775,"data":null}), skip SAND/USDT:USDT
+Error on SOL/USDT:USDT (bitget amount of SOL/USDT:USDT must be greater than minimum amount precision of 0.1), skip SOL/USDT:USDT
+--- End Execution Time : 13/06/2024 07:18:32 ---
