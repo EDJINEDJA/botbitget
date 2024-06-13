@@ -36615,3 +36615,12 @@ Error on WAVES/USDT:USDT (bitget amount of WAVES/USDT:USDT must be greater than 
 Place Open Short Market Order: 2.5 WOO/USDT at the price of 0.26318$ ~0.66$
 Error on WOO/USDT:USDT (bitget {"code":"45110","msg":"less than the minimum amount 5 USDT","requestTime":1718295978537,"data":null}), skip WOO/USDT:USDT
 --- End Execution Time : 13/06/2024 16:26:18 ---
+--- Start Execution Time : 13/06/2024 17:17:57 ---
+--- Bollinger Trend on bitget_exemple -- 32 tokens 1h Leverage x2 ---
+Data OHLCV loaded 100%
+Indicators loaded 100%
+Value At Risk loaded 100%
+USD balance : 6.82 $
+0 active positions ([])
+Current VaR rsik 1 period: - 0%, LONG exposition 0%, SHORT exposition 0%
+--- End Execution Time : 13/06/2024 17:18:32 ---
